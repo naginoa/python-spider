@@ -1,0 +1,2431 @@
+<!doctype html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="mobile-agent" content="format=xhtml;url=http://m.2345.com">
+<meta name="Description" content="2345.com热门网址导航站网罗精彩实用网址，如音乐、小说、NBA、财经、购物、视频、软件及热门游戏网址大全等，提供了多种搜索引擎入口、实用查询、天气预报、个性定制等实用功能，帮助广大网友畅游网络更轻松。" />
+<meta itemprop="name" content="2345网址导航－开创中国百年品牌（已创建11年零9个月）">
+<meta itemprop="description" content="2345.com热门网址导航站网罗精彩实用网址，如音乐、小说、NBA、财经、购物、视频、软件及热门游戏网址大全等，提供了多种搜索引擎入口、实用查询、天气预报、个性定制等实用功能，帮助广大网友畅游网络更轻松。">
+<meta itemprop="image" content="http://www.2345.com/images/logo/logo_QQ.png">
+<meta name="coninfo" content="U2FsdGVkX1" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta name="referrer" content="always">
+<link rel="dns-prefetch" href="https://union2.50bang.org">
+<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
+<title>2345网址导航－开创中国百年品牌（已创建11年零9个月）</title>
+<base target="_blank" />
+<script type="text/javascript" src="css/common_20170410.js?v=4.1"></script>
+<noscript><link href="/css/index_v10_20170605_01.css" rel="stylesheet" type="text/css"/></noscript>
+<script  type="text/javascript" > 
+var $CONFIG = {}; 
+var search = location.search;
+$CONFIG['baseStyleVer'] = 'v10_20170605_01';  //基础样式版本号 
+$CONFIG['mystyleVer'] = '20160830';  //设置页面版本号
+$CONFIG['zhutiVer'] = '0502';  //套装版本号
+$CONFIG['skinVer'] = '0315';  //皮肤版本号
+$CONFIG['sitesPopupVer'] = '20160816'; //云收藏弹层版本号
+$CONFIG['sitesDataVer'] = '20151125'; //云收藏推荐网址版本号
+$CONFIG['wideScreen'] = false; //是否为宽屏
+$CONFIG['tmallVer'] = 'kz_tmall_20160713';  //天猫商城动画图
+$CONFIG['pushZhuti'] = 0; //推荐皮肤 有推荐的时候为主题对应id 不推荐则为0
+$CONFIG['jsVersion'] = {}; //js版本
+$CONFIG['ipUrl'] = false; //
+$CONFIG['isConfig'] = true;
+$CONFIG['tn'] = 'site888_3_pg';
+$CONFIG['isJump'] = false;
+$CONFIG['isbdJump'] = false;
+$CONFIG['channel'] = 'cu1000004';
+$CONFIG['So'] = false;
+$CONFIG['pure'] = search === '' ? true : false;
+$CONFIG['kvictor5566'] = (search.substring(1) === 'kvictor5566') || (search.substring(1) === 'k95154726');
+var navigationStart = new Date().getTime();
+//宽屏
+(function(doc){try{cookieStore.init();var isWide=cookieStore.get('sts'),tl=top.location;$CONFIG['isFristVisit']=!isWide;if(tl===self.location||tl.href.indexOf(main)!==-1){if(screen.width>=1920&&!isWide){cookieStore.set({name:'sts',val:'1'})}else if((screen.width>=1000&&screen.width<1920)&&!isWide){cookieStore.set({name:'sts',val:'0'})}}if(cookieStore.get('sts')==='1'){$CONFIG['wideScreen']=true}}catch(e){}finally{if($CONFIG['wideScreen']){doc.documentElement.className='wideScreen';doc.write('<link  href="css/indexw_'+$CONFIG['baseStyleVer']+'.css?v=5.28.2" rel="stylesheet" type="text/css" />')}else{doc.write('<link  href="css/index_'+$CONFIG['baseStyleVer']+'.css?v=5.28.1" rel="stylesheet" type="text/css" />')}}var webhost=document.domain,re=/^(\d+)\.(\d+)\.(\d+)\.(\d+)$/;if(re.test(webhost)){$CONFIG['ipUrl']=true}stopXpNum='';for(var i=0;i<6;i++){stopXpNum+=Math.floor(Math.random()*10)}}(document));
+</script>
+</head>
+<body onmouseout="window.status='如果您喜欢2345网址导航，请推荐给您身边的朋友！';return true">
+<style type="text/css">
+.s11-txt-qiang{color:#ef1717;font-weight:bold;*zoom:1;}
+.s11-txt-qiang img{position:relative;*top:-3px;}
+
+.event-list li{padding-left:10px;}
+.event-list li i{margin-left:8px;margin-right:8px;}
+.wideScreen .event-list li{padding-left:12px;}
+.wideScreen .event-list li i{margin-left:12px;margin-right:12px;}
+
+.mz-list .item-nohover .pic-piece-1:hover{background-position:0 0;}
+
+.mz-list .txt-mz32{color:#ff101e;font-weight:bold;font-family:Microsoft YaHei;text-decoration:underline;}
+.mz-list .txt-mz32:hover{color:#d7000d;}
+
+.mod-fixNav .activity-trig {display:block;margin-bottom:3px;margin-left:16px;width:80px;height:100px;overflow:hidden;background:url(images/lvy/side_170527.png) no-repeat;}
+
+/*mz 170306*/
+.homeweb_txt_4{left:580px;}
+.wideScreen .homeweb_txt_4{left:714px;}
+.homeweb_txt_5{top:62px;left:340px;}
+.wideScreen .homeweb_txt_5{left:418px;}
+</style>
+<input type="hidden" name="_ieStore" id="_ieStore" style="BEHAVIOR:url(#default#userData)" />
+<script  type="text/javascript" > 
+(function(exports){storeUtil.init();T.initLocalStorage();exports._active=undefined;T._CC_=null;})(this);
+(function(){
+	if (!localStorage.getItem('bdTn0524')){
+		localStorage.setItem('bdTn','');
+		localStorage.setItem('bdTn0524',1);
+	}
+	var searchSet = ['36985','k86885','k1969364','23024-0044','21145','23024-0160','16937','23024-0058','23024-0113','23024-0052','23024-0091','23024-0007','23024-0061','23024-0010','8787','23024-0158','23024-0063','23024-0095','23024-0033','23024-0022','33883','23024-0018','23024-0032','23024-0108','23024-0092','33557-0003','23024-0109','23024-0051','23024-0176','23024-0055','31344','23024-0011','23024-0099','33557-0018','23024-0085','12391','23024-0003','33557-0040','33557-0026'];
+	var search = location.search.substring(1);
+
+	function contains(arr, obj) {  
+		var i = arr.length;  
+		while (i--) {  
+			if (arr[i] === obj) {  
+				return true;  
+			}  
+		}  
+		return false;  
+	}
+
+	if (contains(searchSet,search)){
+	    $CONFIG['channel'] = 'cu1000149';
+	}
+
+	var url = location.href;
+
+	var	urlSet = {
+			'25017023_pg' : [/\?90134-00001$/.test(url),'cu1000051'],
+			'25017023_2_pg' : [/\?desk$/.test(url),'cu1000051'],
+			'25017023_6_pg' : [/\?37297/.test(url),'cu1000051'],
+			'25017023_4_pg' : [/\?35803-0006$/.test(url),'cu1000051'],
+			'25017023_3_pg' : [/\?k[a-z]{1}[0-9]*p$|\?k[0-9]*yibang$|\?9[0-9]{4}-[0-9]{5}$/.test(url),'cu1000051']
+		};
+
+	for (var tn in urlSet){
+		if (urlSet[tn][0] === true){
+			$CONFIG['tn'] = tn;
+			$CONFIG['isbdJump'] = true;
+			break;
+		}
+	}
+
+	if ($CONFIG['isbdJump'] === true){
+	    return;
+	}
+
+	var bdTn = localStorage.getItem('bdTn');
+	var tnValue = '',tnType = '';
+	if (bdTn && typeof bdTn === 'string'){
+		tnValue = bdTn.slice(0,-3);
+		tnType = bdTn.slice(-2);
+		if (tnType === 'yz'){
+		    $CONFIG['isJump'] = true;
+			$CONFIG['tn'] = tnValue;
+		}
+	} else {
+		var tns = ['0','1','2','3','4','5','6','7','8','9','a'];
+		var ratio = [1,2,1,1,1,1,1,1,1,1,2];
+		if (ratio[0] !== undefined){
+			for (var i_ = 0,l_ = ratio.length,s_ = '';i_ < l_;i_++){
+				s_ += (new Array(ratio[i_] + 1)).join(tns[i_]);
+			}
+			tns = s_.split('').concat(tns.slice(l_));
+		}
+		
+		var tnLen = 50;
+		tnLen = tnLen > tns.length ? tnLen : tns.length;
+
+		$CONFIG['tn'] = tns[Math.floor(Math.random() * tnLen)];
+
+		if ($CONFIG['tn'] === undefined){
+			$CONFIG['tn'] = 'site888_3_pg';
+			localStorage.setItem('bdTn',$CONFIG['tn']+',bd');
+		} else {
+			$CONFIG['isJump'] = true;
+			localStorage.setItem('bdTn',$CONFIG['tn']+',yz');
+		}
+	}
+})();
+//移动设备
+(function(){if(location.search==='?refer=dontgoout'){return}var ua=navigator.userAgent,mobileAgents=['Windows CE','iPod','Symbian','iPhone','BlackBerry','Android','Windows Phone','webOS','UCWEB','iPh',"dream","CUPCAKE","blackberry9500","blackberry9530","blackberry9520","blackberry9550","blackberry9800","incognito","webmate","s8000","bada","Meizu M8","LG-TU915 Obigo","LGE VX","Nokia5800","IEMobile"];for(var i=0;i<mobileAgents.length;i++){if(ua.indexOf(mobileAgents[i])!==-1){location.href='http://m.2345.com/';return}}}());
+</script>
+
+<!-- tip_stopXP -->
+<script> 
+document.write('<div class="tip_stopXP"  id="J_tip_stopXP'+ stopXpNum +'" style="display:none;"><div class="inner"><ins class="e_ico"></ins><span id="J_stopXP_inner"></span><a style="position: absolute;right:21px;top:0px;color:#666;text-decoration:none;" href="#" title="关闭">不再提示</a><a href="#" title="关闭" class="e_close"></a></div></div>');
+</script>
+<!-- tip_stopXP / -->
+
+<!--tip_showzoom begin-->
+<div class="tip_showzoom" id="J_showzoom" style="display:none;">
+	<div class="inner">
+		<span class="cont">当前页面处于缩放状态，为了不影响使用，请尝试同时按住键盘上的<i>“ </i><strong>Ctrl</strong><i> ”</i>+ <i>“</i><strong> 数字0 </strong><i>”</i>恢复，并按F5刷新页面</span>
+		<a class="close" href="javascript:void(0);" onClick="$('J_showzoom').style.display='none';localStorage.setItem('zoomTips',1);return false;" target="_self"></a>
+	</div>
+</div>
+
+<!--tip_showzoom end-->
+
+<!-- top -->
+<div class="top_w"><div class="top">
+<ul class="top_right">
+<li class="p_area" id="userct4"><strong><a href="http://www.2345.com/product/" id="userct4_a">2345旗下产品</a></strong></li>
+<li><font>|</font></li>
+<li id="J_set" style="display:none;"><strong><a href="javascript:void(1);" onClick="mystyleInit.show(4);clickCount('mystyle_set');return(false);" target="_self">设置</a></strong>
+</li>
+<li style="display:none;"><font>|</font></li>
+<li class="chskin_wp"><strong><a class="chskin" id="J_setSkin" href="javascript:void(2);" onClick="mystyleInit.show(1);clickCount('mystyle_skin');return(false);" target="_self">换肤</a></strong>
+</li>
+<li><font>|</font></li>
+<!-- skin -->
+<!-- skin end -->
+<!-- 版本切换 -->
+<li class="d d_nolf" id="userct1" onMouseOut="hide_userct_box(event,'userct1')">
+<script  type="text/javascript" > 
+if($CONFIG['wideScreen']){
+    document.write('<strong><a class="drop" href="javascript:;" onmouseover="show_userct(\'userct1\')" onmouseout="hide_userct_box(event,\'userct1\')" target="_self" id="userct1_a">宽屏版</a></strong>');
+}else{
+    document.write('<strong><a class="drop" href="javascript:;" onmouseover="show_userct(\'userct1\')" onmouseout="hide_userct_box(event,\'userct1\')" target="_self" id="userct1_a">标准版</a></strong>');
+}
+</script>
+<div class="drop_pop2" style="display:none;" id="userct1_down" onMouseOut="hide_userct_box(event,'userct1')">
+<script  type="text/javascript" > 
+if($CONFIG['wideScreen']){
+    document.write('<a href="javascript:;" onclick="setScreen();" target="_self" id="bzkp">标准版</a>');
+}else{
+    document.write('<a href="javascript:;" onclick="setScreen();" target="_self" id="bzkp">宽屏版</a>');
+}
+</script>
+</div>
+</li>
+<!-- 版本切换end -->
+<li><font>|</font></li>
+<li><strong><a href="http://bbs.2345.cn/forumdisplay.php?fid=1&tid=1&f=2345index#quickpost" name="2">留言板</a></strong></li>
+<li><font>|</font></li>
+<!-- 用户中心下拉 -->
+<li onMouseOut="hide_userct_box(event,'userct2')" id="userct2" class="d d_nolf" style="display: block;"><strong><a id="userct2_a" onMouseOut="hide_userct_box(event,'userct2')" onMouseOver="show_userct('userct2');localStorage.removeItem('isPop');" href="http://passport.2345.com/login.php?forward=http://www.2345.com" target="_self" class="drop">登录</a></strong>
+   <div onMouseOut="hide_userct_box(event,'userct2')" id="userct2_down" style="display: none;" class="drop_pop1">      
+      <ol>
+        <li class="lgi"><a id="login2345" href="http://passport.2345.com/login.php?forward=http://www.2345.com" target="_self">登录2345帐号</a></li>
+        <li class="lgo"><a id="register2345" target="_self" href="http://passport.2345.com/reg.php?forward=http://www.2345.com">注册</a></li>
+        <li class="fav"><a href="http://my.ie.2345.com/onlinefav/web/">收藏夹</a></li>
+        <li class="jifen"><a href="http://jifen.2345.com/?f=index">王牌技术员联盟</a></li>
+<li class="sjlm"><a href="http://shouji.2345.com/?f=index">王牌手机联盟</a></li>
+      </ol>
+   </div>
+</li>
+<li class="d d_nolf" id="userct3" onMouseOut="hide_userct_box(event,'userct3')" style="display:none;"><strong><a class="drop" href="http://passport.2345.com/?f=index" onMouseOver="show_userct('userct3')" onMouseOut="hide_userct_box(event,'userct3')" id="userct3_a" title=""></a></strong>
+    <div class="drop_pop1" style="display:none;" id="userct3_down">
+      <ol>
+          <li class="uc"><a href="http://passport.2345.com/?f=index">用户中心</a></li>
+           <li class="fav"><a href="http://my.ie.2345.com/onlinefav/web/">收藏夹</a></li>
+           <li class="jifen"><a href="http://jifen.2345.com/?f=index">王牌技术员联盟</a></li>
+           <li class="sjlm"><a href="http://shouji.2345.com/?f=index">王牌手机联盟</a></li>
+           <li class="exit"><a id="logout2345" target="_self" href="http://passport.2345.com/login_for_index_0327.php?action=logout&forward=http://www.2345.com" onClick="T.logout(true);">退出登录</a></li>
+      </ol>
+    </div>
+</li>
+<li id="userct9" style="display:none;"><strong><a href="http://passport.2345.com/?f=index" name="2">用户中心</a></strong></li>
+<script>
+(function(){
+    var webSite = window.location.href;
+	$("userct2_a").href = "http://passport.2345.com/login.php?forward=" + webSite;
+	$("login2345").href = "http://passport.2345.com/login.php?forward=" + webSite;
+	$("register2345").href = "http://passport.2345.com/reg.php?forward=" + webSite;
+	$("logout2345").href = "http://passport.2345.com/login_for_index_0327.php?action=logout&forward=" + webSite;
+})();
+</script>
+<!-- 用户中心下拉end -->
+</ul>
+<div class="top_left"><a class="s_home fred" href="javascript:void(3);" onClick="T.setHomePage(this,'http://www.2345.com/?to=2345');clickCount('homepage');return(false);" id="sh_hd" title="已有4000多万人把2345设为主页">把2345设为主页</a><font>|</font><a class="xf" href="http://www.2345.com/help/repair.htm">主页修复</a><span style="display:;"><font>|</font><a class="topdesk" href="javascript:void(5);"  target="_self" onClick="saveToDesk();return false;" name="2" id="J_ipad_d1"><i class="ic_desk"></i>桌面版</a></span></div>
+<script>
+if ($CONFIG['kvictor5566']){
+	var sh_hd = $('sh_hd');
+    sh_hd.title = '已有4000多万人把导航设为主页';
+	sh_hd.innerHTML = '<i class="ic_home"></i>把导航设为主页';
+}
+function saveToDesk(){
+	var query = location.search.toLowerCase().substr(1);
+	if (query.charAt(0)&&query.charAt(0)=='k' ) {
+		var match = /k\d+$/.exec(query);
+		if(match && match!==null){
+			window.open('http://download.2345.com/2345_common/2345_'+match[0]+'_desktool.exe','_self');
+		}else{
+			window.open('http://download.2345.com/2345desk/2345desktool.exe','_self');
+		}
+	}else{
+		window.open('http://download.2345.com/2345desk/2345desktool.exe','_self');
+	}
+}
+</script>
+</div></div>
+<!-- wait -->
+<div style="display:none;" class="wait" id="mystyle_wait"></div>
+<!-- mystyle -->
+<div style="display:none;" id="showstyle" class="bg">
+<div class="mystylediv">
+</div>
+</div>
+
+<div class="w_wp clearfix" id="w_wp">
+<div class="wrap">
+<!--头部v1 begin-->
+<div class="header" id="J_header">
+	<div class="top_logo">
+		<script>
+			document.write('<a href="javascript:;" title="'+($CONFIG['kvictor5566'] ? '把安全网址导航设为主页': '把2345网址导航设为主页' )+'" target="blank"><img src="/i/blank.png" width="10" height="10" id="websiteLogo"></a>');
+		</script>
+		<span class="tipSet_ie6" id="J_tipSet_ie6" style="display:none;" onMouseOver="this.className='tipSet_ie6_hov'" onMouseOut="this.className='tipSet_ie6'"></span>
+		<em class="close_tip_ie6" onClick="localStorage.setItem('__tipSet_ie6__','1');$('J_tipSet_ie6').style.display='none';" title="关闭"></em>
+	</div>
+	<div class="top-wea" id="top_weather">
+		<p class="top-wea-tips">正在获取天气数据……如果天气无法显示，请<a href="javascript:void(4);" onClick="location.reload(true);clickCount('tianqi_refresh');return false;">刷新网页</a>！<br /><a href="http://tianqi.2345.com/indexs.htm">点击立即查看天气预报</a></p>
+	</div>
+	<!--天气设置 begin-->
+	<div class="top-wea-set" id="city_wea_set" style="display:none;">
+		<script type="datalazyload" id="tianqi_data">
+			<iframe width="100%" height="68" name="city_set_ifr" id="city_set_ifr" allowtransparency="true" style="visibility:hidden" src="//tianqi.2345.com/api/html/city_wea_set_2345.htm" frameborder="0" scrolling="no"></iframe>
+		</script>
+	</div>
+	<!--天气设置 end-->
+	<!--日历 begin-->
+	<div class="top-date" id="rili"></div>
+	<!--日历 end-->
+	<!--笑话/邮箱 begin-->
+	<div class="top-extra">
+		<div class="top-xiaohua"><a href="javascript:;" id="J_broadcast" tj="meiri_gonggao"></a></div>
+		<div class="area-email">
+			<form method="post" action="" onSubmit="return T.email.check();" name="gomail" id="gomail"> 
+				<span class="field">邮箱：</span>
+				<div class="top-email" id="topEmail"><!--top-email-focus-->
+					<div class="account" id="pwdTrigger">
+						<input class="ipt-txt ipt-txt-account" name="uName"  autocomplete="off" type="text" value="帐号" id="J_emailName"/>
+						<a class="trig-del" id="J_mail_del" href="javascript:;" target="_self" style="display:none;" title="清除账号"><i class="i_1"></i><i class="i_2"></i></a>
+						<input type="hidden" name="domainss" value="" id="mailDomainss">
+						<div class="select" id="J_select">
+							<div class="select-ret">@163.com</div>
+							<ul class="select-pop" id="J_selectList">
+								<li data-value="163$1">@163.com</li>
+								<li data-value="126$2">@126.com</li>
+								<li data-value="sohu$4">@sohu.com</li>
+								<li data-value="yeah$9">@yeah.net</li>
+								<li data-value="139$10">@139.com</li>
+								<li class="gray">弹出页登录</li>
+								<li><a href="http://mail.qq.com/" data-value="qq" name="2">@qq.com</a></li>
+								<li><a href="http://mail.sina.com.cn/" data-value="sinacn" name="2">@sina.com</a></li>
+								<li><a href="http://qzone.qq.com/" data-value="qqkj" name="2">QQ空间</a></li>
+								<li><a href="http://www.2345.com/mail.htm" data-value="moreEmail" name="2">更多邮箱&raquo;</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="password" id="pwdArea">
+						<span id="J_emailHidden"></span>
+						<input class="ipt-txt ipt-txt-pwd" type="password" autocomplete="off" value="" name="uPw" id="J_emailPW"/>
+						<input class="btn-email" type="submit" value="登录"/>
+						<label class="tword" for="tword" id="J_emailLabel">密码</label>
+					</div>
+					<div class="bg-wrap"></div>
+					<span class="bg-tit">邮箱：</span>
+				</div>
+			</form>
+		</div>
+	</div>
+	<!--笑话/邮箱 end-->
+</div>
+<!--头部v1 end-->
+<script  type="text/javascript" > 
+//ie6 设首提示
+(function (exports){
+    var logoWrappper =  $('websiteLogo').parentNode,timer = null;
+    if ($CONFIG['pushZhuti'] &&  $CONFIG['pushZhuti'] != g_cookie('theme')) {
+       logoWrappper.style.cssText = 'height:62px;margin-top:8px;background:url(i/pushZhuti/'+$CONFIG['pushZhuti']+'.png) no-repeat;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'i/pushZhuti/'+$CONFIG['pushZhuti']+'.png\',sizingMethod=\'crop\');';
+       logoWrappper.onclick  = function (){
+          mystyleInit.set("theme", $CONFIG['pushZhuti']);
+          mystyleInit.setZT();
+          mystyleInit.show(1);
+          clickCount('pushZhuti_95');
+          return false;
+       };
+       return;
+   }else{
+	  if ($CONFIG['kvictor5566']){
+	       logoWrappper.style.cssText = 'width:135px;height:57px;margin-top:5px;background:url(images/logo/logo_safe.png) no-repeat;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'images/logo/logo_safe.png\',sizingMethod=\'crop\');';
+	  } else {
+		   logoWrappper.style.cssText = 'width:135px;height:57px;margin-top:5px;background:url(images/logo/logo_normal.png) no-repeat;_background:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'images/logo/logo_normal.png\',sizingMethod=\'crop\');';       
+	  }
+   };
+    var  obj =  $('J_tipSet_ie6') , 
+          ua = navigator.userAgent ,
+          hasSetHomePage = function (obj){
+            if (!/MSIE/.test(ua)) {return false;}
+			try{
+				if (obj.isHomePage('http://www.2345.com/?to=2345') ||
+					  obj.isHomePage('http://www.2345.com/?t=2345') ||
+					  obj.isHomePage('http://www.2345.com/') || 
+					  obj.isHomePage('http://www.2345.com') || 
+					  obj.isHomePage('http://www.2345.com/?to=ie6') || 
+					  obj.isHomePage('http://www.2345.com/?t1=2345')
+				) {return true;}
+				if(window.location.href.indexOf('2345.com')>-1&&obj.isHomePage(window.location.href)){
+					return true;
+				}
+			}catch(e){}
+            return false;
+          };
+    obj.style.behavior = 'url(#default#homepage)';
+    exports.hasSetHomePage = hasSetHomePage(obj);
+	if(true!==exports.hasSetHomePage){
+		if ($CONFIG['kvictor5566']){
+			logoWrappper.title="把当前安全导航设为主页";
+		} else {
+			logoWrappper.title="把2345网址导航设为主页";
+		}
+		logoWrappper.onclick=function(){
+			T.setHomePage(this,'http://www.2345.com/?t=2345');
+			clickCount('homepage1');
+			return false;
+		};
+	}
+	
+    if (!/MSIE 6\./.test(ua) || window.opera ) { return;};
+    if (!exports.hasSetHomePage && !localStorage.getItem('__tipSet_ie6__')) {
+      obj.style.display = '';
+      obj.onclick =  function (){
+          T.setHomePage(obj,'http://www.2345.com/?to=ie6');
+          clickCount('homepage_ie6');
+      }
+    }  
+}(this));
+//2017-02-21 广播切换
+window.broadData = [];
+//window.broadData = [{'i': '苏宁大牌手机0元抽！','h': 'http://cuxiao.suning.com/zh0018yuanxj1.html?utm_source=2345&utm_medium=xiaolaba','c':0}];
+</script>
+
+<!-- 搜索 -->
+<div class="search_w">
+<div class="mod search search_web" id="J_search_wrap">    
+   <!-- tab -->
+   <div class="tab-wrap">
+	   <ul class="tab clearfix" id="J_tab">
+			<li class="active"><a class="J_bd" href="http://www.baidu.com/index.php?tn=site888_3_pg" name="2" tj="ss1">网页</a></li>  
+			<li><a href="http://news.baidu.com" name="2" tj="ss2">新闻</a></li>    
+			<li><a href="http://music.baidu.com"  name="2" tj="ss3">音乐</a></li>
+			<li><a href="http://kan.2345.com/"  name="2" tj="ss4">视频</a></li>
+			<li><a href="http://image.baidu.com"  name="2" tj="ss5">图片</a></li>
+			<li><a href="http://tieba.baidu.com/index.html"  name="2" tj="ss8">贴吧</a></li>
+			<li><a href="http://map.baidu.com/"  name="2" tj="ss9">地图</a></li>
+	   </ul>
+	   <!--下拉更多 begin-->
+		<div class="tab-drap">
+			<div class="tab-drap-trig" id="tabDrapTrig"></div>
+			<ul class="tab-drap-list" id="tabDrapList" style="display:none;">
+				<li><a href="http://ai.taobao.com?pid=mm_12351394_2325537_30600919" name="2" tj="ss6">购物</a></li>
+				<li><a href="http://zhidao.baidu.com" name="2" tj="ss7">问答</a></li>
+				<li><a href="http://lvyou.2345.com/jipiao.html?2345dh" name="2" tj="ss11">机票</a></li>
+			</ul>
+		</div>
+		<script>
+			(function(){
+				var trig = $('tabDrapTrig'),
+					lists = $('tabDrapList'),
+					overTimer = [],
+					outTimer = [],
+					delay = [500, 100];
+
+			    trig.onmouseover = function() {
+					clearTimeout(outTimer);
+					clearTimeout(overTimer);
+					overTimer = setTimeout(function(){
+							lists.style.display = 'block';
+					}, delay[0]); 
+				};
+
+				trig.onmouseout = function() {
+					outTimer = setTimeout(function(){
+						lists.style.display = 'none';
+						clearTimeout(overTimer);
+					}, delay[1]);                
+				};
+
+				
+				lists.onmouseover = function(){
+					clearTimeout(outTimer);
+				}
+
+				lists.onmouseout = function() {
+					outTimer = setTimeout(function () {
+						lists.style.display = 'none';
+						clearTimeout(overTimer);
+					}, delay[1]);      
+				};  
+			})();
+		</script>
+		<!--下拉更多 end-->
+	</div>
+   <!-- tab end -->   
+   <!-- search area -->
+   <div class="sch_area clearfix" id="J_search_bd">   
+        <!-- seacrh logo -->
+        <div class="sch_logo">
+                <a onClick="clickCount('search_logo1_1')" class="J_bd" href="http://www.baidu.com/index.php?tn=site888_3_pg" id="j_search_imgs_link"><img src="i/search0320/baidu_web.gif" title="点击打开"  id="j_search_img" height="32" width="85" /></a>
+        </div>
+        <!-- search logo end -->        
+        <!-- form -->
+        <div class="sch_form">
+            <form autocomplete="on" onSubmit="return T.searchMod.smbFix($t('input',$('J_schInbox'))[0].value);" id="bdfm" target="_blank" name="bdfm" method="get" action="/bdsearch/index.htm" accept-charset="utf-8">
+               <span class="sch_inbox" id="J_schInbox">
+                   <input type="text" name="word" id=""  autocomplete="off"/>
+				   <div id="newsToggleBtn" style="display:none" class="toggle"><i class="arrow"></i></div>
+                </span>
+               <input class="sch_btn" type="submit" value="搜索一下" id="j_search_sbm">
+               <span class="sch_radio"  id="j_search_radios"></span>     
+               <span id="j_search_hide">
+                   <input type="hidden" name="tn" value="site888_3_pg" />
+                   <input type="hidden" name="lm" value="-1" />
+               </span>
+            </form>
+        </div>
+        <!-- form end -->        
+		<!--消息轮播v1 begin-->
+		<div class="mes-area">
+			<ul class="mod-txtred">
+				<li><a tj="ssy11" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DUlJnLJJ19twcQipKwQzePCperVdZeJvipRe%2F8jaAHcgYX8TY%2BNEwd7WDUFdkr%2BYVr8hK%2FDw%2Bbm1zjTpHnJi8xpgaA8rsvgBFfmblZfECEiBT94EDDR6L5b0CYBEjBf0rLxRPKN2FDAck%2FCKKDVvEs8hC7k91emiMomfkDJRs%2BhU%3D" id="mesAreat1">热卖女装1折起包邮！</a></li>
+				<li><a tj="ssy21" href="http://ie.2345.com/?dh-wzt" id="mesAreat2">2345浏览器保护您加速上网</a></li>
+			</ul>
+		</div>
+		<script>
+			(function () {
+				 var e1 = $('mesAreat1'),
+					 e2 = $('mesAreat2'),
+					 i1 = 0,
+					 i2 = 0,
+					 t = 1000 * 8 ,
+					 data = [[{'i': '《欢乐颂》王柏川破产小美相伴','h': 'http://tv.2345.com/detail/52500.html','c':0},{'i': '挂机一整晚，5月不上班！','h': 'http://g.wan.2345.com/s/1/1254/1088.html?frm=wzdh-sskyc1','c':0},{'i': '《楚乔传》赵丽颖变战神斗狼群','h': 'http://tv.2345.com/detail/48541.html'},{'i': '开局一把刀，装备满地爆！','h': 'http://g.wan.2345.com/s/1/1254/1086.html?frm=wzdh-sskyc2','c':0}],[{'i': '天猫好货闪购，最高直降1000元！','h': 'https://s.click.taobao.com/t?e=m%3D2%26s%3DcIIO98q5ZTUcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMUB2bPUtoF2ERitN3%2FurF3zHZL5KHQdWqfmddd2DsTDzoM5nvQIs0KH1UyxwoXMkb47LAa3DUrM2zt5vEinufIVAFEHVckI7b2p5%2Fk0TVNEzsd%2B%2Ff4Fhw9YmTYdgIvmuGuIKl4JSR4lzxgxdTc00KD8%3D','c':1}]]
+					 fn = function (){
+					   e1.className = data[0][i1]['c'] ? 'fred' : '';
+					   e1.innerHTML = data[0][i1]['i'];
+					   e1.href = data[0][i1]['h'];
+					   e2.className = data[1][i2]['c'] ? 'fred' : '';
+					   e2.innerHTML = data[1][i2]['i'];
+					   e2.href = data[1][i2]['h'];
+					   i1 >= data[0].length - 1 ? i1 = 0 : i1++;
+					   i2 >= data[1].length - 1 ? i2 = 0 : i2++;
+					};
+				  fn();
+				  if (data[0].length>1 || data[1].length>1){
+				      setInterval(fn, t);
+				  }
+			}());
+		</script>
+		<!--消息轮播v1 end-->
+      <div></div>
+   </div>
+   <!-- search area --> 
+   
+   <!-- travel -->
+   <div class="sch_area clearfix" id="J_travel" style="display:none;"></div>
+   <script>
+   if ($CONFIG['So']){
+	    $t('a', $('J_tab'))[0].href = '//www.so.com/?src=pclm&ls=pclm2345w';
+		$('j_search_imgs_link').href = '//www.so.com/?src=pclm&ls=pclm2345w';
+		$('j_search_imgs_link').onclick = function(){
+		    clickCount('360search_logo1_1');
+		};
+		$('j_search_img').src = '/i/search0320/zonghe_web.png';       
+   } else if ($CONFIG['isbdJump']){
+		$t('a', $('J_tab'))[0].href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+		$('j_search_imgs_link').href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+		$t('input', $('j_search_hide'))[0].value = $CONFIG['tn'];
+   } else if ($CONFIG['isJump']){
+		$t('a', $('J_tab'))[0].href = '/bdsearch/bd_20170227_'+ $CONFIG['tn'] +'.html';
+		$('j_search_imgs_link').href = '/bdsearch/bd_20170227_'+ $CONFIG['tn'] +'.html';
+		$t('input', $('j_search_hide'))[0].value = $CONFIG['tn'];
+   } else {
+		$t('a', $('J_tab'))[0].href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+		$('j_search_imgs_link').href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+		$t('input', $('j_search_hide'))[0].value = $CONFIG['tn'];
+   }
+   //旅游热词
+   $CONFIG['travelHotWords'] = ['<p class="pnone">',
+			'<a href="http://www.tuniu.com/flight/?p=25148" name="2" tj="ssy11">打折飞机票</a>',
+           '<a href="http://www.tuniu.com/abroad/?p=25148" name="2" tj="ssy12" class="fred">出境自由行特卖</a>',
+           '<a href="http://hotel.tuniu.com/?p=25148" name="2" tj="ssy13">酒店5折起</a>',
+         '</p>',
+         '<p>',
+           '<a href="http://temai.tuniu.com/?p=25148" name="2" tj="ssy21">限时特卖</a>',
+           '<a href="http://www.tuniu.com/around/?p=25148" name="2" tj="ssy22">特价周边游</a>',
+           '<a href="http://menpiao.tuniu.com/?p=25148" name="2" tj="ssy23">当季热门景点</a>',
+         '</p>'].join('');
+   </script>
+   <!-- travel end -->
+    </div>
+    <div class="search_flt search_web_flt" id="J_search_translucency"></div>
+ </div>
+<!-- /搜索 -->
+<script  type="text/javascript" >document.write('<scri'+'pt  src = "right/homepage/zjsVer.js?t=' + (Math.floor(+new Date/60000)) +'"></scri'+'pt>');</script>
+<script type="text/javascript" > 
+var newUrl = location.href;
+var oldurl; 
+if (newUrl.indexOf('?') > -1){
+	if(newUrl.length > 255){
+		newUrl = newUrl.substring(0,255);
+	}
+	localStorage.setItem('oldurl',newUrl);
+} else {
+	oldurl = localStorage.getItem('oldurl');
+}
+
+(function() {
+  T.getScript('css/func_20170517.js',{ callback : function(){
+	  if (localStorage.getItem('isPop') && T.siteClicks.isLogin()){
+			T.getScript(T.siteClicks.sitesPopupFile,{callback : function (){
+					setTimeout(function(){
+						T.siteEdit.openPop();
+					},500);
+			}});
+	  }
+  }});
+  T.getScript('css/input_20170517.js', { callback : function() {
+      T.adZone = {
+        index: -1,
+        currWord: '',
+        w: null,
+        callback: function(obj) {
+          this.w = null;
+          if (obj) {
+            this.w = {};
+            this.w.input = obj.w;
+            var iconMap = {
+                  '高清': 'gq',
+                  '蓝光': 'lg',
+                  '超清': 'cq',
+                  '人气': 'rq',
+                  '预告': 'ygp'
+                },
+                img = obj.i ? '<img src="//so.2345.com/index' + obj.i + '">': '',
+                c = obj.c ? '<i class="' + iconMap[obj.c] + '"></i>': '',
+                cls = obj.i ? 'bgSug1st website': 'bgSug1st';
+ 
+            if (obj.tq == 1) {
+    			this.w.selection = '<div id="J_bgSug1st" class="bgSug1st weaSug"  dataurl="' + obj.l + '"  datatype="100" onclick="allCount(\'xl_tj_100\');clickCount(\'推荐-' + obj.w + '\',\'ajax135\');window.open(\'' + obj.l + '\');event.stopPropagation?event.stopPropagation():event.cancelBubble =true"  ><ins class="w' + obj.c + '_l"></ins><span>' + obj.w + '</span><p>点击查询7天、15天天气</p></div>'
+			} else {
+				this.w.selection = '<div id="J_bgSug1st" class="' + cls + '" dataUrl="' + obj.l + '" dataType="' + obj.f + '" onclick="allCount(\'xl_tj_' + obj.f + '\');clickCount(\'推荐-' + obj.w + '\',\'ajax135\');window.open(\'' + obj.l + '\');event.stopPropagation?event.stopPropagation():event.cancelBubble =true">' + img + '<span><em>' + obj.w + '&nbsp;&nbsp;</em><b>' + obj.t + '</b>' + c + '</span><p>' + obj.m + '</p></div>'
+			}
+          }
+        }
+      };
+      T.getScript('css/baidu_20170517.js', {charset: 'gbk'});
+    }
+  });
+} ());
+var mzInds = {'mzst': {'s': 0, 't': +new Date}, 'v': '1.1'};
+(function() {try {var mzIndsTmp = localStorage.getItem("__indifference__");if (mzIndsTmp) {mzIndsTmp = JSON.parse(mzIndsTmp);if (mzIndsTmp['v'] == '1.1'&&mzIndsTmp['mzst']) {mzInds = mzIndsTmp;return;}}localStorage.setItem("__indifference__", JSON.stringify(mzInds));} catch (e) {}})();
+function rmInds(mzid){mzInds[mzid]['s'] = 1;localStorage.setItem("__indifference__", JSON.stringify(mzInds));}
+</script>
+
+<!--政府央媒 begin-->
+<div class="mod-zfsite-wrap mod-zfsite-wrap-one" id="adBanner" style="display:none;">
+  <div class="mod mod-zfsite" id="modZfSite">
+    <div class="zfsite-list">
+      <span class="field"><a tj="zf00" name="2" href="http://www.2345.com/gov.htm">权威</a></span>
+      <div class="cont">
+        <ul class="cont-list">
+            <li><a tj="zf01" name="2" href="http://www.people.com.cn/">人 民 网</a></li>
+            <li><a tj="zf02" name="2" href="http://www.xinhuanet.com/">新华网</a></li>
+            <li><a tj="zf03" name="2" href="http://www.cctv.com/">央视网</a></li>
+            <li><a tj="zf04" name="2" href="http://www.cac.gov.cn/">网信网</a></li>
+            <li><a tj="zf05" name="2" href="http://www.cri.cn/">国际在线</a></li>
+            <li><a tj="zf06" name="2" href="http://www.china.com.cn/">中国网</a></li>
+            <li><a tj="zf07" name="2" href="http://cn.chinadaily.com.cn/">中国日报</a></li>
+            <li><a tj="zf08" name="2" href="http://www.gmw.cn/">光明网</a></li>
+            <li><a tj="zf09" name="2" href="http://www.youth.cn/">中国青年网</a></li>
+            <li><a tj="zf10" name="2" href="http://www.cnr.cn/">央广网</a></li>
+			<li><a tj="zf11" name="2" href="http://www.qstheory.cn/">求是网</a></li>
+            <li><a tj="zf12" name="2" href="http://www.ce.cn/">中国经济网</a></li>
+        </ul>
+		<script>
+			(function(){
+				var isConfigOnly = ((location.href === "http://www.2345.com/" || location.href === "https://www.2345.com/") ? true : false);
+				if (window != top || !isConfigOnly){
+				    return;
+				}
+				if ($CONFIG['isConfig']){
+					if (!localStorage.getItem("isZfClose")){
+						$("adBanner").style.display = "block";
+					}
+					document.write('<span onclick="'+(isConfigOnly ? 'clickCount(&quot;zfszIcon&quot;);$(&quot;popZfClose&quot;).style.top = (T.getPos($(&quot;adBanner&quot;)).y + 1) + &quot;px&quot;;$(&quot;popZfClose&quot;).style.display = &quot;block&quot;;$(&quot;modZfSite&quot;).className = &quot;mod mod-zfsite mod-zfsite-showmask&quot;;' :'clickCount(&quot;zfszText&quot;);localStorage.setItem(&quot;isZfClose&quot;,true);$(&quot;modZfSite&quot;).style.display = &quot;none&quot;;')+'" class="zf-set ' + (isConfigOnly ? ' zf-set-only' : '') + '"><i class="zf-set-icon"></i>关闭</span>');
+				} else {
+					$("adBanner").style.display = "block";
+					document.write('<a class="zf-more" href="http://www.2345.com/gov.htm">更多&raquo;</a>');
+				}
+			})();
+		</script>
+      </div>
+    </div>
+    <div class="zfsite-mask"></div>
+  </div>
+</div>
+<!--政府央媒 end-->
+
+<!-- content -->
+<div id="content" class="mt8 clearfix">
+<div id="left">
+
+<!--特殊导航条 begin-->
+<div class="mod activity-mz-thctb">   
+	<a class="item item-thumb" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DruSrqIa%2FHpgcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuENmwU9yxgSaZTowIwTeDAUbQz7SUxUv5ZshfB5VF%2FnlKvb0o3pJCQto62gQTZk61W00662PG2K8Cm%2FwUl4ESHO54LQ%2FVw1L7SqdkxH6LRFnaYpFBIfC%2F2orLd93QuCUMYOae24fhW0" tj="ths_20170605_1"></a>
+	<a class="item" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DruSrqIa%2FHpgcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuENmwU9yxgSaZTowIwTeDAUbQz7SUxUv5ZshfB5VF%2FnlKvb0o3pJCQto62gQTZk61W00662PG2K8Cm%2FwUl4ESHO54LQ%2FVw1L7SqdkxH6LRFnaYpFBIfC%2F2orLd93QuCUMYOae24fhW0" tj="ths_20170605_2"><i class="icon-1"></i></a>
+	<i class="cut"></i> 
+	<a class="item" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DVnkddN1aT%2BccQipKwQzePCperVdZeJvipRe%2F8jaAHci5VBFTL4hn2WbmqSuePNkHZW7hPg9HazirIPppgTqpXex0yeEaBE2BOjrf%2FSlhalORA8IqEy9FOM7ngtD9XDUvvlBHJWkWL2vBfFgZGYqZ7%2FbDpDjhFmeBDsUzzx1%2FLF42wfk3%2FODnkkgtOFqc5HSVomfkDJRs%2BhU%3D" tj="ths_20170605_3"><i class="icon-2"></i></a>
+	<i class="cut"></i> 
+	<a class="item" href="https://s.click.taobao.com/t?e=m%3D2%26s%3Dw255vNK1VwwcQipKwQzePCperVdZeJvipRe%2F8jaAHci5VBFTL4hn2f9EBipGoMG4Jdux29CqXYmrIPppgTqpXex0yeEaBE2Bt9AXjUjTN%2F%2BwuWLftM6WXs7ngtD9XDUvvlBHJWkWL2vBfFgZGYqZ7%2FbDpDjhFmeBDsUzzx1%2FLF5bCH9oqe1tgqxLAT387paxomfkDJRs%2BhU%3D" tj="ths_20170605_4"><i class="icon-3"></i></a>
+	<i class="cut"></i>
+	<a class="item" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DtBIWqM3J6YkcQipKwQzePCperVdZeJvipRe%2F8jaAHci5VBFTL4hn2XKYsHa4jXRM%2FpU2SWJU0cKrIPppgTqpXex0yeEaBE2BjqorQKYcaHBnDnlhnS5A4c7ngtD9XDUvvlBHJWkWL2vBfFgZGYqZ7%2FbDpDjhFmeBDsUzzx1%2FLF5v2MM8DjaqkbKkTF8QEjHWomfkDJRs%2BhU%3D" tj="ths_20170605_5"><i class="icon-4"></i></a>
+	<i class="cut"></i> 
+	<a class="item" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DgXpwiadVreAcQipKwQzePCperVdZeJvipRe%2F8jaAHci5VBFTL4hn2Z%2F7ck7oaSRkxlg8LvO%2Bev%2BrIPppgTqpXex0yeEaBE2Bt9AXjUjTN%2F8AjqSuJMYr2c7ngtD9XDUvvlBHJWkWL2vBfFgZGYqZ7%2FbDpDjhFmeBDsUzzx1%2FLF6OPuZDLaKiSCPvNs7WsKGsomfkDJRs%2BhU%3D" tj="ths_20170605_6"><i class="icon-5"></i></a>
+	<i class="cut"></i> 
+	<a class="item" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DI3iYzjtw9KwcQipKwQzePCperVdZeJvipRe%2F8jaAHci5VBFTL4hn2SXm43gsCyDsWiFs%2FjHb%2BcirIPppgTqpXex0yeEaBE2Bt9AXjUjTN%2F%2FW4DA58DHMi87ngtD9XDUvvlBHJWkWL2vBfFgZGYqZ7%2FbDpDjhFmeBDsUzzx1%2FLF5UHAl1r3GezeZ5QJu%2B7DdsomfkDJRs%2BhU%3D" tj="ths_20170605_7"><i class="icon-6"></i></a>
+</div> 
+<!--特殊导航条 end-->
+
+<!-- 名站导航 -->
+<div class="mod mzdh clearfix"><!--mod mzdh mzdh_spec clearfix-->
+
+
+	<div class="mzdh_list clearfix" id="nav">
+		<div class="iptmz">		
+			<div class="homeweb_txt" id="homeweb_txt0"><a href="http://news.sina.com.cn/" tj="mz11-1">新浪新闻</a><a href="http://sports.sina.com.cn/" tj="mz11-2">新浪体育</a><a href="http://finance.sina.com.cn/" tj="mz11-3">新浪财经</a><a href="http://mil.news.sina.com.cn/" tj="mz11-4">新浪军事</a><a href="http://weibo.com/?c=spr_sinamkt_buy_2345rc_weibo_t001" tj="mz11-5">新浪微博</a><a href="http://auto.sina.com.cn/" tj="mz11-6">新浪汽车</a></div>
+			<div class="homeweb_txt" id="homeweb_txt1"><a href="http://news.sohu.com/" tj="mz12-1">搜狐新闻</a><a href="http://tv.sohu.com/" tj="mz12-2">搜狐视频</a><a href="http://sports.sohu.com/" tj="mz12-3">搜狐体育</a><a href="http://auto.sohu.com/" tj="mz12-4">搜狐汽车</a><a href="http://yule.sohu.com/" tj="mz12-5">搜狐娱乐</a></div>
+			<div class="homeweb_txt" id="homeweb_txt2"><a href="http://news.ifeng.com/mil/" tj="mz13-1">凤凰军事</a><a href="http://news.ifeng.com/" tj="mz13-2">凤凰资讯</a><a href="http://v.ifeng.com/#_v_2345dhmz" tj="mz13-3">凤凰视频</a><a href="http://v.ifeng.com/live/" tj="mz13-4">凤凰直播</a><a href="http://phtv.ifeng.com/" tj="mz13-5">凤凰卫视</a><a href="http://ent.ifeng.com/" tj="mz13-6">凤凰娱乐</a></div>
+			<div class="homeweb_txt" id="homeweb_txt3"><a href="http://news.qq.com/" tj="mz14-1">腾讯新闻</a><a href="http://qzone.qq.com/" tj="mz14-2">QQ空间</a><a href="http://v.qq.com/" tj="mz14-3">腾讯视频</a><a href="http://mail.qq.com/" tj="mz14-4">QQ邮箱</a><a href="http://sports.qq.com/nba/" tj="mz14-5">腾讯NBA</a></div>
+			<div class="homeweb_txt" id="homeweb_txt5"><a href="http://tieba.baidu.com/" tj="mz16-1">百度贴吧</a><a href="http://v.baidu.com/" tj="mz16-2">百度视频</a><a href="http://news.baidu.com/?" tj="mz16-3">百度新闻</a><a href="http://zhidao.baidu.com/" tj="mz16-4">百度知道</a><a href="http://music.baidu.com/" tj="mz16-5">百度音乐</a><a href="http://image.baidu.com/?" tj="mz16-6">百度图片</a></div>
+			<div class="homeweb_txt" id="homeweb_txt4"><a href="http://email.163.com/" tj="mz24-1">网易邮箱</a><a href="http://news.163.com/" tj="mz24-2">网易新闻</a><a href="http://sports.163.com/" tj="mz24-3">网易体育</a><a href="http://love.163.com/" tj="mz24-4">网易花田</a></div>
+			<div class="homeweb_txt" id="homeweb_txtYh"><a href="http://www.icbc.com.cn/icbc/" tj="mz55">工商银行</a><a href="http://www.ccb.com/" tj="mz55-1">建设银行</a><a href="http://www.boc.cn/" tj="mz55-2">中国银行</a><a href="http://www.abchina.com/" tj="mz55-3">农业银行</a><a href="http://www.cmbchina.com/" tj="mz55-4">招商银行</a><a href="http://www.bankcomm.com/" tj="mz55-5">交通银行</a><a href="http://www.psbc.com/" tj="mz55-6">邮政储蓄</a><a href="http://www.cebbank.com/Site/ceb/cn" tj="mz55-7">光大银行</a><a href="http://www.spdb.com.cn/chpage/c1/" tj="mz55-8">浦发银行</a><a href="http://www.ecitic.com/" tj="mz55-9">中信银行</a></div>
+			<ul class="mz-list">
+				<li><a tj="mz11" name="2" class="txt menu-hd" href="http://www.sina.com.cn">新　浪</a></li>
+				<li><a tj="mz12" name="2" class="txt menu-hd" href="http://www.sohu.com">搜　狐</a></li>
+				<li class="item-dot"><a tj="mz13" name="2" class="txt menu-hd" href="http://www.ifeng.com/">凤 凰 网</a></li>
+				<li><a tj="mz14" name="2" class="txt menu-hd" href="http://www.qq.com">腾 讯 网</a></li>
+				<li><a class="txt" tj="mz15" name="2" href="http://www.toutiao.com/?utm_source=fams2345">今日头条</a></li>
+				<script>	
+					(function(){
+					    var href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+						if (!$CONFIG['isbdJump'] && $CONFIG['isJump']){
+						    href = '/bdsearch/bd_20170227_'+ $CONFIG['tn'] +'.html';
+						}
+						document.write('<li class="item-last"><a tj="mz16" name="2" class="txt menu-hd J_bd" href="' + href + '">百　度</a></li>');
+					})();
+				</script>
+			</ul>
+		</div>
+		<ul class="mz-list">
+			<li>
+				<a class="txt" href="http://www.weibo.com/" name="2" tj="mz21">微　博</a>
+			</li>
+			<li>
+				<a class="txt fgreen" href="https://ai.taobao.com/?pid=mm_12351394_2325537_70732358" name="2" tj="mz22"><i class="icon" style="background-image:url(images/icons/mz_22_161010.png);"></i>爱淘宝</a>
+			</li>
+			<li id="renminwang">
+				<script type="text/javascript" >if(mzInds['mzst']['s']==1||(mzInds['mzst']['t']+1296000000)>+new Date){document.write('<a class="txt" href="http://tejia.aili.com/temai/" name="2" tj="mz23" onclick="rmInds(\'mzst\')">今日特价</a>')}else{document.write('<a class="txt" href="http://tejia.aili.com/temai/" name="2" tj="mz23" >今日特价</a>')}</script>
+			</li>
+			<li><a tj="mz24" name="2" class="txt menu-hd" href="http://www.163.com">网　易</a>
+			</li>
+			<li>
+				<a class="txt" href="http://kan.2345.com/" name="2" tj="mz25"><i class="icon" style="background-image:url(images/icons/mz_25_161010.png);"></i>影视大全</a>
+			</li>
+			<li class="item-pic item-last">
+				<a class="pic-piece-1" style="width:56px;background-image:url(images/lvy/mz26_170606.png);" href="https://union-click.jd.com/jdc?d=Y7vQZv" tj="mz26" name="2"></a>
+				<a class="pic-piece-2" style="width:49px;background-image:url(images/lvy/mz26_170606.png);" href="http://ccc.x.jd.com/dsp/cl?posid=1999&v=707&union_id=1000023384&pid=190&tagid=1526&to=https://sale.jd.com/act/C1bEzQ02FLIy.html" tj="mz26-1" name="2"></a>
+			</li>
+			<li>
+				<a class="txt fred" tj="mz31" name="2" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DruSrqIa%2FHpgcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuENmwU9yxgSaZTowIwTeDAUbQz7SUxUv5ZshfB5VF%2FnlKvb0o3pJCQto62gQTZk61W00662PG2K8Cm%2FwUl4ESHO54LQ%2FVw1L7SqdkxH6LRFnaYpFBIfC%2F2orLd93QuCUMYOae24fhW0"><i class="icon" style="background-image:url(images/icons/mz_35_161011.png);"></i><strong>聚划算</strong><script type="text/javascript">document.write('<img src="images/lvy/mz_qiang_170605.gif?'+new Date().getTime()+'" alt="" />')</script></a>
+			</li>
+			<li>
+				<a class="txt" tj="mz32" name="2" href="http://xiaoyouxi.2345.com/">2345小游戏</a>
+			</li>
+			<li class="item-dot">
+				<a class="txt" href="http://www.taobao.com/" tj="mz33">淘宝网</a>
+				<span class="dot">&bull;</span>
+				<a class="txt" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DU9f%2FcWqieFgcQipKwQzePCperVdZeJviLKpWJ%2Bin0XJRAdhuF14FMTAbDDSzSPRs5x%2BIUlGKNpU31FaFjIP7pKbKf2pYQIyzl8%2B59QYAq7taNReY2WHpxrg5kJpUiIWcbYbSbVjnPd7DX0%2BHH2IEVbGJzKKgK2Ud47FHjfsActkAV4Err%2B0r%2B61%2BoOREIMmR" name="2" tj="mz33-1">淘优惠</a>
+			</li>
+			<li class="item-dot">
+				<a class="txt" href="https://s.click.taobao.com/6fd4wAx" tj="mz34"><i class="icon" style="background-image:url(images/icons/mz_34_161010.png);"></i>天猫</a><span class="dot">&bull;</span><a class="txt" style="font-size:12px;" href="https://s.click.taobao.com/UibLkGx" name="2" tj="mz34-1">618热卖</a>
+			</li>
+			<li>
+				<a class="txt" name="2" tj="mz35" href="http://www.xcar.com.cn/#zoneclick=102485">爱卡汽车</a>
+			</li>
+			<li class="item-last">
+				<a class="txt" name="2" tj="mz36" href="http://www.autohome.com.cn?pvareaid=100525">汽车之家</a>
+			</li>
+			<li>
+				<a class="txt fred" tj="mz41" name="2" href="http://www.gome.com.cn/?cmpid=dh_2345_gmmz_0206">国美在线</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz42" name="2" href="http://www.suning.com/?utm_source=2345&utm_medium=mingzhan"><i class="icon" style="background-image:url(images/icons/mz_42_161019.png);"></i>苏宁易购</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz43" name="2" href="http://jump.luna.58.com/s?spm=b-31580022738699-pe-f-830&ch=2345_101">58 同 城</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz44" name="2" href="http://www.eastmoney.com/">东方财富</a>
+			</li>
+			<li class="item-dot">
+				<a class="txt" href="http://www.12306.cn/" name="2" tj="mz45">12306</a>
+				<span class="dot">&bull;</span>
+				<a class="txt" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=1119&sid=726716&OUID=&jumpUrl=http://flights.ctrip.com/" name="2" tj="mz45-1">机  票</a>
+			</li>
+			<li class="item-last">
+				<a class="txt" tj="mz46" name="2" href="http://sempage.guazi.com/market/redirect?ca_s=dh_2345mz&ca_n=2345mz&platform=1&scode=10104337712">瓜子二手车</a>
+			</li>
+		</ul>
+		<div class="mz-border-cut"></div>
+		<ul class="mz-list">
+			<li>
+				<a class="txt" tj="mz51" name="2" href="http://www.ganji.com/?ca_name=dh_2345_001_quanguoshouye&ca_s=tg_2345&ca_n=001_mingzhan&ca_i=ad">赶 集 网</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz52" name="2" href="http://api.dsp.yhd.com/dsplog/?cid=108&tr=1624167&toUrl=aHR0cHM6Ly9jbGljay55aGQuY29tL2R3ej9jb2RlPUV6VWoyMg==">1 号 店</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz53" name="2" href="http://www.tuniu.com/?p=14183&amp;cmpid=mkt_03029701&amp;utm_campaign=daohang&amp;utm_source=2345.com&amp;utm_medium=display"><i class="icon" style="background-image:url(images/icons/mz_53_161010.png);"></i>途牛旅游网</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz54" name="2" href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121114485&site=mingzhan&url=http://ts.zhaopin.com/jump/index.html">智联招聘</a>
+			</li>
+			<li class="item-pic">
+				<script type="text/javascript"  >try{if(localStorage.getItem('userBank')){document.write(localStorage.getItem('userBank'));}else{document.write('<a class="txt" href="http://www.icbc.com.cn/icbc/" tj="mz55">工商银行</a>');}}catch(e){document.write('<a class="txt" href="http://www.icbc.com.cn/icbc/" tj="mz55">工商银行</a>');}</script>
+				<a href="javascript:;" target="_self" class="mz_toggle menu-hd" onClick="return false"></a>
+			</li>
+			<li class="item-last">
+				<a class="txt" tj="mz56" name="2" href="https://wx.qq.com/">微信网页版</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz61" name="2" href="https://www.anjuke.com/?pi=navi-2345-mz-ajkfc">安居客房产</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz62" name="2" href="http://www.ctrip.com/"><i class="icon" style="background-image:url(images/icons/mz_62_161010.png);"></i>携程旅行网</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz63" name="2" href="http://wan.2345.com/tuiguang2/">玩2345游戏</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz64" name="2" href="https://www.6.cn/?src=z9weij922">六间房秀场</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz65" name="2" href="https://s.click.taobao.com/NJuevAx">天猫女装</a>
+			</li>
+			<li class="item-last">
+				<a class="txt" tj="mz66" name="2" href="http://licai.2345.com/finance/">2345理财</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz71" name="2" href="http://www.jiayuan.com/st/?id=271685&amp;url=http://reg.jiayuan.com/landing_page_redirect.php">世纪佳缘</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz72" name="2" href="http://www.qunar.com/?ex_track=auto_4e69d9db">去哪儿网</a>
+			</li>
+			<li>
+				<a class="txt" tj="mz73" name="2" href="https://www.amazon.cn/b?node=658390051&tag=2345book-23"><i class="icon" style="background-image:url(images/icons/mz_83_161010.png);"></i>亚 马 逊</a>
+			</li>
+			<li>
+				<a class="txt fred" tj="mz74" name="2" href="http://pindao.suning.com/city/xiaojiadian.html?utm_source=2345&utm_medium=xjdmingzhan">苏宁小家电</a>
+			</li>
+			<li>
+				<a class="txt fred" tj="mz75" name="2" href="http://www.jumei.com/?referer=2345_mz&utm_medium=nav&utm_source=2345&utm_content=mz">聚美优品</a>
+			</li>
+			<li class="item-last" id="vipCom">
+				<a class="txt fred" tj="mz76" name="2" href="http://v1.aili.com/d/sj.php?i=MzM4NQ==">唯 品 会</a>
+			</li>
+		</ul>
+	</div>
+<!-- 云收藏 -->
+	<div id="J_myfav_w" class="myfav_w"></div>
+<!-- 云收藏end -->
+</div>
+<!-- 名站导航end -->
+
+<!-- 中间栏 -->
+<h2 class="mzdh_bottom" id="J_gul_yg">
+	<a tj="yg01" name="2" class="fblue" href="https://chaoshi.suning.com/?utm_source=2345&utm_medium=zjl">超市9.9包邮</a>
+	<span class="J_gul_yg"><a tj="yg02" name="2" class="fblue" href="http://licai.2345.com/finance/">赚钱理财</a></span>
+	<span class="J_gul_yg"><a tj="yg03" name="2" class="fblue" href="http://www.jumei.com/?referer=2345_mz&utm_medium=nav&utm_source=2345&utm_content=mz">聚美优品</a></span>
+	<a tj="yg04" name="2" class="fblue" href="http://as.kejet.net/RjY0QjMxNTZGQzZFNUI3RTNDNUJFNEE3RjA2M0Y5?u/MjZGMUFBQTE5QzY1NjdE/o/RjY0QjMxNTZGQzZFNUI3/m/RTNDNUJFNEE3RjA2M0Y5/q/afaclick?http://prom.gome.com.cn/html/prodhtml/topics/201704/17/9776824042.html?intcmp=sy-1000060761-1?cmpid=dh_2345_reci_dacu_0424">爆款9.9秒杀</a>
+	<span class="J_gul_yg"><a tj="yg05" name="2" class="fblue" href="http://lvyou.2345.com/jipiao.html">特价机票</a></span>
+	<span class="J_gul_yg"><a tj="yg07" name="2" class="fblue" href="http://www.taobao.com/go/chn/tbk_channel/channelcode.php?pid=mm_12351394_2325537_9082003&eventid=101329">淘宝热卖</a></span>
+	<span class="J_gul_yg"><a tj="yg08" name="2" class="fblue" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DjxkRq7sLeOscQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAgKS2eMI0MSq5rLd1AoVONDs8NaMsMMftlGhtswxWzXJQsxgXz360a3EP9XZr%2FPQx%2Bo0BcZWWIRYYA%2FDpPH01wK9AmARIwX9K%2BAjBDXvuqoU47FHjfsActnIQu5PdXpojKJn5AyUbPoV">聚划算</a></span>
+</h2>
+<!-- 中间栏end -->
+
+<!-- 猜你喜欢 -->
+<div class="mod" style="position:relative;" id="cnxh">
+  <div class="chc-dzoem">
+    <div class="cnxh_bd">
+      <div class="kzjx slide-wrap clearfix" id="J_gul">
+         <div class="gul_loading_wrapper" id="J_gul_loading_wrapper"><div class="gul_loading">努力加载中<span></span></div></div>
+      </div>
+    </div>
+    <div class="cnxh-field"><h3 class="tit" onClick="clickCount('cnxhsj')">猜你喜欢</h3></div><i class="i-lvy"></i>
+  </div>
+  <script type="text/javascript" ><!--	
+	T.gul={'channel':$CONFIG['channel'],'url':'//guess.union2.50bang.org/indexv2.php?cc=4&hmin=30&hmax=30&md5=1&a2='+new Date().getTime()+'&channel='+$CONFIG['channel']+'&bot=1&cat='+encodeURIComponent('游戏_视频_生活'),'defaultUrl':'right/site/like/gul_default_b_v3.js?'+(Math.floor(+new Date/600000)),'errType':'','firstShow':true,'tjMap':{'视频':'sp','游戏':'yx','军情':'jq','购物':'gw','团购':'tg','汽车':'qc','小说':'xs','生活':'sh','女性':'nx','音乐':'yy','财经':'cj','理财':'lc','社区':'sq','教育':'jy','数码':'sm','体育':'ty','旅游':'ly','热门':'rm','房产':'fc'},'timeout':3000,'hanging':false,'cb':function(url){var self=this,counter=0,interval=100;self.timer||(self.timer=setInterval(function(){if(self.hanging){clearInterval(self.timer);return}if(counter>self.timeout/interval){self.errType='timeout';T.getScript(self.defaultUrl);clearInterval(self.timer)}else{counter++}},interval));T.getScript(url,{errCb:function(){if(self.hanging){return}self.errType='jsError';T.getScript(self.defaultUrl)}})},'flag':[0,0,0,0],'flag132':[0,0,0,0],'redFlag':0,'sSingleSize':$CONFIG['wideScreen']?933:753,'timer2':null,'interval':100,'render':function(index,isInit){var temp=[],max=$CONFIG['wideScreen']?6:6,data=this.data[index],flag=isInit?0:this.flag[index],dl=isInit?document.createElement('DL'):this.wrapper[parseInt(index/4)].getElementsByTagName('DL')[index%4],d,ajax131='',ajax132=[];this.ajax132=this.ajax132||[];this.ajax132fl=this.ajax132fl||[];if(isInit&&typeof(data['category']['flid'])!=='undefined'){this.ajax132fl.push(data['category']['flid'])}tj=this.tjMap[data['category']['name']];if(this.testTag){tj='testb_'+tj}temp.push('<dt><strong><a name="2" tj="gul_tilte_'+tj+'" href="'+data['category'].url+'">'+data['category'].name+'</a></strong></dt><dd><ul>');for(var i=0;i<max;i++){ajax131='';d=data['sites'][flag];if(typeof(d['ggid'])!=='undefined'&&d['ggid']>0){ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+this.testTag+'\',\''+(this.flag132[index]+1)+'\',\''+(index+1)+'\',\''+d['flid']+'\',\'3A7\'],\'ajax131\',event);"';if(isInit){this.ajax132.push(d['ggid']+':'+(this.flag132[index]+1))}else{ajax132.push(d['ggid']+':'+(this.flag132[index]+1))}}else if(typeof(d['mrid'])!=='undefined'&&d['mrid']!=='m0'){if(isInit){this.ajax132.push(d['mrid'])}else{ajax132.push(d['mrid'])}}var redStr='';if(parseInt(d['redFlag'])){redStr='class="fred"'}if(isInit){if(this.redFlag<2&&(index%4==0&&i==3)){redStr='class="fred"';this.redFlag++}}else{if(index%4==0&&i==3){redStr='class="fred"'}}temp.push('<li><a title="'+(d['desc']?d['desc']:'')+'" name="2" '+redStr+' tj="gul_content_'+tj+'" href="'+d['url']+'"'+ajax131+'>'+d['name']+(d['isRed']==='Y'?'<i class="dot"></i>':'')+'</a></li>');flag>=data['sites'].length-1?flag=0:flag++;this.flag132[index]++}temp.push('</ul><a name="2"  tj="gul_hyh_'+tj+'"  href="javascript:;" target="_self" class="more" onclick ="T.gul.render('+index+');return false;" >换一换</a></dd>');dl.innerHTML=temp.join('');this.flag[index]=flag;if(isInit){var _index=parseInt(index/4);this.wrapper[_index].appendChild(dl);if((index===3||index===7||index===11)&&this.ajax132.length>0){T.beacon('//union2.50bang.org/web/ajax132?uId2=SPTNPQRLSX&r='+encodeURIComponent(document.location.href)+'&f='+(T.gul.firstShow?1:0)+''+(oldurl==undefined?'':('&oLO='+encodeURIComponent(oldurl)))+'&l='+(T.gul.firstShow?(new Date().getTime()-navigationStart):0)+'&e='+this.testTag+'&f0='+this.f0Tag+'&i='+T.gul.channel+'&q='+window.userPreference+'&c='+encodeURIComponent(this.ajax132fl.join('|'))+'&lO='+encodeURIComponent(this.ajax132.join('|')));this.firstShow=false;this.ajax132=[];this.ajax132fl=[]}}else{if(ajax132.length>0){T.beacon('//union2.50bang.org/web/ajax132?uId2=SPTNPQRLSX&r='+encodeURIComponent(document.location.href)+''+(oldurl==undefined?'':('&oLO='+encodeURIComponent(oldurl)))+'&e='+this.testTag+'&f0='+this.f0Tag+'&q='+window.userPreference+'&i='+T.gul.channel+'&lO='+encodeURIComponent(ajax132.join('|')))}}},'renderMzBottom':function(){var data,d,arr=[],yg=$cls('J_gul_yg',$cls('mzdh_bottom',$('left'))[0]);if(this.data[0]['test']){this.testTag=parseInt(this.data[0]['test'])}else{this.testTag=0}this.f0Tag=parseInt(this.data[0]['f0']);var len=this.data.length,sitesLen=0;for(var i=0;i<len;i++){data=this.data[i];sitesLen=data['sites'].length;for(var j=0;j<sitesLen;j++){d=data['sites'][j];if(i<3&&j<7&&parseInt(d['redFlag'])){this.redFlag++}if(parseInt(d['usaFlag'])){var tj=(this.testTag?'testb_':'')+this.tjMap[data['category']['name']],ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+this.testTag+'\',\''+0+'\',\''+100+'\',\''+d['flid']+'\',\'3A7\'],\'ajax131\',event,(+ this.parentNode.getAttribute(\'data-idx\')));clickCount(\'cngd'+parseInt(d['usaFlag'])+'\');"';arr.push('<a class="fblue" title="'+(d['desc']?d['desc']:'')+'" name="2" tj="gul_content_'+tj+'" href="'+d['url']+'"'+ajax131+'>'+d['name']+'</a>')}}}this.redFlagTemp=this.redFlag;if(arr.length){for(var k=0,l=Math.min(arr.length,yg.length);k<l;k++){yg[k].innerHTML=arr.shift();yg[k].setAttribute("data-idx",(k+1))}if(arr.length){var clickChangeTimer=null,ygHandlerClick=function(event){var e=event||window.event,target=e.target||e.srcElement;if(target.nodeName==='A'){target=target.parentNode}if(target.nodeName==='SPAN'&&target.className==='J_gul_yg'&&arr.length){clearTimeout(clickChangeTimer);clickChangeTimer=setTimeout(function(){target.innerHTML=arr.shift()},200)}};T.addEvent($cls('mzdh_bottom',$('left'))[0],'click',ygHandlerClick)}}},'getUserId':function(uIdData){if(!uIdData){return}s_cookie("bdUid",uIdData)},'renderCnxhGame':function(data){if((data instanceof Array)&&(data.length>=8)){window.webGameCnxhData=data}},'renderCnxhLife':function(data){if((data instanceof Array)&&(data.length>=4)){window.jokeCnxhData=data}},'renderBottom':function(data){if(!data){return}window.lifeCnxhData=data['\u751f\u6d3b'];window.gameCnxhData=data['\u6e38\u620f'];window.videoCnxhData=data['\u89c6\u9891'];window.testTag=this.testTag},'init':function(data){if(this.hanging){return}if(!data||(Object.prototype.toString.call(data)==='[object Array]'&&(data.length===0))){this.errType='noData';T.getScript(this.defaultUrl);return}this.hanging=true;$('J_gul').innerHTML='<div style="width:10000px;" id="J_slideCon" class="slide-con"><div class="slide-item"></div><div class="slide-item">2345</div><div class="slide-item"></div></div>';this.wrapper=$cls('slide-item',$('J_gul'));this.data=data;window.userPreference=data[0]['q'];this.renderMzBottom();for(var i=0;i<4;i++){this.render(i,true)}window.gulTime=new Date().getTime()}};(function(){var gul_loc=null,gul=T.gul,diff=null;gul.cb(gul.url)}());
+//--></script>
+</div>
+<!-- 猜你喜欢end -->
+
+<!-- 酷站 -->
+<div class="mod kzjx mt8 clearfix" id="J_kzjx">
+<h2 class="first"><a tj="kz101" href="http://news.2345.com/?le2">头条</a><i class="cut"></i><a tj="kz102" href="http://news.2345.com/mil/?le2">军情</a><i class="cut"></i><a tj="kz103" href="http://tv.2345.com/">电视剧</a><i class="cut"></i><a tj="kz104" href="http://dianying.2345.com/">电影</a><i class="cut"></i><a tj="kz105" href="http://kan.2345.com/zongyi/">综艺</a><i class="cut"></i><a tj="kz106" href="http://dongman.2345.com/">动漫</a><i class="cut"></i><a tj="kz113" href="http://www.2345.com/music.htm">音乐</a><i class="cut"></i><a tj="kz107" href="http://www.contentchina.com/zhibo/">直播</a><i class="cut"></i><a tj="kz110" href="http://yule.2345.com/?dh">娱乐</a><i class="cut"></i><a tj="kz111" href="http://xiaoyouxi.2345.com/">小游戏</a><i class="cut"></i><a tj="kz112" href="http://wan.2345.com/?frm=wzdh-kz-dbyy&referer=wzdh">页游</a></h2>
+    <dl>
+      <dt>
+        <strong><a name="2" tj="y4y1" href="http://wan.2345.com/?frm=wzdh-kz-yybq&referer=wzdh">页游</a></strong>
+      </dt>
+      <dd>
+        <ul>
+          <li><a tj="y4y2" href="http://g.wan.2345.com/s/1/1254/784.html?frm=wzdh-kz-yy1">送+13坐骑</a></li>
+          <li><a tj="y4y3" href="http://g.wan.2345.com/s/1/1254/419.html?frm=wzdh-kz-yy2">开局1条狗</a></li>
+          <li><a tj="y4y4" href="http://g.wan.2345.com/s/1/1254/782.html?frm=wzdh-kz-yy3">送变态麒麟</a></li>
+          <li><a tj="y4y5" href="http://g.wan.2345.com/s/1/1254/781.html?frm=wzdh-kz-yy4">非rmb玩家进</a></li>
+          <li><a tj="y4y6" href="http://g.wan.2345.com/s/1/1254/163.html?frm=wzdh-kz-yy5">10W收屠龙</a></li>
+          <li><a tj="y4y7" href="http://g.wan.2345.com/s/1/1254/779.html?frm=wzdh-kz-yy6">变态999级</a></li>
+        </ul>
+        <a name="2" tj="y4y9" class="more" href="http://wan.2345.com/?frm=wzdh-kz-yygd&referer=wzdh">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="dy1" href="http://tv.2345.com/">影视</a></strong>
+      </dt>
+      <dd>
+        <ul>
+          <li><a tj="dy2" href="http://dianying.2345.com/">高清电影</a></li>
+          <li><a tj="dy3" href="http://tv.2345.com/">电视剧</a></li>
+          <li><a tj="dy4" href="http://dongman.2345.com/">动 漫</a></li>
+          <li><a tj="dy5" href="http://kan.2345.com/zongyi/">综 艺</a></li>
+          <li><a tj="dy7" href="http://www.yy.com/58606163?f=1133">YY美女在线</a></li>
+          <li><a tj="dy8" href="http://www.contentchina.com/zhibo/">美女直播</a></li>
+        </ul>
+        <a name="2" tj="dy9" class="more" href="http://tv.2345.com/">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl class="linebottom_kz">
+      <dt><strong><a name="2" tj="sp1" href="http://kan.2345.com/">视频</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="sp2" href="http://www.iqiyi.com">爱奇艺高清</a></li>
+          <li><a tj="sp3" href="http://www.youku.com/">优酷网</a></li>
+          <li><a tj="sp4" href="http://www.contentchina.com/zhibo/">美女直播秀</a></li>
+          <li><a tj="sp5" href="http://v.qq.com/?ptag=2345.kuzhan">腾讯视频</a></li>
+          <li><a tj="sp6" href="https://www.6.cn/?src=z9weij1040">六间房秀场</a></li>
+          <li><a tj="sp8" href="http://kan.2345.com/wangluochupin/">热映新片</a></li>
+        </ul>
+        <a name="2" tj="sp9" class="more" href="http://kan.2345.com/">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="y2x1" href="http://game.2345.com/">游戏</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="y2x2" href="http://www.7k7k.com/?2345123">7K7K游戏</a></li>
+          <li><a tj="y2x3" class="fred" href="http://www.4399.com/?dh2345">4399游戏</a></li>
+          <li><a tj="y2x4" href="http://g.wan.2345.com/s/1/1254/421.html?frm=wzdh-kz-yx3">变态私服</a></li>
+          <li class="hasIcon"><a tj="y2x5" href="http://g.wan.2345.com/s/1/1254/406.html?frm=wzdh-kz-yx4" style="background-image:url(images/icons/y2x5_150626.png);background-position:left center;">1刀99999级</a></li>
+          <li><a tj="y2x6" href="http://g.gh8s.com/r/30/92.html">37游戏</a></li>
+          <li><a tj="y2x7" href="http://g.wan.2345.com/s/1/1254/77.html?frm=wzdh-kz-yx6">传奇合击版</a></li>
+        </ul>
+        <a name="2" tj="y2x9" class="more" href="http://game.2345.com/">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="xw1" href="http://news.2345.com/?le3">头条</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="xw2" href="http://news.sina.com.cn">新浪新闻</a></li>
+          <li><a tj="xw3" href="http://www.toutiao.com/?utm_source=2345">今日头条</a></li>
+          <li><a tj="xw4" href="http://mini.eastday.com/?qid=2345kz">头条新闻</a></li>
+          <li><a tj="xw5" href="http://news.sohu.com/">搜狐新闻</a></li>
+          <li><a tj="xw6" href="http://news.qq.com/">腾讯新闻</a></li>
+          <li><a tj="xw7" href="http://www.ifeng.com/">凤凰新闻</a></li>
+        </ul>
+        <a class="more" href="http://news.2345.com/?le3" name="2" tj="xw9">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" href="http://news.2345.com/mil/?le3" tj="js1">军情</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a href="http://military.china.com/" tj="js2">中华军事</a></li>
+          <li><a href="http://news.ifeng.com/mil/" tj="js3">凤凰军事</a></li>
+          <li><a href="http://news.2345.com/mil/?le3" tj="js4">今日军事</a></li>
+          <li><a href="http://www.qianyan001.com/?2345_kuzhan" tj="js5">军事前沿</a></li>
+          <li><a href="http://www.miercn.com/?sy2345" tj="js7">米尔军情网</a></li>
+          <li><a href="http://news.2345.com/mil/?le3" tj="js8">头条军事</a></li>
+        </ul>
+        <a class="more" href="http://news.2345.com/mil/?le3" name="2" tj="js9">更多&raquo;</a>
+      </dd>
+    </dl>
+  <ul id="local2" style="display:none"></ul>
+  <h2><a tj="kz202" href="http://www.duote.com/">软件</a><i class="cut"></i><a tj="kz203" href="http://licai.2345.com/finance/">理财</a><i class="cut"></i><a tj="kz308" href="http://licai.2345.com/credit/0.0.0?le1">信用卡</a><i class="cut"></i><a tj="kz204" href="http://licai.2345.com/bank/">银行</a><i class="cut"></i><a tj="kz205" href="http://licai.2345.com/gupiao/">股票</a><i class="cut"></i><a tj="kz302" href="http://www.2345.com/ershouche.htm?ku1">二手车</a><i class="cut"></i><a tj="kz305" href="http://www.2345.com/car.htm">汽车</a><i class="cut"></i><a tj="kz306" href="http://dianying.2345.com/mingxing/">明星</a><i class="cut"></i><a tj="kz309" href="http://tools.2345.com/xingzuoyc.htm">星座</a><i class="cut"></i><a tj="kz207" href="http://book.km.com/manhua/">漫画</a><i class="cut"></i><a tj="kz109" href="http://book.km.com/">小说</a></h2>
+  <dl id="J_loacl">
+    <textarea class="datalazyload" style="visibility: hidden;"><script type="text/javascript" >T.localSites.init();</script></textarea>
+  </dl>
+    <dl>
+      <dt><strong><a name="2" tj="gw1" href="http://buy.2345.com/">购物</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="gw3" class="fgreen" href="https://s.click.taobao.com/2N8dvAx">天猫女装</a></li>
+          <li><a tj="gw4" href="https://union-click.jd.com/jdc?d=7fERNr">京东商城</a></li>
+          <li><a tj="gw5" href="http://www.gome.com.cn/?cmpid=dh_2345_gw">国美在线</a></li>
+          <li class="hasIcon"><a tj="gw6" style="background-image:url(images/mz_ic_tmall2.png);background-position:left center" href="https://s.click.taobao.com/C1yQvAx">天猫精选</a></li>
+          <li><a tj="gw7" href="https://s.click.taobao.com/OkeOvAx">天猫进口</a></li>
+		  <li><a tj="gw8" href="http://www.suning.com/?utm_medium=kuzhan&utm_source=2345&utm_campaign=text">苏宁易购</a></li>
+        </ul>
+        <a class="more" href="http://buy.2345.com/" name="2" tj="gw9">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl class="linebottom_kz">
+      <dt><strong><a name="2" tj="yh1" href="http://licai.2345.com/bank/">银行</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="yh2" title="客服热线：95588" href="http://www.icbc.com.cn/icbc/">工商银行</a></li>
+          <li><a tj="yh3" title="客服热线：95533" href="http://www.ccb.com/">建 行</a></li>
+          <li><a tj="yh4" title="客服热线：95566" href="http://www.boc.cn">中国银行</a></li>
+          <li><a tj="yh5" title="客服热线：95599" href="http://www.abchina.com/">农 行</a></li>
+          <li><a tj="yh6" title="客服热线：95555" href="http://www.cmbchina.com/">招商银行</a></li>
+          <li><a tj="yh7" title="客服热线：95559" href="http://www.bankcomm.com/">交通银行</a></li>
+        </ul>
+        <a name="2" tj="yh9" class="more" href="http://licai.2345.com/bank/">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="cj1" href="http://licai.2345.com/gupiao/">财经</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="cj2" href="http://www.eastmoney.com/">东方财富</a></li>
+          <li><a tj="lc3" href="http://ad.etongdai.com/cpa/semEnter?target_url=https://app.etongdai.com/static/register/market.html?friendId=OTg0NTc5OA==&kid=1&semcp=12">易通贷理财</a></li>
+          <li><a tj="lc4" href="http://licai.2345.com/finance/">高收益理财</a></li>
+          <li><a tj="cj5" href="http://licai.2345.com/finance/">安全理财</a></li>
+          <li><a tj="cj6" href="http://finance.ifeng.com/">凤凰财经</a></li>
+		  <li><a tj="cj8" href="http://www.yicai.com/">第一财经</a></li>
+        </ul>
+        <a name="2" tj="cj9" class="more" href="http://licai.2345.com/gupiao/">更多&raquo;</a>
+      </dd>
+    </dl>
+	<dl>
+      <dt><strong><a name="2" tj="qc1" href="http://www.2345.com/car.htm">汽车</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="qc2" href="http://www.2345.com/car.htm">汽车大全</a></li>
+          <li><a tj="qc3" href="http://www.autohome.com.cn?pvareaid=100526">汽车之家</a></li>
+          <li><a tj="qc4" href="http://www.2345.com/ershouche.htm?ku1">热卖二手车</a></li>
+          <li><a tj="qc5" href="http://www.xcar.com.cn/#zoneclick=102486">爱卡汽车</a></li>
+          <li><a tj="qc6" href="http://sempage.guazi.com/market/redirect?ca_s=dh_2345mz&ca_n=2345kz&platform=1&scode=10104006012">瓜子二手车</a></li>
+          <li><a tj="qc8" href="http://www.2345.com/ershouche.htm?ku2">超值二手车</a></li>
+        </ul>
+      <a class="more" href="http://www.2345.com/car.htm" name="2" tj="qc9">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="ly1" href="http://lvyou.2345.com/">旅游</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="ly2" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=1119&sid=1267&OUID=&jumpUrl=http://www.ctrip.com/">携程旅行网</a></li>
+          <li><a tj="ly3" href="http://lvyou.2345.com/">旅游特卖</a></li>
+          <li><a tj="ly4" href="http://www.tuniu.com/?p=1620&cmpid=mkt_08005201&utm_campaign=daohang&utm_source=2345.com&utm_medium=textlink" class="fgreen">途牛旅游网</a></li>
+          <li><a tj="ly5" href="http://lvyou.2345.com/dujia.html">旅游线路</a></li>
+          <li><a tj="ly6" href="http://lvyou.2345.com/train.html">火车票查询</a></li>
+          <li><a tj="ly7" href="http://hotel.qunar.com/?ex_track=auto_4e69d9f9">去哪儿酒店</a></li>
+        </ul>
+        <a class="more" href="http://lvyou.2345.com/" name="2" tj="ly9">更多&raquo;</a>
+      </dd>
+    </dl>
+
+    <h2>
+      <a tj="kz401" href="http://news.2345.com/sport/?le1">体育</a><i class="cut"></i><a tj="kz402" href="http://news.2345.com/nba/?le1">NBA</a><i class="cut"></i><a tj="kz403" href="https://www.166cai.com/?cpk=10097">彩票</a><i class="cut"></i><a tj="kz404" href="https://www.166cai.com/kaijiang?cpk=10097">双色球</a><i class="cut"></i><a tj="kz310" href="http://day.2345.com/?mid2">笑话</a><i class="cut"></i><a tj="kz209" href="http://game.2345.com/qipai.htm">棋牌</a><i class="cut"></i><a tj="kz407" href="http://www.2345.com/love.htm">交友</a><i class="cut"></i><a tj="kz408" href="http://tools.2345.com/meishi/">菜谱</a><i class="cut"></i><a tj="kz409" href="http://tools.2345.com/zhgjm.htm">解梦</a><i class="cut"></i><a tj="kz410" href="http://huodong.2345.com/2017/wallpaper/">壁纸</a>
+    </h2>
+    <dl>
+      <dt><strong><a name="2" tj="sh1" href="http://www.2345.com/shenghuo.htm">生活</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="sh2" href="http://jump.luna.58.com/s?spm=b-31580022738699-pe-f-830&ch=2345_123">58二手房</a></li>
+          <li><a tj="sh8" href="http://www.baixing.com/?bannerId=1561&profile=shenghuokz">百姓网</a></li>
+          <li><a tj="sh4" href="https://www.anjuke.com/sale/?utm_source=navi-2345-kz&pi=navi-2345-kz-rmesf">热门二手房</a></li>
+          <li><a tj="sh5" href="http://www.12306.cn/">12306</a></li>
+          <li><a href="http://email.163.com/" tj="yx2">163邮箱</a></li>
+          <li><a href="http://www.126.com/" tj="yx3">126邮箱</a></li>
+        </ul>
+        <a tj="sh9" class="more" name="2" href="http://www.2345.com/shenghuo.htm">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="zp1" href="http://www.2345.com/job.htm">招聘</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="zp2" href="http://www.liepin.com/abtest/37/">猎聘网</a></li>
+          <li><a tj="zp3" href="http://cnt.zhaopin.com/Market/whole_counter.jsp?sid=121114485&site=2345kuzhan&url=http://ts.zhaopin.com/jump/index.html">智联招聘</a></li>
+          <li><a tj="zp4" href="http://jump.luna.58.com/s?spm=b-31580022738699-pe-f-830&ch=2345_103">58招聘</a></li>
+          <li><a tj="zp5" href="http://www.2345.com/job.htm">职位招聘</a></li>
+          <li><a tj="zp6" href="http://www.chinahr.com/?utm_source=market&spm=b-32948702282246-pe-f-805.pc_dh_2345_kz">中华英才网</a></li>
+          <li><a tj="zp8" href="http://www.51job.com/">前程无忧</a></li>
+        </ul>
+        <a tj="zp9" class="more" name="2" href="http://www.2345.com/job.htm">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl class="linebottom_kz">
+      <dt><strong><a name="2" href="http://yule.2345.com/?dh" tj="yl1">娱乐</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="sj3" href="http://www.baihe.com/betatest/betatest_newlandpage.html?policy=1&Channel=2345k-pc&Code=140021">百合网</a></li>
+          <li><a href="http://news.to128.com/fashion/?dhyl" tj="yl2">娱乐时讯</a></li>
+          <li><a href="http://www.qidian.com/" tj="yl4">起 点</a></li>
+          <li><a href="http://book.km.com/yanqing.html" tj="yl4">言情小说</a></li>
+          <li><a href="http://book.km.com/" tj="yl6">免费小说</a></li>
+          <li><a href="https://v.6.cn/?src=z9weij1066" tj="yl7">美女音乐秀</a></li>
+        </ul>
+        <a class="more" href="http://yule.2345.com/?dh" name="2" tj="yl9">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" href="http://news.2345.com/sport/?le2" tj="ty1">体育</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a href="http://sports.sina.com.cn/" tj="ty2">新浪体育</a></li>
+          <li><a href="http://sports.eastday.com/?qid=2345kzty" tj="ty3">体育直播</a></li>
+          <li><a href="http://www.hupu.com/" tj="ty5">虎扑体育</a></li>
+          <li><a href="http://sports.cntv.cn/" tj="ty6">CCTV5直播</a></li>
+          <li><a href="http://news.to128.com/nba/?dhty" tj="ty7">NBA热闻</a></li>
+		  <li><a href="http://kan.2345.com/sports.html" tj="ty8">体育资讯</a></li>
+        </ul>
+        <a class="more" href="http://news.2345.com/sport/?le2" name="2" tj="ty9">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="cp1" href="http://www.2345.com/caipiao.htm">彩票</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="cp2" href="http://www.zhcw.com/">中彩网</a></li>
+          <li><a tj="cp3" href="https://www.166cai.com/?cpk=10097">166彩票</a></li>
+          <li><a tj="cp4" href="https://www.166cai.com/kaijiang/fc3d?cpk=10097">福彩3D开奖</a></li>
+          <li><a tj="cp5" href="https://www.166cai.com/kaijiang?cpk=10097">双色球开奖</a></li>
+          <li><a tj="cp6" href="https://www.166cai.com/dlt?cpk=10097">大乐透</a></li>
+          <li><a tj="cp7" href="http://www.jiang.com/?pid=72854">足球彩票网</a></li>
+        </ul>
+        <a class="more" href="http://www.2345.com/caipiao.htm" name="2" tj="cp9">更多&raquo;</a>
+      </dd>
+    </dl>
+    <dl>
+      <dt><strong><a name="2" tj="kz1" href="http://www.2345.com/fenlei.htm">综合</a></strong></dt>
+      <dd>
+        <ul>
+          <li><a tj="kz2" href="http://www.28.com/zhaoxiangmu/?sourceid=320910&JJID=V559dffea81cc3260430041&idzt=16&mediaid=5&comeID=320910">创业找项目</a></li>
+          <li><a tj="kz3" href="http://www.17173.com/">17173</a></li>
+          <li><a tj="kz4" href="https://www.douban.com/">豆瓣网</a></li>
+          <li><a tj="kz5" href="http://www.zol.com.cn/">中关村在线</a></li>
+          <li><a tj="kz6" href="http://www.joyup.tv/">乐上网</a></li>
+          <li><a tj="kz7" href="http://c.duomai.com/track.php?site_id=121152&aid=612&euid=&t=http%3A%2F%2Fstore.apple.com%2Fcn">苹果官网</a></li>
+        </ul>
+        <a class="more" href="http://www.2345.com/fenlei.htm" name="2" tj="kz9">更多&raquo;</a>
+      </dd>
+    </dl>
+</div>
+<!-- 酷站end -->  
+</div>
+<!-- right -->
+<div id="right" class="right r_gao_topic1">
+  <div></div>
+	<div class="mod event1 event1-hasList">
+    <script>
+      function generateRandomAlphaNum(len) {
+        var rdmString = "";
+        for( ; rdmString.length < len; rdmString += Math.random().toString(36).substr(2));
+        return rdmString.substr(0, len);
+      }
+	  $("cnxh").id = generateRandomAlphaNum(6);
+	  $("J_gul_yg").id = generateRandomAlphaNum(7);
+      document.getElementById("right").getElementsByTagName("div")[1].id = generateRandomAlphaNum(5);
+    </script>
+		<div id="J_Topic_Banner02" style="position:relative;height:50px;overflow:hidden;*zoom:1;">
+			<!-- 第1桢 begin-->
+			<div class="slide_item" style="height:100%;">
+				<div class="img">
+					<a tj="banner1" href="http://ccc.x.jd.com/dsp/cl?posid=1999&v=707&union_id=1000023384&pid=190&tagid=5671&to=https://sale.jd.com/act/C1bEzQ02FLIy.html" title="京东热卖">
+					<img src="i/blankHolder.png" data-pic="i/banner1_20170606.png" width="253" height="50" alt="京东热卖"></a>
+				</div>
+			</div>
+			<!-- 第1桢 end-->
+			<script>
+				$CONFIG['liuLanQi'] = {
+					href : 'http://ie.2345.com/?dh-wzt',
+					src : 'i/banner2_20161118.png',
+					title : '2345浏览器'
+				};
+				$CONFIG['shuRuFa'] = {
+					href : 'http://ie.2345.com/?dh-wzt',
+					src : 'i/banner2_20161118.png',
+					title : '2345浏览器'
+				};
+				(function(){var search=window.location.search,campus="",re=/^\?kcampus\d{4}$/,href=$('J_Topic_Banner02').getElementsByTagName('A')[0],img=$('J_Topic_Banner02').getElementsByTagName('IMG')[0],initHref=href.href,initTitle=href.title,initImg=img.getAttribute('data-pic');window.isCampus=re.test(search);if(window.isCampus){campus=search.substr(1);href.href="http://jifen.2345.com/schoolfund.php?fr="+campus;href.title="2345校园公益活动";img.src="http://jifen.2345.com/jifenimg/img/zhuanti/school/"+campus+".png";img.onerror=function(){href.href=initHref;href.title=initTitle;img.src=initImg}}else{img.src=initImg;return}})();
+			</script>
+			<!-- 第2桢 begin-->
+			<!-- 第2桢 end-->
+			<!-- 翻页按钮 begin-->
+			<div class="slide-trigger" id="J_topicBanner_trigger" style="display:none;">
+				<a href="#" hidefocus="true" class="slide_btn slide_pageup" ><span class="slide-bg"></span><em class="arrow">&lt;</em></a>
+				<a href="#" hidefocus="true" class="slide_btn slide_pagedown"><span class="slide-bg"></span><em class="arrow">&gt;</em></a>
+			</div>
+			<!-- 翻页按钮 end-->
+		</div>
+
+	</div>
+  <div class="mod mod_tool clearfix"> 
+	<dl class="toolbox" id="rightToolBox">
+		<dd><a class="i-sort-tools i-area" href="http://tools.2345.com/" tj="ysy_11"></a><a href="http://tools.2345.com/" tj="ysy_12">查询</a><span class="split"></span><a href="http://tianqi.2345.com/" tj="ysy_13">天气</a></dd>
+		<dd class="even-item"><a class="i-sort-news i-area" href="http://news.2345.com/?r1" tj="ysy_14"></a><a href="http://news.2345.com/?r1" tj="ysy_15">头条</a><span class="split"></span><a href="http://news.2345.com/mil/?r1" tj="ysy_16">军情</a></dd>
+		<dd><a class="i-sort-dianying i-area" href="http://tv.2345.com/" tj="ysy_21"></a><a href="http://tv.2345.com/" tj="ysy_22">电视剧</a><span class="split"></span><a href="http://dongman.2345.com/" tj="ysy_23">动漫</a></dd>
+		<dd class="even-item"><a class="i-sort-dongman i-area" href="http://dianying.2345.com/" tj="ysy_24"></a><a href="http://dianying.2345.com/" tj="ysy_25">电影</a><span class="split"></span><a href="http://kan.2345.com/zongyi/" tj="ysy_26">综艺</a></dd>
+		<dd><a class="i-sort-yeyou i-area" href="http://wan.2345.com/?frm=wzdh-ksrkyy&referer=wzdh" tj="ysy_31"></a><a href="http://wan.2345.com/?frm=wzdh-ksrkyy&referer=wzdh" tj="ysy_32">页游</a><span class="split"></span><a href="http://xiaoyouxi.2345.com/" tj="ysy_33">小游戏</a></dd>
+		<dd class="even-item"><a class="i-sort-music i-area" href="http://www.2345.com/music.htm" tj="ysy_34"></a><a href="http://www.2345.com/music.htm" tj="ysy_35">音乐</a><span class="split"></span><a href="http://book.km.com" tj="ysy_36">小说</a></dd>
+		<dd><a class="i-sort-caipiao i-area" href="https://www.166cai.com/?cpk=10046" tj="ysy_41"></a><a class="fred" href="https://www.166cai.com/?cpk=10046" tj="ysy_42">彩票</a><span class="split"></span><a href="https://www.166cai.com/ssq?cpk=10045" tj="ysy_43">双色球</a></dd>
+		<dd class="even-item"><a class="i-sort-jiemeng i-area" href="http://tools.2345.com/zhgjm.htm" tj="ysy_44"></a><a href="http://tools.2345.com/zhgjm.htm" tj="ysy_45">解梦</a><span class="split"></span><a href="http://tools.2345.com/suanming.htm" tj="ysy_46">算命</a></dd>
+		<dd><a class="i-sort-jipiao i-area" href="http://flight.qunar.com/?ex_track=auto_506522aa" name="2" tj="ysy_51"></a><a href="http://flight.qunar.com/?ex_track=auto_506522aa" tj="ysy_52">机票</a><span class="split"></span><a href="http://tools.2345.com/lieche.htm" tj="ysy_53">火车票</a></dd>
+		<dd class="even-item"><a class="i-sort-gupiao i-area" href="http://licai.2345.com/gupiao/" tj="ysy_54"></a><a href="http://licai.2345.com/gupiao/" tj="ysy_55">股票</a><span class="split"></span><a href="http://licai.2345.com/finance/" tj="ysy_56">理财</a></dd>
+		<dd><a class="i-sort-xingzuo i-area" href="http://tools.2345.com/naonao/" tj="ysy_61"></a><a href="http://tools.2345.com/naonao/" tj="ysy_62">星座</a><span class="split"></span><a href="http://tools.2345.com/shengxiao/" tj="ysy_63">运势</a></dd>
+		<dd class="even-item" onclick="window.scrollTo(0,1325); return false;"><a class="i-sort-more i-area" href="javascript:;" tj="ysy_64"></a><a class="fred" href="javascript:;" tj="ysy_65">更多分类&gt;&gt;</a></dd>
+		<dd class="clear" style="height:0px;overflow:hidden;float:none;"></dd>
+	</dl>
+ </div>
+ <script>
+	 T.ready(function(){
+        T.recBubble = new T.Bubble({
+			wrapper : $('rightToolBox'),
+			type : 'rec',
+			isShow : false,        // 是否开启推荐功能
+			id : 'rec20170324',   // 推荐广告标识
+			row : 3,              // 广告所在行
+			column : 2,           // 广告所在列
+			text : '2345网址导航',
+			href : 'https://www.2345.com'
+		});
+		T.recBubble.init();
+    });
+ </script>
+ <div class="mod right_box clearfix" id="J_right_box">
+<!-- 热点新闻 -->
+<div class="mod_news box-right box-news" id="J_newsChannel">
+        <script  type="text/javascript" >
+        T.newsChannel =  new T.Channel({
+            'wrapper' : $('J_newsChannel'),
+            'bdCls' : 'mod_newsbd',
+			'isClickChange':true
+         });
+		if ($CONFIG['pure']){
+			T.getScript('right/homepage/yxwChannel_pure_20170117' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t='+ $CONFIG['jsVersion']['yxw'],{ diff : 20 });	
+		} else {
+			T.getScript('right/homepage/yxwChannel_20170117' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t='+ $CONFIG['jsVersion']['yxw'],{ diff : 20 });	
+		}
+		</script>
+</div>
+<!-- /热点新闻 -->
+ 
+<!-- 影视娱乐 -->
+<div class="box-right box-right_v" id="J_entertainChannel">
+        <script type="text/javascript">
+        T.yspChannel =  new T.Channel({
+            'wrapper' : $('J_entertainChannel'),
+			'isPicChange' : true,
+			'bdCls' : "box-right-bd",
+			'isAutoPic' : true,
+			'intervalAutoPic' : 10000,
+			'picFrames' : 3,
+			'picsPerFrame' : 1
+         });
+        T.getScript('right/homepage/yspChannel_20170117.js?t='+ $CONFIG['jsVersion']['ysp']);
+        </script>
+</div>
+<!-- /影视娱乐 -->
+
+<!-- 游戏 -->
+<div class="box-right box-right_game" id="J_gameChannel">
+	 <textarea class="datalazyload" style="visibility: hidden;">
+        <script type="text/javascript">
+        T.yyxChannel =  new T.Channel({
+            'wrapper' : $('J_gameChannel'),
+			'isPicChange' : true,
+			'bdCls' : "box-right-bd",
+			'isAutoPic' : true,
+			'intervalAutoPic' : 10000,
+			'picFrames' : 3,
+			'picsPerFrame' : 1
+         });
+        T.getScript('right/homepage/yyxChannel_20170117.js?t='+ $CONFIG['jsVersion']['yyx']);
+        </script>
+	</textarea>
+</div>
+<!-- /游戏 --> 
+</div>
+</div>
+</div>
+  
+<!--分类导航begin-->
+<div class="mod mod-cateNav loading" id="J_category">
+  <textarea class="datalazyload" style="visibility: hidden;">
+    <div class="item item-first">
+      <div class="hdArea">
+        <i class="i-sort-life i-area"></i>
+        <span class="cate-tit"><a name="3" tj="fl1" href="http://tools.2345.com/life.htm">生活服务</a></span>
+      </div>
+      <div class="bdArea">
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl1_11" href="http://buy.2345.com/">购物</a></li>
+          <li><a name="3" tj="fl1_12" href="http://tools.2345.com/kuaidi.htm">快递</a></li>
+          <li><a name="3" tj="fl1_13" href="http://buy.2345.com/haitao/">海淘</a></li>
+          <li><a name="3" tj="fl1_14" href="https://s.click.taobao.com/erHFFqw">天猫</a></li>
+          <li><a name="3" tj="fl1_15" href="http://www.jiang.com/?pid=72854">彩票</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl1_21" href="http://licai.2345.com/finance/?e2">理财</a></li>
+          <li><a name="3" tj="fl1_22" href="http://licai.2345.com/finance/">P2P</a></li>
+          <li><a name="3" tj="fl1_23" href="http://licai.2345.com/gupiao/">股票</a></li>
+          <li><a name="3" tj="fl1_24" href="http://licai.2345.com/jijin/">基金</a></li>
+          <li><a name="3" tj="fl1_25" href="http://licai.2345.com/insurance/">保险</a></li>
+        </ul>
+		<ul class="data">
+          <li><a class="skin-c" name="3" tj="fl1_31" href="http://licai.2345.com/bank/">银行</a></li>
+          <li><a name="3" tj="fl1_32" href="http://licai.2345.com/daikuan">贷款</a></li>
+          <li><a name="3" tj="fl1_33" href="http://licai.2345.com/credit/0.0.0">信用卡</a></li>
+          <li><a name="3" tj="fl1_34" href="http://www.2345.com/house.htm">房产</a></li>
+          <li><a name="3" tj="fl1_35" href="http://www.2345.com/shenghuo.htm">生活</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl1_41" href="http://www.2345.com/car.htm">汽车</a></li>
+          <li><a name="3" tj="fl1_42" href="http://www.2345.com/ershouche.htm">二手车</a></li>
+          <li><a name="3" tj="fl1_43" href="http://tools.2345.com/weizhang.htm">违章</a></li>
+          <li><a name="3" tj="fl1_44" href="http://www.2345.com/map.htm">地图</a></li>
+          <li><a name="3" tj="fl1_45" href="http://tools.2345.com/">查询</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl1_51" href="http://lvyou.2345.com/">旅游</a></li>
+          <li><a name="3" tj="fl1_52" href="http://lvyou.2345.com/jiudian.html">酒店</a></li>
+          <li><a name="3" tj="fl1_53" href="http://lvyou.2345.com/dujia.html">景点</a></li>
+          <li><a name="3" tj="fl1_54" href="http://lvyou.2345.com/jipiao.html">机票</a></li>
+          <li><a name="3" tj="fl1_55" href="http://tools.2345.com/lieche.htm">火车票</a></li>
+        </ul>
+  
+      </div> 
+    </div>
+    <div class="item">
+      <div class="hdArea">
+       <i class="i-sort-xiuxian i-area"></i>
+        <span class="cate-tit"><a name="3" tj="fl2" href="http://yule.2345.com/?dh">娱乐休闲</a></span>
+      </div>
+      <div class="bdArea">
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl2_11" href="http://news.2345.com/?mid1">头条</a></li>
+          <li><a name="3" tj="fl2_12" href="http://tianqi.2345.com/indexs.htm">天气</a></li>
+          <li><a name="3" tj="fl2_13" href="http://news.2345.com/mil/?mid1">军情</a></li>
+          <li><a name="3" tj="fl2_14" href="http://news.2345.com/sport/?mid1">体育</a></li>
+          <li><a name="3" tj="fl2_15" href="http://news.2345.com/nba/?mid1">NBA</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl2_21" href="http://game.2345.com/">游戏</a></li>
+          <li><a name="3" tj="fl2_22" href="http://www.2345.com/music.htm">音乐</a></li>
+          <li><a name="3" tj="fl2_23" href="http://book.km.com">小说</a></li>
+          <li><a name="3" tj="fl2_24" href="http://book.km.com/manhua/">漫画</a></li>
+          <li><a name="3" tj="fl2_25" href="http://xiaoyouxi.2345.com/">小游戏</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl2_31" href="http://kan.2345.com/">视频</a></li>
+          <li><a name="3" tj="fl2_32" href="http://dianying.2345.com/">电影</a></li>
+          <li><a name="3" tj="fl2_33" href="http://tv.2345.com/">电视剧</a></li>
+          <li><a name="3" tj="fl2_34" href="http://kan.2345.com/zongyi/">综艺</a></li>
+          <li><a name="3" tj="fl2_35" href="http://dongman.2345.com/">动漫</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl2_41" href="http://yule.2345.com/?dh">娱乐</a></li>
+          <li><a name="3" tj="fl2_42" href="http://www.contentchina.com/zhibo/meinvindex/">直播</a></li>
+          <li><a name="3" tj="fl2_43" href="http://day.2345.com/?mid3">笑话</a></li>
+          <li><a name="3" tj="fl2_44" href="http://tools.2345.com/zhgjm.htm">解梦</a></li>
+          <li><a name="3" tj="fl2_45" href="http://tools.2345.com/xingzuoyc.htm">星座</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl2_51" href="http://news.to128.com/fashion/">女性</a></li>
+          <li><a name="3" tj="fl2_52" href="http://www.2345.com/child.htm">儿童</a></li>
+          <li><a name="3" tj="fl2_53" href="http://www.contentchina.com/zhibo/">美女</a></li>
+          <li><a name="3" tj="fl2_54" href="http://news.2345.com/health/">健康</a></li>
+          <li><a name="3" tj="fl2_55" href="http://news.2345.com/fashion/">时尚</a></li>
+        </ul>
+      </div> 
+    </div>
+    <div class="item">
+      <div class="hdArea">
+        <i class="i-sort-more i-area"></i>
+        <span class="cate-tit"><a name="3" tj="fl3" href="http://tools.2345.com/">其它分类</a></span>
+      </div>
+      <div class="bdArea">
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl3_11" href="http://edu.2345.com/">教育</a></li>
+          <li><a name="3" tj="fl3_12" href="http://edu.2345.com/daxueku.htm">大学</a></li>
+          <li><a name="3" tj="fl3_13" href="http://edu.2345.com/liuxue.htm">留学</a></li>
+          <li><a name="3" tj="fl3_14" href="http://tools.2345.com/translate.htm">翻译</a></li>
+          <li><a name="3" tj="fl3_15" href="http://tools.2345.com/jzw/">急转弯</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl3_21" href="http://news.2345.com/keji/">科技</a></li>
+          <li><a name="3" tj="fl3_22" href="http://www.2345.com/shouji.htm">手机</a></li>
+          <li><a name="3" tj="fl3_23" href="http://www.duote.com/">软件</a></li>
+          <li><a name="3" tj="fl3_24" href="http://www.2345.com/sheying.htm">摄影</a></li>
+          <li><a name="3" tj="fl3_25" href="http://www.2345.com/pic.htm">壁纸</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl3_31" href="http://www.2345.com/flower.htm">爱好</a></li>
+          <li><a name="3" tj="fl3_32" href="http://www.2345.com/meishi.htm">菜谱</a></li>
+          <li><a name="3" tj="fl3_33" href="http://www.2345.com/art.htm">琴棋</a></li>
+          <li><a name="3" tj="fl3_34" href="http://www.2345.com/quyi.htm">曲艺</a></li>
+          <li><a name="3" tj="fl3_35" href="http://www.2345.com/fenlei.htm">发现</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl3_41" href="http://www.2345.com/corp.htm">行业</a></li>
+          <li><a class="fred" name="3" tj="fl3_42" href="http://www.2345.com/mail.htm">邮箱</a></li>
+          <li><a name="3" tj="fl3_43" href="http://www.2345.com/bbs.htm">论坛</a></li>
+          <li><a name="3" tj="fl3_44" href="http://www.2345.com/love.htm">交友</a></li>
+          <li><a name="3" tj="fl3_45" href="http://www.2345.com/job.htm">招聘</a></li>
+        </ul>
+        <ul class="data">
+          <li><a class="skin-c" name="3" tj="fl3_51" href="http://www.2345.com/gov.htm">政府</a></li>
+          <li><a name="3" tj="fl3_52" href="http://www.2345.com/law.htm">法律</a></li>
+          <li><a name="3" tj="fl3_53" href="http://www.2345.com/fenlei.htm#fl106">历史</a></li>
+          <li><a name="3" tj="fl3_54" href="http://www.2345.com/zongjiao.htm">宗教</a></li>
+          <li><a name="3" tj="fl3_55" href="http://city.2345.com/city.htm">地方</a></li>
+        </ul>
+      </div> 
+    </div>
+  <script>
+    (function(){if(isIE6){var items=$cls('item',$('J_category')),len=items.length;for(var i=0;i<len;i++){items[i].onmouseover=(function(_i){return function(){(items[_i].className.indexOf('hover')==-1)&&(items[_i].className+=' hover')}})(i);items[i].onmouseout=(function(_i){return function(){if(_i==0){items[_i].className='item item-first'}else{items[_i].className='item'}}})(i)}}})()
+  </script>
+  </textarea>
+</div>
+<!--分类导航end-->
+
+<!--玩游戏v1 begin-->
+<div class="mod bottom_mod m_game loading clearfix mt8" id="map_game">
+	<textarea class="datalazyload" style="visibility: hidden;">
+	<div class="module_t">
+		<a tj="dyx_1" class="t_h2" href="http://game.2345.com"><i class="i-sort-game i-area"></i><h2>玩游戏</h2></a>
+		<span class="m_t_link">
+			<a tj="dyx_2" href="http://xiaoyouxi.2345.com">小游戏</a><ins>|</ins>
+			<a tj="dyx_3" href="http://danji.2345.com">单机游戏</a><ins>|</ins>
+			<a tj="dyx_4" href="http://wangyou.2345.com">网络游戏</a><ins>|</ins>
+			<a tj="dyx_5" href="http://wan.2345.com/?frm=wzdh-wyx-wyyx&referer=wzdh">网页游戏</a><ins>|</ins>
+			<a tj="dyx_6" href="http://game.2345.com/zhibo/">游戏直播</a>
+		</span>
+		<span class="m_t_recom" id="gameCnxh"></span>
+		<script>
+			if(window.gameCnxhData!==undefined){(function(){var len=gameCnxhData.length,i=0,temp=[],d=null;len=len>4?4:len;for(;i<len;i++){d=gameCnxhData[i];ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+window.testTag+'\',\''+0+'\',\''+100+'\',\''+d['flid']+'\',\'3A7\'],\'ajax131\',event,(+ this.getAttribute(\'data-idx\')));clickCount(\'gameCnxh'+(i+1)+'\');"';temp.push('<a data-idx="1'+(i+1)+'" title="'+(d['desc']?d['desc']:'')+'" name="2" tj="dyx_'+(i+7)+'" href="'+d['url']+'"'+ajax131+'>'+d['name']+'</a>')}$("gameCnxh").innerHTML=temp.join('')})()}
+		</script>
+	</div>
+	<div class="module_bd clearfix">
+		<div class="layout-game">
+			<div class="layout-game-left">
+				<ul class="game-list">
+					<li class="item">
+						<div class="mod-image mod-image_136 mod-image_game">
+							<a tj="dyx1_1" href="http://chushou.tv/open/hotroom/g-1159.htm?hmsr=2345zhibo&hmpl=&hmcu=&hmkw=&hmci=">
+								<img width="136" height="110" src="i/dyx1_1_20170331.jpg" alt="" />
+								<span class="txt">王者荣耀</span>
+								<span class="maskbgi"></span>
+								<span class="maskbgc"></span>
+								<i class="flag">直播</i>
+							</a>
+						</div>
+					</li>
+					<li class="item">
+						<div class="mod-image mod-image_136 mod-image_game">
+							<a tj="dyx1_2" href="http://chushou.tv/open/hotroom/g-1147.htm?hmsr=2345zhibo&hmpl=&hmcu=&hmkw=&hmci=">
+								<img width="136" height="110" src="i/dyx1_2_20170331.jpg" alt="" />
+								<span class="txt">穿越火线</span>
+								<span class="maskbgi"></span>
+								<span class="maskbgc"></span>
+								<i class="flag">直播</i>
+							</a>
+						</div>
+					</li>
+					<li class="item wide_only">
+						<div class="mod-image mod-image_136 mod-image_game">
+							<a tj="dyx1_3" href="http://chushou.tv/open/hotroom/g-1370.htm?hmsr=2345zhibo&hmpl=&hmcu=&hmkw=&hmci=">
+								<img width="136" height="110" src="i/dyx1_3_20170331.jpg" alt="" />
+								<span class="txt">龙之谷</span>
+								<span class="maskbgi"></span>
+								<span class="maskbgc"></span>
+								<i class="flag">直播</i>
+							</a>
+						</div>
+					</li>
+					<li class="item">
+						<div class="mod-image mod-image_136 mod-image_game">
+							<a tj="dyx1_4" href="http://chushou.tv/open/hotroom/g-1013.htm?hmsr=2345zhibo&hmpl=&hmcu=&hmkw=&hmci=">
+								<img width="136" height="110" src="i/dyx1_4_20170331.jpg" alt="" />
+								<span class="txt">球球大作战</span>
+								<span class="maskbgi"></span>
+								<span class="maskbgc"></span>
+								<i class="flag">直播</i>
+							</a>
+						</div>
+					</li>
+					<li class="item">
+						<div class="mod-image mod-image_136 mod-image_game">
+							<a tj="dyx1_5" href="http://chushou.tv/open/hotroom/g-1386.htm?hmsr=2345zhibo&hmpl=&hmcu=&hmkw=&hmci=">
+								<img width="136" height="110" src="i/dyx1_5_20170331.jpg" alt="" />
+								<span class="txt">狼人杀</span>
+								<span class="maskbgi"></span>
+								<span class="maskbgc"></span>
+								<i class="flag">直播</i>
+							</a>
+						</div>
+					</li>
+					<li class="item wide_only">
+						<div class="mod-image mod-image_136 mod-image_game">
+							<a tj="dyx1_6" href="http://chushou.tv/open/hotroom/g-1014.htm?hmsr=2345zhibo&hmpl=&hmcu=&hmkw=&hmci=">
+								<img width="136" height="110" src="i/dyx1_6_20170331.jpg" alt="" />
+								<span class="txt">我的世界</span>
+								<span class="maskbgi"></span>
+								<span class="maskbgc"></span>
+								<i class="flag">直播</i>
+							</a>
+						</div>
+					</li>
+					<!--[if IE 6]><li class="clear"></li><![endif]-->
+				</ul>
+			</div>
+			<div class="layout-game-right">
+				<ul class="mod-gamecnxh" id="webGameCnxhList">
+					<li><img width="52" height="52" src="i/dyx2_11_160926.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_101" href="http://xiaoyouxi.2345.com/flash/497006.htm">超级玛丽</a></li>
+					<li><img width="52" height="52" src="i/dyx2_12_20160729.png" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_102" href="http://g.wan.2345.com/s/1/1254/82.html?frm=wzdh-wyx-xt">追忆1.76</a></li>
+					<li><img width="52" height="52" src="i/dyx2_13_160616.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_103" href="http://xiaoyouxi.2345.com/flash/13699.htm">植物战僵尸</a></li>
+					<li><img width="52" height="52" src="i/dyx2_12_150515.gif" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_104" href="http://g.wan.2345.com/s/1/1254/128.html?frm=wzdh-wyx-xt1">秒杀快感</a></li>
+					<li><img width="52" height="52" src="i/dyx2_38_170213.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_105" href="http://xiaoyouxi.2345.com/flash/508289.htm">熊出没夺宝</a></li>
+					<li><img width="52" height="52" src="i/dyx2_16_20160722.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_106" href="http://g.wan.2345.com/s/1/1254/161.html?frm=wzdh-wyx-xt2">正版传奇</a></li>
+					<li><img width="52" height="52" src="i/wyx_1_7_6.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_107" href="http://xiaoyouxi.2345.com/flash/447435.htm">朵拉的农场</a></li>
+					<li><img width="52" height="52" src="i/dyx2_18_161116.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_108" href=" http://xiaoyouxi.2345.com/flash/505614.htm">能力收割者</a></li>
+		            <li><img width="52" height="52" src="i/dyx2_19_170122.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_109" href="http://xiaoyouxi.2345.com/flash/495205.htm">捣蛋猪7</a></li>
+					<li><img width="52" height="52" src="i/dyx2_110_170122.jpg" alt=""/><span class="layer"></span><a class="trig" tj="dyx1_110" href=" http://xiaoyouxi.2345.com/flash/506639.htm">机械鲨鱼</a></li>
+	          	</ul>
+				<script>
+					if(window.webGameCnxhData!==undefined){(function(){var len=webGameCnxhData.length,i=0,temp=[],d=null;len=len>10?10:len;for(;i<len;i++){d=webGameCnxhData[i];ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+window.testTag+'\',\''+0+'\',\''+100+'\',\''+d['flid']+'\',\'3A7\',\'cu1000080\'],\'ajax131\',event);"';temp.push('<li><img width="52" height="52" src="'+d['img']+'" alt=""/><span class="layer"></span><a class="trig" '+ajax131+' tj="dyx2_101" href="'+d['url']+'">'+d['name']+'</a></li>')}$("webGameCnxhList").innerHTML=temp.join('')})()}
+				</script>
+	          <ul class="mod-imggame" id="modImgGame"></ul>
+			</div>
+		</div>
+		<!--热门页游 begin-->
+		<div class="mod-dashTit">
+			<span class="tit"><i class="decorate"></i>热门页游</span>
+			<span class="line"></span>
+		</div>
+		<ul class="yeyou-list"  id="yeYouList"><ul>
+		<!--热门页游 end-->
+	</div>
+	<script type="text/javascript" > 
+		T.dyxChannel = {
+          'init' : function (data){ $('modImgGame').innerHTML = data.yx;$('yeYouList').innerHTML = data.yy;}
+        };
+		T.getScript('right/homepage/dyxChannel_20170216' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dyx']);
+    </script>
+	</textarea>
+</div>
+<!--玩游戏v1 end-->
+ 
+<!--看视频v1 begin-->
+<div class="mod bottom_mod m_video loading clearfix mt8" id="map_video">
+  <textarea class="datalazyload" style="visibility: hidden;">
+    <div class="module_t">
+       <a href="http://kan.2345.com" class="t_h2" name="2" tj="dsp_1"><i class="i-sort-video i-area"></i><h2>看视频</h2></a>
+       <span class="m_t_link">
+			<a tj="dsp_2" href="http://tv.2345.com" name="2">电视剧</a><ins>|</ins>
+			<a tj="dsp_3" href="http://dianying.2345.com" name="2">电影</a><ins>|</ins>
+			<a tj="dsp_4" href="http://dongman.2345.com" name="2">动漫</a><ins>|</ins>
+			<a tj="dsp_5" href="http://kan.2345.com/zongyi/" name="2">综艺</a><ins>|</ins>
+			<a tj="dsp_6" href="http://www.contentchina.com/zhibo/" name="2">直播</a><ins>|</ins>
+			<a tj="dsp_7" href="http://dianying.2345.com/mingxing/" name="2">明星</a></span>
+	   <span class="m_t_recom" id="videoCnxh"></span>
+		<script>
+			if(window.videoCnxhData!==undefined){(function(){var len=videoCnxhData.length,i=0,temp=[],d=null;len=len>3?3:len;for(;i<len;i++){d=videoCnxhData[i];ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+window.testTag+'\',\''+0+'\',\''+100+'\',\''+d['flid']+'\',\'3A7\'],\'ajax131\',event,(+ this.getAttribute(\'data-idx\')));clickCount(\'videoCnxh'+(i+1)+'\');"';temp.push('<a data-idx="2'+(i+1)+'" title="'+(d['desc']?d['desc']:'')+'" name="2" tj="dsp_'+(i+7)+'" href="'+d['url']+'"'+ajax131+'>'+d['name']+'</a>')}$("videoCnxh").innerHTML=temp.join('')})()}
+		</script>
+	</div>
+    <div class="module_bd clearfix">
+    	<!--列表 begin-->
+		<ul class="video-list" id="J_m_video_c1"></ul>
+		<!--列表 end-->
+		<!--美女直播 begin-->
+		<div class="mod-dashTit">
+			<span class="tit"><i class="decorate"></i>美女直播</span>
+			<span class="line"></span>
+		</div>
+		<ul class="videozb-list" id="J_m_video_c2"><ul>
+		<!--美女直播 end-->
+  	</div>
+	<script type="text/javascript" > 
+		T.dspChannel = {
+          'init' : function (data){ $('J_m_video_c1').innerHTML = data;}
+        };
+		T.getScript('right/homepage/dspChannel_20170216' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dsp']);
+        T.dzbChannel = {
+           'init' : function (data){ $('J_m_video_c2').innerHTML = data;}
+        };
+        T.getScript('right/homepage/dzbChannel_20170503' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dzb']);
+   </script>
+
+  </textarea>
+
+  <div class="bd-lvy">
+     <script type="text/javascript">
+      /*首页test*/
+      var cpro_id = "u2820170";
+    </script>
+    <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js"></script>
+  </div>
+  
+</div>
+<!--看视频v1 end-->
+
+<!-- 实惠购物 -->
+<div class="mod bottom_mod m_buy clearfix mt8" style="height:auto;" id="map_buy">
+  <div class="module_t">
+    <a tj="dgw_1" href="http://ai.taobao.com/?pid=mm_12351394_2325537_63672625" class="t_h2"><i class="i-sort-buy i-area"></i><h2>实惠购物</h2></a>
+  </div>
+  <!--textarea class="datalazyload" style="visibility: hidden;"-->
+
+<script type="text/javascript">
+	if($CONFIG['wideScreen']){
+		document.write('<a style="display:none!important" id="tanx-a-mm_26632324_6858394_72322404"></a>');
+        tanx_s = document.createElement("script");
+        tanx_s.type = "text/javascript";
+        tanx_s.charset = "gbk";
+        tanx_s.id = "tanx-s-mm_26632324_6858394_72322404";
+        tanx_s.async = true;
+        tanx_s.src = ( "https:" === location.protocol ? "https://phs" : "http://p") + ".tanx.com/ex?i=mm_26632324_6858394_72322404";
+        tanx_h = document.getElementsByTagName("head")[0];
+        if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+	 }else{
+		document.write('<a style="display:none!important" id="tanx-a-mm_26632324_6844396_72324398"></a>');
+        tanx_s = document.createElement("script");
+        tanx_s.type = "text/javascript";
+        tanx_s.charset = "gbk";
+        tanx_s.id = "tanx-s-mm_26632324_6844396_72324398";
+        tanx_s.async = true;
+        tanx_s.src = ( "https:" === location.protocol ? "https://phs" : "http://p") + ".tanx.com/ex?i=mm_26632324_6844396_72324398";
+        tanx_h = document.getElementsByTagName("head")[0];
+        if(tanx_h)tanx_h.insertBefore(tanx_s,tanx_h.firstChild);
+	 }
+</script>
+   
+  <!--/textarea-->
+</div>
+<!-- 实惠购物 end -->
+
+<!--生活百科 begin-->
+<div class="mod bottom_mod mod-bomlife" id="map_these">
+	<textarea class="datalazyload" style="visibility: hidden;">
+		<div class="module_t">
+			<span><a class="t_h2" href="http://tools.2345.com/?dh" tj="dsh_1"><i class="i-sort-life i-area"></i><h2>生活百科</h2></a></span>
+			<span class="m_t_link">
+      <a tj="dsh_2" href="http://tools.2345.com/zhanbu/zhuge">诸葛测字</a>
+      <ins>|</ins>
+      <a tj="dsh_3" href="http://tools.2345.com/pianfang/">民间偏方</a>
+      <ins>|</ins>
+      <a tj="dsh_4" href="http://www.2345.com/music.htm?bottom1">热门音乐</a>
+      <ins>|</ins>
+      <a tj="dsh_5" href="http://tools.2345.com/zhanbu/yuelao/">月老灵签</a>
+      <ins>|</ins>
+      <a tj="dsh_6" href="https://www.166cai.com/info?cpk=10097">彩票预测</a>
+      </span>
+	   <span class="m_t_recom" id="lifeCnxh"></span>
+		<script>
+			if(window.lifeCnxhData!==undefined){(function(){var len=lifeCnxhData.length,i=0,temp=[],d=null;len=len>3?3:len;for(;i<len;i++){d=lifeCnxhData[i];ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+window.testTag+'\',\''+0+'\',\''+100+'\',\''+d['flid']+'\',\'3A7\'],\'ajax131\',event,(+ this.getAttribute(\'data-idx\')));clickCount(\'lifeCnxh'+(i+1)+'\');"';temp.push('<a data-idx="3'+(i+1)+'" title="'+(d['desc']?d['desc']:'')+'" name="2" tj="gul_content_sh" href="'+d['url']+'"'+ajax131+'>'+d['name']+'</a>')}$("lifeCnxh").innerHTML=temp.join('')})()}
+		</script>
+		</div>
+		<div class="module_bd clearfix">
+			<div class="col-left life_col_1">
+				<ul class="tool_ul">
+          <li><a tj="dsh1_11" href="http://tools.2345.com/weizhang.htm"><i class="i-sort-weizhang i-area"></i><p>查违章</p></a></li>
+          <li><a tj="dsh1_12" href="http://tools.2345.com/rili.htm"><i class="i-sort-rili i-area"></i><p>万年历</p></a></li>
+          <li><a tj="dsh1_13" href="http://u.ctrip.com/union/CtripRedirect.aspx?TypeID=2&Allianceid=1119&sid=728073&OUID=&jumpUrl=http://flights.ctrip.com/"><i class="i-sort-jipiao1 i-area"></i><p>机票</p></a></li>
+          <li><a tj="dsh1_14" href="http://licai.2345.com/finance/"><i class="i-sort-licai i-area"></i><p>学理财</p></a></li>
+          <li><a tj="dsh1_21" href="http://tools.2345.com/lieche.htm"><i class="i-sort-huochepiao i-area"></i><p>火车票</p></a></li>
+          <li><a tj="dsh1_22" href="http://tools.2345.com/meishi/"><i class="i-sort-caipu i-area"></i><p>查菜谱</p></a></li>
+          <li><a tj="dsh1_23" href="http://tools.2345.com/suanming/xm"><i class="i-sort-xingming i-area"></i><p>测姓名</p></a></li>
+          <li><a tj="dsh1_24" href="http://tools.2345.com/kuaidi.htm"><i class="i-sort-kuaidi i-area"></i><p>查快递</p></a></li>
+        </ul>
+        <ul class="t_txt_ul">
+          <li><a tj="dsh1_31" href="http://tools.2345.com/xingzuoyc.htm">星座运势</a></li>
+          <li><a tj="dsh1_32" href="http://tools.2345.com/jiashizheng/">驾驶证</a></li> 
+          <li><a tj="dsh1_33" href="http://newcar.xcar.com.cn//#zoneclick=102859">新车报价</a></li>
+          <li><a tj="dsh1_34" href="http://www.2345.com/ershouche.htm?sh">二手车市</a></li>
+          <li><a tj="dsh1_41" href="http://yule.2345.com/?dh" class="fred">娱乐八卦</a></li>
+          <li><a tj="dsh1_42" href="http://www.qfang.com/essw">网上租房</a></li>
+          <li><a tj="dsh1_43" href="http://tools.2345.com/shenfenzheng.htm">身份证</a></li>
+          <li><a tj="dsh1_44" href="http://tools.2345.com/zhgjm.htm">周公解梦</a></li>
+          <li><a tj="dsh1_51" href="http://tools.2345.com/suanming/bz">八字算命</a></li>
+          <li><a tj="dsh1_52" href="http://tools.2345.com/suanming/xm">姓名分析</a></li>
+          <li><a tj="dsh1_53" href="http://tools.2345.com/zhanbu/guanyin">观音灵签</a></li>
+          <li><a tj="dsh1_54" href="http://tools.2345.com/shouxiang/">手相查询</a></li>
+		  <li><a tj="dsh1_61" href="http://tools.2345.com/laohuangli.htm">吉日查询</a></li>
+		  <li><a tj="dsh1_62" href="http://tools.2345.com/shengxiao/">生肖运程</a></li>
+		  <li><a tj="dsh1_63" href="http://tools.2345.com/fengshui/">风水测算</a></li>
+		  <li><a tj="dsh1_64" href="http://tools.2345.com/naonao/2017allyear.htm">2017运程</a></li>
+        </ul>
+			</div>
+			<div class="life_col_2" id="J_liveChannelbd1">
+			</div>
+			<div class="life_col_3" id="J_liveChannelbd2">
+			</div>
+		</div>
+		<script type="text/javascript" > 
+			T.dshChannel = {
+			  'init' : function (data){
+					if (!data) { return }
+					$('J_liveChannelbd1').innerHTML = data[0];
+					$('J_liveChannelbd2').innerHTML = data[1];
+			  }
+			};
+			if ($CONFIG['pure']){
+			    T.getScript('right/homepage/dshChannel_pure_20170320' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dsh']);
+			} else {
+				T.getScript('right/homepage/dshChannel_20170320' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dsh']);
+			}
+		</script>
+	</textarea>
+</div>
+<!--生活百科 end--> 
+
+<!-- 快乐生活 -->
+<div class="mod bottom_mod m_life loading clearfix mt8" id="map_life" style="display:;">
+  <textarea class="datalazyload" style="visibility: hidden;">
+   <div class="module_t">
+    <span><a class="t_h2" name="2" tj="dxh_1" href="http://day.2345.com/?bottom"><i class="i-sort-yule i-area"></i><h2>放松一下</h2></a></span>
+    <span class="m_t_link">
+		<a tj="dxh_2" href="http://yule.2345.com/?dh">美女明星</a><ins>|</ins>
+		<a tj="dxh_4" href="http://day.2345.com/">笑话大全</a><ins>|</ins>
+		<a tj="dxh_5" href="http://book.km.com/?source=2345&location=shbk">免费小说</a>
+    </span>
+    <span class="m_t_recom" id="jokeCnxh"></span>
+    <script>
+		if(window.jokeCnxhData!==undefined){(function(){var len=jokeCnxhData.length,i=0,temp=[],d=null;len=len>4?4:len;for(;i<len;i++){d=jokeCnxhData[i];ajax131=' onclick="clickCount([\''+d['md5']+'\',\''+d['ggid']+'\',\''+window.testTag+'\',\''+0+'\',\''+100+'\',\''+d['flid']+'\',\'3A7\'],\'ajax131\',event,(+ this.getAttribute(\'data-idx\')));clickCount(\'jokeCnxh'+(i+1)+'\');"';temp.push('<a data-idx="4'+(i+1)+'" title="'+(d['desc']?d['desc']:'')+'" name="2" tj="gul_content_yx" href="'+d['url']+'"'+ajax131+'>'+d['name']+'</a>')}$("jokeCnxh").innerHTML=temp.join('')})()}
+	</script>
+  </div>
+  <div class="module_bd clearfix">  
+    <div class="col-left life_c1" id="J_lifeChannelbd1"></div>
+    <div class="col-right" id="J_lifeChannelbd2"></div> 
+  </div>
+     <script> 
+		T.dfsChannel={'count':[],'init':function(data){if(!data){return}$('J_lifeChannelbd1').innerHTML=data.bd1;$('J_lifeChannelbd2').innerHTML=data.bd2;this.data=data.extraData;if(!this.data){return}var lifeAs=$t('a',$('J_lifeChannelbd2'));for(var i=0;i<lifeAs.length;i++){lifeAs[i].onclick=this.handler;lifeAs[i].index=i;this.count[i]=0}},'handler':function(){var me=this,i=me.index,iCurrentCount=T.dfsChannel.count[i];if(iCurrentCount>T.dfsChannel.data[i].length-1){return}var data=T.dfsChannel.data[i][iCurrentCount];setTimeout(function(){me.href=data['href']},300);$t('img',me)[0].src=data['img'];$t('span',me)[0].innerHTML=data['p'];T.dfsChannel.count[i]++}};
+		if ($CONFIG['pure']){
+			T.getScript('right/homepage/dfsChannel_pure_20170320' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dfs']);
+		} else {
+			T.getScript('right/homepage/dfsChannel_20170320' + ( $CONFIG['wideScreen'] ? '_w' : '' ) + '.js?t=' +$CONFIG['jsVersion']['dfs']);
+		}
+	 </script>
+   </textarea>
+</div>
+<!-- 快乐生活 end -->
+
+<!--今日头条v1 begin-->
+<div class="mod bottom_mod m_toutiao loading clearfix mt8" id="map_topNews">
+  <textarea class="datalazyload" style="visibility: hidden;">
+   <div class="module_t">
+    <span><a class="t_h2" name="2" tj="dxw_1" href="http://news.2345.com/?newsfall"><i class="i-sort-toutiao i-area"></i><h2>今日头条</h2></a></span>
+    <span class="m_t_link">
+		<a tj="dxw_2" href="http://news.2345.com/society/?newsfall">社会</a><ins>|</ins>
+		<a tj="dxw_3" href="http://yule.2345.com/?newsfall">娱乐</a><ins>|</ins>
+		<a tj="dxw_4" href="http://news.2345.com/sport/?newsfall">体育</a><ins>|</ins>
+		<a tj="dxw_5" href="http://news.2345.com/nba/?newsfall">NBA</a>
+	</span>
+	<span class="m_t_recom" id="jokeCnxh"><a tj="dxw_6" href="http://news.2345.com/china/?newsfall">国内</a><a tj="dxw_7" href="http://news.2345.com/world/?newsfall">国际</a><a tj="dxw_8" href="http://news.2345.com/mil/?newsfall">军事</a></span>
+  </div>
+  <div class="module_bd clearfix"> 
+  	<div class="layout-toutiao">
+  		<div class="layout-toutiao-left">
+  			<div class="mod-flow">
+  				<!--列表 begin-->
+	  			<ul class="list" id="dxwChannelLeft"></ul>
+	  			<!--列表 end-->
+	  			<!--加载中 begin-->
+	  			<div class="feed-back" id="newsLoading" style="display:none"><i class="i-loading"></i>新闻加载中...</div>
+	  			<!--加载中 end-->
+	  			<!--加载完成 begin-->
+	  			<div class="feed-back" id="newsLoaded" style="display:none">已经到底了，休息一会吧~</div>
+	  			<!--加载完成 end-->
+	  			<!--加载失败 begin-->
+	  			<div class="feed-back" id="newsLoadFailed" style="display:none"><a href="javascript:;">请求失败，重新加载页面</a></div>
+	  			<!--加载失败 end-->
+	  		</div>
+  		</div>
+  		<div class="layout-toutiao-right">
+  			<div class="m_stit"><i class="decorate"></i>热点排行</div>
+			<!--列表 begin-->
+			<div class="mod-flow mod-flow-s">
+				<ul class="list" id="dxwChannelRight"></ul>
+			</div>
+			<!--列表 end-->
+  		</div>
+  	</div>
+  </div>
+	<script>
+		T.dxwCnxh={'cnxhData':[],'getdxwCnxh':function(data){this.cnxhData=data}};T.getScript('//guess.union2.50bang.org/home.php/AdsApi_NewsPlan-index?jsonp=T.dxwCnxh.getdxwCnxh&channel=cu1000264&page=1&limit=30');if(window.noTopNews===undefined){T.dxwChannel={'leftWrapper':$('dxwChannelLeft'),'rightWrapper':$('dxwChannelRight'),'startkey':'','newkey':'','pgnum':1,'idx':0,'uid':g_cookie('bdUid')||Math.random().toString(36).substr(2),'city':unescape(g_cookie('wc_n'))||'','browser':T.browser.types[0]||'unKnownType','timeout':4000,'hanging':false,'errType':'','initDf':function(data){if(this.hanging){return}if(!(data.data&&data.data.length>1)){this.errType='noData';T.getScript('right/homepage/dxwChannel_1_20170412.js?t='+$CONFIG['jsVersion']['dxw']);$('map_topNews').style.display='none';return}this.hanging=true;this.renderLeft(data);T.getScript('//2345sy.dftoutiao.com/newsapi_pc/newsjp?callback=T.dxwChannel.renderRight&type=toutiao&startkey='+this.startkey+'&newkey='+this.newkey+'&pgnum='+this.pgnum+'&uid='+this.uid+'&idx='+this.idx+'&qid=2345xxl&position='+this.city+'&_=149068332667')},'init':function(data){if(!data){$('map_topNews').style.display='none';return}$('dxwChannelLeft').innerHTML=$('dxwChannelLeft').innerHTML+data[0];this.pgnum++;if(data[1]){$('dxwChannelRight').innerHTML=data[1]}$("newsLoading").style.display="block"},'getData':function(url){var self=this,counter=0,interval=100;self.timer||(self.timer=setInterval(function(){if(self.hanging){clearInterval(self.timer);return}if(counter>self.timeout/interval){self.errType='timeout';T.getScript('right/homepage/dxwChannel_1_20170412.js?t='+$CONFIG['jsVersion']['dxw']);clearInterval(self.timer)}else{counter++}},interval));T.getScript(url,{errCb:function(){if(self.hanging){return}self.errType='jsError';T.getScript('right/homepage/dxwChannel_1_20170412.js?t='+$CONFIG['jsVersion']['dxw'])}})},'updateArgs':function(data){this.startkey=data.endkey;this.newkey=data.newkey;this.pgnum++;this.idx+=20},'formatTime':function(t){var date=new Date(t*1000);var month=date.getMonth()+1;var day=date.getDate();var hour=date.getHours();var minute=date.getMinutes();var formatNumber=function(n){n=n.toString();return n[1]?n:'0'+n};return formatNumber(month)+'月'+formatNumber(day)+'日 '+formatNumber(hour)+':'+formatNumber(minute)},'clickLog':function(info){T.beacon('//2345sy.dftoutiao.com/newslog_pc/click?uid='+T.dxwChannel.uid+'&qid=2345xxl&position='+T.dxwChannel.city+'&browser='+T.dxwChannel.browser+'&type=toutiao&pgnum='+T.dxwChannel.pgnum+'&idx='+T.dxwChannel.idx+'&ishot='+encodeURIComponent(info[0])+'&recommendtype='+encodeURIComponent(info[1])+'&url='+encodeURIComponent(info[2]))},'renderRight':function(data){if(!data){return}this.updateArgs(data);var news=data.data,len=news.length,i=0,lis='',d=null,clickLog='';for(;i<len;i++){d=news[i];clickLog=' tj="dxw_right_'+(i+1)+'" onclick = "T.dxwChannel.clickLog([\''+d.hotnews+'\',\''+d.recommendtype+'\',\''+d.url+'\'])"';if(d.miniimg_size>0){lis+='<li class="item"><div class="pic"><a href="'+d.url+'"'+clickLog+'><img width="100%" src="'+(d.miniimg[0].src)+'" alt="" /></a></div><table class="cont"><tbody><tr><td><div class="mod-txt"><div class="item"><a href="'+d.url+'"'+clickLog+'>'+d.topic+'</a></div></div></td></tr></tbody></table></li>'}}this.rightWrapper.innerHTML+=lis},'isThreePic':function(i){var isThreePic=false;if(i%4===0){isThreePic=true}return isThreePic},'renderLeft':function(data){if(!data){return}this.updateArgs(data);var news=data.data,len=news.length,i=0,lis='',d=null,dCnxh=null,ajax131='',clickLog='';for(;i<len;i++){d=news[i];clickLog=' tj="dxw_left_'+(i+1)+'" onclick = "T.dxwChannel.clickLog([\''+d.hotnews+'\',\''+d.recommendtype+'\',\''+d.url+'\'])"';if(d.miniimg_size>0){if(this.isThreePic(i)){if(T.dxwCnxh.cnxhData.length>0){dCnxh=T.dxwCnxh.cnxhData.shift();ajax131=' onclick="clickCount([\''+dCnxh['md5']+'\',\''+dCnxh['ggid']+'\',\''+window.testTag+'\',\''+0+'\',\''+100+'\',\''+dCnxh['flid']+'\',\'3A7\',\'cu1000264\'],\'ajax131\',event,(+ this.getAttribute(\'data-idx\')))"'}else{dCnxh=null}if(dCnxh){T.beacon('//union2.50bang.org/web/ajax132?uId2=SPTNPQRLSX&r='+encodeURIComponent(document.location.href)+'&f=1'+(oldurl==undefined?'':('&oLO='+encodeURIComponent(oldurl)))+'&e='+window.testTag+'&i=cu1000264&q='+window.userPreference+'&lO='+encodeURIComponent(dCnxh['ggid']+':1'))}}if(d.miniimg_size===3&&this.isThreePic(i)){lis+='<li class="item-wi"><div class="title"><a href="'+d.url+'"'+clickLog+'>'+d.topic+'</a></div><dl class="pic-group"><dd class="pic"><a href="'+d.url+'"'+clickLog+'><img width="100%" src="'+d.miniimg[0].src+'" alt="" /></a></dd><dd class="pic"><a href="'+d.url+'"'+clickLog+'><img width="100%" src="'+d.miniimg[1].src+'" alt="" /></a></dd><dd class="pic"><a href="'+d.url+'"'+clickLog+'><img width="100%" src="'+d.miniimg[2].src+'" alt="" /></a></dd></dl><div class="extra"><span class="cate">'+d.tpch+'</span><span class="from">'+d.source+'</span><span class="time">'+this.formatTime(d.date)+'</span></div></li>'+(dCnxh?'<li class="item"><div class="pic"><a href="'+dCnxh.url+'" '+ajax131+'><img width="100%" src="'+(dCnxh.img)+'" alt="" /></a></div><table class="cont"><tbody><tr><td><div class="title"><a href="'+dCnxh.url+'" '+ajax131+'>'+dCnxh.description+'</a></div><div class="extra"><span class="cate">广告</span><span class="from">'+dCnxh.name+'-'+dCnxh.jingzhun+'</span></div></td></tr></tbody></table></li>':'')}else{lis+='<li class="item"><div class="pic"><a href="'+d.url+'" '+clickLog+'><img width="100%" src="'+(d.miniimg[0].src)+'" alt="" /></a></div><table class="cont"><tbody><tr><td><div class="title"><a href="'+d.url+'" '+clickLog+'>'+d.topic+'</a></div><div class="extra"><span class="cate">'+d.tpch+'</span><span class="from">'+d.source+'</span><span class="time">'+this.formatTime(d.date)+'</span></div></td></tr></tbody></table></li>'+((dCnxh&&this.isThreePic(i))?'<li class="item"><div class="pic"><a href="'+dCnxh.url+'" '+ajax131+'><img width="100%" src="'+(dCnxh.img)+'" alt="" /></a></div><table class="cont"><tbody><tr><td><div class="title"><a href="'+dCnxh.url+'" '+ajax131+'>'+dCnxh.description+'</a></div><div class="extra"><span class="cate">广告</span><span class="from">'+dCnxh.name+'-'+dCnxh.jingzhun+'</span></div></td></tr></tbody></table></li>':'')}}}this.leftWrapper.innerHTML+=lis;$("newsLoading").style.display="block"}};T.dxwChannel.getData('//2345sy.dftoutiao.com/newsapi_pc/newsjp?callback=T.dxwChannel.initDf&type=toutiao&startkey=&newkey=&pgnum=1&uid='+T.dxwChannel.uid+'&idx=0&qid=2345xxl&position='+T.dxwChannel.city+'&_=149068332667');if(window.toNews===true){window.scrollTo(0,T.getPos($('map_topNews')).y-8)}setTimeout(function(){$('J_fixSearch').className='fix-search-wrap'},100);clickCount('dnews','ajax124');(function(){var getPos=function(ele){var pos={x:0,y:0};while(ele.offsetParent){pos.x+=ele.offsetLeft;pos.y+=ele.offsetTop;ele=ele.offsetParent}return pos},getViewport=function(){var html=document.documentElement,innerWidth=window.innerWidth,innerHeight=window.innerHeight,isIE=/*@cc_on!@*/!1;return{w:(isIE||!innerWidth)?html.clientWidth:innerWidth,h:(isIE||!innerHeight)?html.clientHeight:innerHeight}},getScrollHeight=function(){var doc=document,html=doc.documentElement,bd=doc.body;return Math.max(window.pageYOffset||0,html.scrollTop,bd.scrollTop)},inView=function(el){var top=getPos(el).y,viewVal=getViewport().h,scrollVal=getScrollHeight();if(top>=scrollVal&&top<=scrollVal+viewVal){return true}return false},moreNews=function(){if(inView($('newsLoading'))){if((T.dxwChannel.pgnum>6)||(T.dxwChannel.pgnum>5&&T.dxwChannel.errType!=='')){$('newsLoading').style.display='none';$('newsLoaded').style.display='block';T.removeEvent(window,'scroll',f);return}if(T.dxwChannel.errType!==''){T.getScript('right/homepage/dxwChannel_'+T.dxwChannel.pgnum+'_20170412.js?t='+$CONFIG['jsVersion']['dxw'])}else{T.getScript('//2345sy.dftoutiao.com/newsapi_pc/newsjp?callback=T.dxwChannel.renderLeft&type=toutiao&startkey='+T.dxwChannel.startkey+'&newkey='+T.dxwChannel.newkey+'&pgnum='+T.dxwChannel.pgnum+'&uid='+T.dxwChannel.uid+'&idx='+T.dxwChannel.idx+'&qid=2345xxl&position='+T.dxwChannel.city+'&_=149068332667')}}};var f=function(){T.throttle(moreNews)};T.addEvent(window,'scroll',f)})()}
+	</script>
+   </textarea>
+</div>
+<script>
+if (window != top || isIE6 || (T.browser.ie && (T.browser.ie.charAt(0) === "7"))){
+	$('map_topNews').style.display = 'none';
+	window.noTopNews = true;
+}
+</script>
+<!-- 今日头条v1 end-->
+</div>
+
+<div class="bottom_outer">
+<div class="bottom_inner"><div class="bottom_bd"></div></div>
+</div>
+<div class="top_outer">
+<div class="top_inner"><div class="bottom_bd"></div></div>
+</div>
+
+<!-- 撕角广告开始 -->
+<div id="corner_div" style="display:none;">
+<div class="corner_hov"  id="corner_a"><a title="聚划算66大促" alt="聚划算66大促" href="https://s.click.taobao.com/t?e=m%3D2%26s%3DruSrqIa%2FHpgcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAuENmwU9yxgSaZTowIwTeDAUbQz7SUxUv5ZshfB5VF%2FnlKvb0o3pJCQto62gQTZk61W00662PG2K8Cm%2FwUl4ESHO54LQ%2FVw1L7SqdkxH6LRFnaYpFBIfC%2F2orLd93QuCUMYOae24fhW0" onClick="clickCount('sijiao');" tj="sijiao_20170605" name="2"><span class="cor_bg" id="J_cor_bg"></span><i class="i-lvy"></i></a><i class="cor_close" onClick="corClose();"></i></div> 
+</div>
+</div>
+<!-- 撕角广告结束 -->
+</div>
+
+<div id="footer">
+<!--foot -->
+  
+      <div class="inner">
+        <div class="ft_in_left">
+        <a href="http://www.2345.com/about/about.htm">关于2345</a>
+        <ins>|</ins>
+        <a href="http://www.2345.com/about/contact.htm" tj="footer_contact">联系我们</a>
+        <ins>|</ins>
+        <a href="http://www.9991.com/cuangai/"  name="2">主页篡改举报</a>
+        <ins>|</ins>
+        <a href="http://www.2345.com/about/socially.htm">公益</a> 
+        <ins>|</ins>
+		    <span class="copyr">版权所有 &copy; 2345&nbsp;</span>
+        <a href="http://www.miitbeian.gov.cn/" name="2">沪ICP备12023051号-1</a>
+        <ins>|</ins>
+        </div>
+        <div class="renzheng">
+        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502000404" class="gab" title="全国公安机关"><i class="renzheng_5"></i>沪公网安备 31011502000404号</a>
+        <a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=2013080615395371" class="renzheng_1" title="营业执照"></a>
+        <a href="http://www.sinsaa.org.cn/" class="renzheng_3" title="信息网络安全管理协会"></a>
+        <a href="http://www.cyberpolice.cn/" class="renzheng_2" title="信息网络安全报警"></a>
+        <a href="http://www.shjbzx.cn/" class="renzheng_4" title="互联网举报中心"></a>
+        <span class="tel">举报：400-000-2345</span>
+        </div>
+    </div>
+
+<!--/ foot -->
+</div>
+
+<!--搜索悬浮 begin-->
+<div class="fix-search-wrap" id="J_fixSearch" >
+	<div class="wrap-in">
+		<div class="logoArea">
+			<a class="J_bd" href="http://www.baidu.com/index.php?tn=site888_3_pg" tj="baidutest01">
+			<img width="85" height="32" src="i/search0320/baidu_web.gif" alt=""/>
+			</a>
+		</div>
+		<form autocomplete="on" onSubmit="return fixedSearchSubmit();" id="bdfm2" target="_blank" name="bdfm2" method="get" action="/bdsearch/index.htm" accept-charset="utf-8">
+			<div class="searchArea" id ="J_searchArea">
+				<input class="iptSearch" type="text" name="word" id="ccss2" autocomplete="off" />
+				<i class="shadowTop"></i>
+			</div>
+			<input class="iptbtn" type="submit" id="J_search_submit" onClick="setTimeout(function(){clickCount('tn='+document.getElementsByName('tn')[1].value,'ajax123');},100);" value="搜索一下" />
+			<input type="hidden" name="tn" value="site888_3_pg" />
+			<input type="hidden" name="lm" value="-1" />
+		</form>
+		<div class="mes-area">
+			<ul class="mod-txtred">
+				<li><a tj="ssy31" href="http://s.click.taobao.com/t?e=m%3D2%26s%3DUlJnLJJ19twcQipKwQzePCperVdZeJvipRe%2F8jaAHcgYX8TY%2BNEwd7WDUFdkr%2BYVr8hK%2FDw%2Bbm1zjTpHnJi8xpgaA8rsvgBFfmblZfECEiBT94EDDR6L5b0CYBEjBf0rLxRPKN2FDAck%2FCKKDVvEs8hC7k91emiMomfkDJRs%2BhU%3D" id="mesAreat3">热卖女装1折起包邮！</a></li>
+				<li><a tj="ssy41" href="http://ie.2345.com/?dh-wzt" id="mesAreat4">2345浏览器保护您加速上网</a></li>
+			</ul>
+		</div>
+		<script>
+			(function () {
+				 var e1 = $('mesAreat3'),
+					 e2 = $('mesAreat4'),
+					 i1 = 0,
+					 i2 = 0,
+					 t = 1000 * 8 ,
+					 data = [[{'i': '《欢乐颂》王柏川破产小美相伴','h': 'http://tv.2345.com/detail/52500.html','c':0},{'i': '挂机一整晚，5月不上班！','h': 'http://g.wan.2345.com/s/1/1254/1088.html?frm=wzdh-sskyc1','c':0},{'i': '《楚乔传》赵丽颖变战神斗狼群','h': 'http://tv.2345.com/detail/48541.html'},{'i': '开局一把刀，装备满地爆！','h': 'http://g.wan.2345.com/s/1/1254/1086.html?frm=wzdh-sskyc2','c':0}],[{'i': '天猫好货闪购，最高直降1000元！','h': 'https://s.click.taobao.com/t?e=m%3D2%26s%3DcIIO98q5ZTUcQipKwQzePCperVdZeJviK7Vc7tFgwiFRAdhuF14FMUB2bPUtoF2ERitN3%2FurF3zHZL5KHQdWqfmddd2DsTDzoM5nvQIs0KH1UyxwoXMkb47LAa3DUrM2zt5vEinufIVAFEHVckI7b2p5%2Fk0TVNEzsd%2B%2Ff4Fhw9YmTYdgIvmuGuIKl4JSR4lzxgxdTc00KD8%3D','c':1}]]
+					 fn = function (){
+					   e1.className = data[0][i1]['c'] ? 'fred' : '';
+					   e1.innerHTML = data[0][i1]['i'];
+					   e1.href = data[0][i1]['h'];
+					   e2.className = data[1][i2]['c'] ? 'fred' : '';
+					   e2.innerHTML = data[1][i2]['i'];
+					   e2.href = data[1][i2]['h'];
+					   i1 >= data[0].length - 1 ? i1 = 0 : i1++;
+					   i2 >= data[1].length - 1 ? i2 = 0 : i2++;
+					};
+				  fn();
+				  if (data[0].length>1 || data[1].length>1){
+				      setInterval(fn, t);
+				  }
+			}());
+		</script>
+	</div>
+</div>
+<script>
+if ($CONFIG['So']){
+	$t('a', $('J_fixSearch'))[0].href = '//www.so.com/?src=pclm&ls=pclm2345w';
+    $t('img', $('J_fixSearch'))[0].src = '/i/search0320/zonghe_web.png';
+} else if ($CONFIG['isbdJump']){
+    $t('a', $('J_fixSearch'))[0].href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+	$t('input', $('bdfm2'))[2].value = $CONFIG['tn'];
+} else if ($CONFIG['isJump']){
+    $t('a', $('J_fixSearch'))[0].href = '/bdsearch/bd_20170227_'+ $CONFIG['tn'] +'.html';
+	$t('input', $('bdfm2'))[2].value = $CONFIG['tn'];
+} else {
+	$t('a', $('J_fixSearch'))[0].href = 'http://www.baidu.com/index.php?tn=' + $CONFIG['tn'];
+	$t('input', $('bdfm2'))[2].value = $CONFIG['tn'];
+}
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2 $4(a){3 b=0[1]||5;6(0[1]==$(\'7\')){b=8}9 b.c(a)}',13,13,'arguments||function|var|t|document|if|J_fixSearch|null|return|||getElementsByTagName'.split('|'),0,{}))
+</script>
+<!--搜索悬浮 end-->
+
+<!--右侧悬浮导航 begin-->
+<div class="mod-fixNav" id="sidenav">
+  <!-- <a class="activity-trig" tj="ydh_20170527" href="http://wan.2345.com/zt/platform/duanwu2017/index.html?frm=yctips&referer=wzdh" title="端午游戏送壕礼"></a> -->
+  <!-- <div class="item"><a tj="ydh_8" href="http://www.166cai.com/?cpk=10082"><i class="group-font">&#63504;</i>彩票</a></div> -->
+  <div class="item"><a tj="ydh_1" href="javascript:;" id="sidenav_game" target="_self"><i class="i-sort-game i-area"></i>游戏</a></div>
+  <div class="item"><a tj="ydh_3" href="javascript:;" id="sidenav_video" target="_self"><i class="i-sort-video i-area"></i>影视</a></div>
+  <div class="item"><a tj="ydh_2" href="javascript:;" id="sidenav_buy" target="_self"><i class="i-sort-buy i-area"></i>购物</a></div>
+  <div class="item"><a tj="ydh_4" href="javascript:;" id="sidenav_these" target="_self"><i class="i-sort-life i-area"></i>百科</a></div>
+  <div class="item"><a tj="ydh_5" href="javascript:;" id="sidenav_life" target="_self"><i class="i-sort-yule i-area"></i>笑话</a></div>
+  <div class="item"><a tj="ydh_6" href="javascript:;" id="sidenav_topNews" target="_self" class="fred"><i class="i-sort-toutiao i-area"></i>头条<i class="dot"></i></a></div>
+  <div id="sidenav_topBot"> 
+	 <div class="item item-last"><a class="trig-toBot" tj="ydh_7" href="javascript:;" target="_self" id="sidenav_toBot"><i class="i-sort-tobom i-area"></i>到底部</a></div>
+  </div>	
+</div>
+<script> 
+T.ready(function(){
+	T.navBubble = new T.Bubble({
+		isShow : true,           // 是否开启推荐功能
+		wrapper : $('sidenav'),  // 父级框
+		type : 'nav',			 // 气泡类型
+		isAnchor : true,         // 是否是锚点
+		id : 'nav20170515',      // 推荐广告标识
+		row : 6,                 // 广告所在行
+		text : '99+条未读新闻',
+		href : '#map_topNews'
+	});
+	T.navBubble.init();
+});
+if (window != top || isIE6 || (T.browser.ie && (T.browser.ie.charAt(0) === "7"))){$('sidenav_topNews').parentNode.style.display = 'none';}
+(function(body){var bdFlag=0,clickCh=true,fixSearch=$('J_fixSearch'),showFlag=T.getPos($cls('mzdh_bottom',$('left'))[0]).y;var navHandler=function(){if((T.getViewport().w<($CONFIG['wideScreen']?1200:1000)+200)||isIE6){$('sidenav').style.display='none'}else{sidenav.onclick=function(e){fixSearch.style.display='none';if(isIE){if(fixSearch.className.indexOf('fix-search-wrap-fixed')!=-1){fixSearch.className=fixSearch.className.replace('fix-search-wrap-fixed','')}}var e=e||event,target=e.target||e.srcElement;var map_game=$('map_game'),map_buy=$('map_buy'),map_video=$('map_video'),map_these=$('map_these'),map_life=$('map_life'),map_topNews=$('map_topNews'),game_h=T.getPos(map_game).y-8,buy_h=T.getPos(map_buy).y-8,video_h=T.getPos(map_video).y-8,these_h=T.getPos(map_these).y-8,life_h=T.getPos(map_life).y-8,topNews_h=T.getPos(map_topNews).y-8,h;if(target.tagName!="A"){target=target.parentNode}switch(target.id){case'sidenav_game':h=game_h;clickCount('sidenav_game');break;case'sidenav_buy':h=buy_h;clickCount('sidenav_buy');break;case'sidenav_video':h=video_h;clickCount('sidenav_video');break;case'sidenav_these':h=these_h;clickCount('sidenav_these');break;case'sidenav_life':h=life_h;clickCount('sidenav_life');break;case'sidenav_topNews':h=topNews_h;clickCount('sidenav_topNews');break;case'sidenav_toBot':h=topNews_h;clickCount('sidenav_toBot');break;case'sidenav_toTop':h=-20;clickCount('sidenav_toTop');break}if(typeof h!="number"){return}if(h>0){bdFlag=h}else{bdFlag=game_h}var counter=0,fxStep=20,timer=null,_val,val=T.getScrollHeight(),tween=function(t,b,c,d){var len;if(b<=c){len=c-b+210;return b+(len-len*Math.cos(t/d*(Math.PI/2)))}else{len=b-c+210;return b-(len-len*Math.cos(t/d*(Math.PI/2)))}},fx=function(){if(h===topNews_h){window.toNews=true}top.scrollTo(0,h)};if(clickCh){fx()}return false}}};navHandler();T.addEvent(window,'resize',function(){T.throttle(navHandler)});var chTopBotVale=function(){var cont_h=T.getScrollHeight(),view_h=T.getViewport().h,base_h=T.getPos($('J_category')).y-view_h;if(cont_h>base_h){$('sidenav_topBot').innerHTML='<div class="item item-last"><a class="trig-toBot" tj="ydh_7" href="javascript:;" target="_self" id="sidenav_toTop"><i class="i-sort-totop i-area"></i>回顶部</a></div>'}else{$('sidenav_topBot').innerHTML='<div class="item item-last"><a class="trig-toBot" tj="ydh_8" href="javascript:;" target="_self" id="sidenav_toBot"><i class="i-sort-tobom i-area"></i>到底部</a></div>'}(cont_h<bdFlag)&&clickCh&&(fixSearch.style.display='');(cont_h>showFlag)&&(!isIE6)&&(T.getViewport().w>=($CONFIG['wideScreen']?1200:1000)+200)&&($('sidenav').style.display='')};T.addEvent(window,'scroll',chTopBotVale)}(document.body));
+</script>
+<!--右侧悬浮导航 end-->
+
+<!--右侧游戏中心 begin-->
+<div class="mod mod-fixGame" id="J_mod_fixGame" style="display:none">
+  <div class="fixGame-hd">
+    <h3 class="fixGame-tit"><a tj="dgame_center" href="http://wan.2345.com/">2345游戏中心</a></h3>
+    <span class="fixGame-close" id="J_fixGame_close"><i></i></span>
+  </div>
+  <div class="fixGame-bd">
+    <div class="username">您好：<a tj="dgame_user" class="skin-color" href="http://wan.2345.com/" id="gameUserName">Rennna</a></div>
+    <dl class="server" id="userGameList"></dl>
+  </div>
+  <i class="fn-close" id="gameClose"></i>
+</div>
+<!--右侧游戏中心 end-->
+
+<!--政府网站关闭提示弹层 begin-->
+<div class="mod pop-zfclose" id="popZfClose" style="display:none;">
+  <div class="pop-zfclose-con">
+    <div class="txt-area">请确认是否关闭权威网址的推荐？</div>
+    <div class="btn-area">
+       <span onClick="localStorage.setItem(&quot;isZfClose&quot;,true);$(&quot;modZfSite&quot;).style.display = &quot;none&quot;;$(&quot;popZfClose&quot;).style.display = &quot;none&quot;;clickCount(&quot;zfConfirm&quot;);" class="btn-ele">确定</span><span onClick="$(&quot;popZfClose&quot;).style.display = &quot;none&quot;;$(&quot;modZfSite&quot;).className = &quot;mod mod-zfsite &quot;;clickCount(&quot;zfExit&quot;);" class="btn-ele">取消</span>
+	</div>
+	<script>
+		T.addEvent(document,'click',function(e){
+			var  e = e || event,
+				target = e.target || e.srcElement;
+			if (target.nodeName ==='SPAN' || target.nodeName ==='I') {
+				target = target.parentNode;
+				return;
+			}
+			if ((target.nodeName === 'DIV') && (target.className == "btn-area" || target.className == "txt-area" || target.className == "pop-zfclose-con" || target.className == "mod pop-zfclose")){
+				return;
+			}
+			if ((target.nodeName === 'A') && target.className.indexOf("mod-arrow") > -1){
+			    return;
+			}
+			$("modZfSite").className = "mod mod-zfsite";
+			$("popZfClose").style.display = "none";
+		});
+	</script>
+  </div>
+</div>
+<!--政府网站关闭提示弹层 end-->
+
+<!--云收藏公告 begin-->
+<div class="pop-yun pop-yun-notice" id="popNotice" style="display:none;">
+  <div class="pop-yun-hd">
+    <h3 class="pop-yun-tit">管理我的网址</h3>
+    <a class="pop-yun-close" onClick="$('popNotice').style.display = 'none';$('J-filterbg').style.display = 'none';return false;" href="javascript:;" target="_self" tj="yun_close"></a>
+  </div>
+  <div class="pop-yun-bd">
+	<div class="notice-area">
+		<h6>温馨提示：</h6>
+		<p>亲爱的用户，请注册并登录2345帐号继续使用网址收藏功能。</p>
+		<p>帐号登录后，网址将自动同步至云端，<span class="c_spec">永不丢失！</span></p>
+	</div>
+    <div class="btn-area">
+		<a id="popNoticeLogin" onClick="localStorage.setItem(&#39;isPop&#39;,1);" class="notice-btn" href="http://passport.2345.com/login.php?forward=http://www.2345.com" target="_self" tj="yun_login">立即登录</a>
+		<a id="popNoticeReg" onClick="localStorage.setItem(&#39;isPop&#39;,1);" class="notice-txt" href="http://passport.2345.com/reg.php?forward=http://www.2345.com" target="_self" tj="yun_reg">注册帐号</a>
+	</div>
+  </div>
+</div>
+<script>
+(function(){
+	var webSite = window.location.href;
+	$("popNoticeLogin").href = "http://passport.2345.com/login.php?forward=" + webSite;
+	$("popNoticeReg").href = "http://passport.2345.com/reg.php?forward=" + webSite;
+})();
+</script>
+<!--云收藏公告 end-->
+
+<!--遮罩层 begin-->
+<div class="filterbg" id="J-filterbg" style="display:none;"></div>
+<!--遮罩层 end-->
+
+<span style="display:none">
+<script  type="text/javascript"  src="//union2.50bang.org/js/2345"></script>
+<script type="text/javascript" >
+!function(){function n(n,e,t){n.addEventListener?n.addEventListener(e,t,!1):n.attachEvent?n.attachEvent("on"+e,t):n["on"+e]=t}function e(n){var n=n||{},e=[];n.sid=o,n.t=+new Date;for(var t in n)e.push(t+"="+encodeURIComponent(n[t]));var a="so_"+ +new Date,d=window[a]=new Image;d.src="//hs.qhupdate.com/sou/2345.gif?"+e.join("&"),d.onload=d.onerror=function(){window[a]=null,d=null}}function t(){var t=$cls("bdSug_wpr",document);t.length>0&&n(t[0],"click",function(n){var n=n||window.event,t=n.target||window.srcElement;(t&&"td"==t.nodeName.toLowerCase()||t.parentNode&&"td"==t.parentNode.nodeName.toLowerCase())&&e({type:"submit"})}),n(document.getElementById("bdfm"),"submit",function(){e({type:"submit"})}),e({type:"show"})}var o=+new Date+""+Math.random();window.so_sid=o,t()}();
+(function(){
+	var start = (new Date()).setFullYear(2016,9,20),
+		end = (new Date()).setFullYear(2018,9,21),
+		now = new Date(),
+		nowTime = now.getTime();
+
+	if (nowTime < start || nowTime > end){
+		s_cookie('timeerror',1);
+	} else {
+		if(!cookieStore) cookieStore.init();
+		cookieStore.del('timeerror');
+	}
+})();
+
+(function(doc) {
+    var  div = $('corner_div'),
+      appendImg = false,
+      doSth  = function (){
+         var d = doc.documentElement,
+             w =  window.innerWidth || (d && d.clientWidth ) || doc.body.clientWidth;
+
+		 var corId = "cor20170605";
+// corner start               
+         if ( w < ($CONFIG['wideScreen'] ? 1202 : 998 ) + 200 ){
+              div.style.display  = 'none';
+         }else{
+			 if (localStorage.getItem('isCorClose') !== corId){
+			     if (!appendImg) {
+				   if (isIE6) {
+					   $('J_cor_bg').style.filter = 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'images/corner/corner_170605.png\',sizingMethod=\'crop\');';
+				   }else{
+					   $('J_cor_bg').style.background = 'url(images/corner/corner_170605.png) no-repeat';
+				   }
+				   appendImg = true;
+				 }
+				 div.style.display = 'block';
+			 }  
+         }
+		 corClose = function(){
+		     div.style.display = 'none';
+			 localStorage.setItem('isCorClose',corId);
+		 };
+// corner end
+       };
+      doSth();
+      T.addEvent(window,'resize',function(){T.throttle(doSth);});
+}(document));
+
+if ($CONFIG['wideScreen']) {document.write('<scri'+'pt  src = "//union2.50bang.org/js/width"></scri'+'pt>');}
+
+//XP停止更新提示
+(function (){
+  /**
+   * @param {string} str
+   * @return {boolean}
+   * @date 2016.03.23
+   * @QS ID 63935
+   */
+  function checkIfReturn(str) {
+    function check(myLetter, letter, len, myLen, myNum, start, end) {
+      return myLetter === letter && myLen === len && myNum >= start && myNum <= end;
+    }
+
+    var pattern = /^k([a-z]{1})([0-9]{5,6})p$/
+      , ans = str.match(pattern);
+
+    if (ans !== null) {
+      var a = ans[1]
+        , b = ans[2]
+        , len = b.length;
+
+      // ka00001p~ka01855p
+      if (check(a, 'a', len, 5, b, '00001', '01855'))
+        return true;
+
+      // ka03926p~ka04926p
+      if (check(a, 'a', len, 5, b, '03926', '04926'))
+        return true;
+
+      // kb01018p~kb04698p
+      if (check(a, 'b', len, 5, b, '01018', '04698'))
+        return true;
+
+      // kc009605p~kc010001p
+      if (check(a, 'c', len, 6, b, '009605', '010001'))
+        return true;
+
+      // kd04539p~kd05001p
+      if (check(a, 'd', len, 5, b, '04539', '05001'))
+       return true;
+
+      // kz00001p~kz10000p
+      if (check(a, 'z', len, 5, b, '00001', '10000'))
+       return true;
+    }
+
+    return false;
+  }
+
+  var ua = navigator.userAgent,
+       isnot2345browser = false,
+       isXP = false,
+       isWin7 = false,
+       query = location.search.toLowerCase().substr(1),
+       c,
+       retval='',
+       counter = 0;
+
+	localStorage.getItem('upgrade2345Explorer') && localStorage.removeItem('upgrade2345Explorer');
+	localStorage.getItem('stopXPOnceMore') && localStorage.removeItem('stopXPOnceMore');
+	localStorage.getItem('stopXP') && localStorage.removeItem('stopXP');
+	localStorage.getItem('stopXPTime') && localStorage.removeItem('stopXPTime');
+
+    if (checkIfReturn(query)) {
+      return;
+    }
+	
+
+    if ($CONFIG['ipUrl']){ return; }
+    if (query=='8681' || query=='23395') {
+      return
+    }
+	
+    for(var i=0; i<query.length; i++) {
+        c = query.charAt(i);
+        if (!/^[A-Za-z0-9]$/.test(c) || counter >= 20) { break;}
+        counter++;
+        retval += c;
+    }
+    if (!retval) {retval = 'ie100201';}
+    if (ua.indexOf('2345chrome')===-1 && (!T.browser.shell || T.browser.shell[0]!=='2345explorer')) {
+        isnot2345browser = true;
+    }else if(!localStorage.getItem('upgrade2345Explorer1')){
+		try{
+			var v2345 = window.external.RCCoralOnlineFavPage('productVersion');
+			if(v2345){
+				if(parseInt(v2345.substring(1))<3 || parseFloat(v2345.substring(1))<=3.4){
+				   $('J_stopXP_inner').innerHTML =  '<p>您的浏览器已发布最新版本，升级上网快5倍。</p><a  href="http://download.2345.com/2345explorer/2345Explorer_Setup_V5.0.exe" onclick="clickCount(\'upgrade2345Explorer\');" class="e_btn_down" target="_self">一键升级</a>';
+				   var stopXP = $('J_tip_stopXP'+stopXpNum);
+				   stopXP.style.display =  '';
+				   stopXP.onclick = function (e){
+						var e = e || event ,  target = e.target || e.srcElement;
+						if (target.nodeName === 'A' && target.title==='关闭') {
+						  stopXP.style.display =  'none';
+						  localStorage.setItem('upgrade2345Explorer1',1);
+						  return false;
+						}
+				   };
+				   return;
+				}
+			}
+		}catch(e){}
+	}
+	if (localStorage.getItem('stopXPOnceMore1')) { return;}
+    if (ua.indexOf('Windows NT 5.1') > -1 || ua.indexOf('Windows NT 5.2') > -1 || ua.indexOf('Windows XP') > -1) {
+       isXP=  true;
+    }
+    if(ua.indexOf('Windows NT 6.1')>-1 || ua.indexOf('Windows 7')>-1){
+       isWin7= true;
+    }
+
+    if (isnot2345browser && (isXP || isWin7)) {
+	   $('J_stopXP_inner').innerHTML =  '<p>浏览器安全提示：修复windows系统漏洞，强力拦截病毒木马，上网提速5倍。</p><a  href="http://dl.2345.com/2345_common/2345Suite_'+retval+'_llq.exe" onclick="clickCount(\'WIN7XPzhineng\');" class="e_btn_down" target="_self">一键升级</a>';
+       var stopXP = $('J_tip_stopXP'+stopXpNum);
+       stopXP.style.display =  '';
+       stopXP.onclick = function (e){
+            var e = e || event ,  target = e.target || e.srcElement;
+            if (target.nodeName === 'A' && target.title==='关闭') {
+              stopXP.style.display =  'none';
+              localStorage.setItem('stopXP1',1);
+              return false;
+            }
+       };
+	   
+	   if(!localStorage.getItem('stopXPTime1')){
+			localStorage.setItem('stopXPTime1',new Date().getTime());
+	   }else{
+			if((new Date().getTime()-parseInt(localStorage.getItem('stopXPTime1')))>=36*60*60*1000){
+				stopXP.style.display =  'none';
+				localStorage.setItem('stopXP1',1);
+			}
+			if (localStorage.getItem('stopXP1') && !localStorage.getItem('stopXPOnceMore1')){
+				stopXP.style.display =  'none';
+			}
+			if((new Date().getTime()-parseInt(localStorage.getItem('stopXPTime1')))>=30*24*60*60*1000){
+				stopXP.style.display = '';
+				localStorage.setItem('stopXPOnceMore1',1);
+			}	
+	   }
+    }
+}());
+
+//右侧固定层 屏幕分辨率判断显示逻辑
+(function(){
+	
+	function getClientWidth(){
+		var doc=document;
+		var html = doc.documentElement, bd = doc.body;
+		return html && html.clientWidth || bd.clientWidth;
+	}
+	function showTop(){
+		var offsetLeft=0,wrapWidth=1000,clientWidth=getClientWidth();
+		if($CONFIG['wideScreen']){
+			wrapWidth=1200;
+		}		
+		offsetLeft=parseInt(clientWidth)-wrapWidth;
+		offsetLeft=offsetLeft?offsetLeft:0;
+		if ($('newsXiala')){
+			 $('newsToggleBtn').className = 'toggle';
+			 $('newsXiala').style.display = 'none';
+		}
+	}
+	showTop();
+	window.onresize=showTop;
+	
+	//百度搜索框&回到顶部根据滚动位置悬浮固定
+	var preScroll = 0,isBind = 0,hideBdSugTimer =null,fixSearch=document.getElementById('J_fixSearch');
+	/*function getBdWrap(){
+		var bdWraps = $cls('bdSug_wpr');
+		if(bdWraps.length){
+			
+		}
+	}*/
+	function scrollHandler(){
+		var viewVal = T.getViewport().h,
+			scrollVal = T.getScrollHeight(),
+			top = T.getPos($('J_search_bd')).y;
+			if(!top){
+				top = T.getPos($('J_travel')).y;
+			}
+			if (scrollVal <= preScroll) {//向上滚
+				//if(scrollVal >= (1.5* viewVal)){
+				if(scrollVal >= top){
+					if (null != hideBdSugTimer) {
+						clearTimeout(hideBdSugTimer);
+					}
+					//document.getElementById('J_fixSearch').style.display = '';
+					if(fixSearch.className.indexOf('fix-search-wrap-fixed')==-1){
+						fixSearch.className +=' fix-search-wrap-fixed';
+						var val=$t('input',$('J_schInbox'))[0].value;
+						//if(!val||/^\s+$/.test(val)){}else{
+							$t('input', $('J_searchArea'))[0].value = val;
+						//}
+					}
+					
+					$t('input', $('J_searchArea'))[0].focus();
+					if($('bdSug_'+$t('input',$('J_schInbox'))[0].id)){
+						$('bdSug_'+$t('input',$('J_schInbox'))[0].id).style.display='none';
+					}
+					if ($('newsXiala')){
+						 $('newsToggleBtn').className = 'toggle';
+						 $('newsXiala').style.display = 'none';
+					}
+					if (!isBind) {
+						var params = {
+							"XOffset" : 0, //提示框位置横向偏移量,单位px
+							"YOffset" : 0, //提示框位置纵向偏移量,单位px
+							"sugSubmit" : true, //在选择提示词条是是否提交表单
+							"openAd" : true
+						};
+						BaiduSuggestion.bind($t('input', $('J_searchArea'))[0], params,function(){
+							if ($CONFIG['So']){
+							    clickCount('360search03');
+							} else {
+								clickCount('baidutest03');
+							}
+						});
+						isBind = 1;
+					}
+				}else{
+					//document.getElementById('J_fixSearch').style.display = 'none';
+					if(fixSearch.className.indexOf('fix-search-wrap-fixed')!=-1){
+						var val2=$t('input',$('J_searchArea'))[0].value;
+						//if(!val2||/^\s+$/.test(val2)){}else{
+							$t('input', $('J_schInbox'))[0].value = val2;
+						//}
+					}
+					fixSearch.className =fixSearch.className.replace('fix-search-wrap-fixed','');
+					$t('input', $('J_searchArea'))[0].blur();
+					if ($('bdSug_ccss2')) {
+						$('bdSug_ccss2').style.display = 'none';
+					}
+				}
+			} else {
+				if (null != hideBdSugTimer) {
+					clearTimeout(hideBdSugTimer);
+				}
+				hideBdSugTimer = setTimeout(function () {
+					//document.getElementById('J_fixSearch').style.display = 'none';
+					if(fixSearch.className.indexOf('fix-search-wrap-fixed')!=-1){
+						var val3=$t('input',$('J_searchArea'))[0].value;
+						//if(!val3||/^\s+$/.test(val3)){}else{
+							$t('input', $('J_schInbox'))[0].value = val3;
+						//}
+					}
+					fixSearch.className =fixSearch.className.replace('fix-search-wrap-fixed','');
+					$t('input', $('J_searchArea'))[0].blur();
+					if ($('bdSug_ccss2')) {
+						$('bdSug_ccss2').style.display = 'none';
+					}
+				}, 100);
+
+			}
+			if ($('bdSug_ccss2')) {
+						$('bdSug_ccss2').style.display = 'none';
+					}
+			setTimeout(function () {
+				preScroll = scrollVal;
+			}, 0);
+			
+	}
+	window.onscroll = scrollHandler;
+	window.fixedSearchSubmit = function(){
+		if (window.isKeydown){
+            clickCount("isKeydown", 'ajax151');
+            window.isKeydown = undefined;
+        }
+		if ($CONFIG['So']){
+		    clickCount($t('input',$('J_searchArea'))[0].value, 'ajax150');
+			clickCount('360search02');
+		} else {
+			clickCount($t('input',$('J_searchArea'))[0].value, 'ajax56');
+			clickCount('baidutest02');
+		}
+		var val = $t('input',$('J_searchArea'))[0].value;
+		var protocol = 'http',bdHttps,toUrl='';
+		if(1==(bdHttps = BaiduHttps.useHttps()).s){
+			protocol = 'https';
+		}
+		if(!val||/^\s+$/.test(val)){
+			if ($CONFIG['So']){
+				toUrl='//www.so.com/?src=pclm&ls=pclm2345w';
+			} else if ($CONFIG['isbdJump'] || !$CONFIG['isJump']){
+			    if(bdHttps.i){
+					toUrl=protocol+'://www.baidu.com/index.php?tn='+$CONFIG['tn']+'&ssl_sample='+bdHttps.s;
+				}else{
+					toUrl=protocol+'://www.baidu.com/index.php?tn='+$CONFIG['tn']+'&ssl_s='+bdHttps.s+'&ssl_c='+bdHttps.ssl_code;
+				}
+			} else {
+				toUrl = '/bdsearch/bd_20170227_'+ $CONFIG['tn'] +'.html';
+			}
+			window.open(toUrl);
+			return false;
+		}
+		//解决数字全角乱码问题
+			var quan2ban = {'１':1,'２':2,'３':3,'４':4,'５':5,'６':6,'７':7,'８':8,'９':9,'０':0};
+			val = val.replace(/[１２３４５６７８９０]/g,function(a,b){
+				return quan2ban[a];
+			});
+			if ($CONFIG['So']){
+			    toUrl='//www.so.com/s?ie=utf-8&q='+ encodeURIComponent(val) + '&src=pclm&ls=pclm2345w';
+			} else if ($CONFIG['isbdJump'] || !$CONFIG['isJump']){
+			    if(bdHttps.i){
+					toUrl=protocol+'://www.baidu.com/s?word='+encodeURIComponent(val)+'&tn='+$CONFIG['tn']+'&lm=-1'+'&ssl_sample='+bdHttps.s;
+				}else{
+					toUrl=protocol+'://www.baidu.com/s?word='+encodeURIComponent(val)+'&tn='+$CONFIG['tn']+'&lm=-1'+'&ssl_s='+bdHttps.s+'&ssl_c='+bdHttps.ssl_code;
+				}
+			} else {
+				toUrl = '/bdsearch/bd_20170227_' + $CONFIG['tn'] + '.html?word=' + encodeURIComponent(val);
+			}
+			window.open(toUrl);
+		return false;
+	};
+})();
+
+try{
+	(function(){var b=window.BaiduHttps={_option:{}};var g=function(){var l=Math.random();if(l<0.02){b._option.preCon=0}else{if(l>=0.02&&l<0.04){b._option.preCon=1}else{if(l>=0.04&&l<0.06){b._option.preCon=2}}}if(d()&&b._option.preCon!=0){k();b._option.canCon=1}else{c("http");if(b._option.preCon==1){h("http://www.baidu.com/nocache/pdns/az.gif")}}};function d(){var m=(navigator&&navigator.userAgent)?navigator.userAgent:"",l=new RegExp(/msie 6/i),n=l.test(m);return !n}function h(m){var l=new Image(),n="BD_"+(new Date().getTime()+1),m=m+"?_t="+new Date().getTime();window[n]=l;l.onload=function(){delete window[n]};l.src=m}function f(){h("https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/ps_default.gif");h("https://ss1.baidu.com/6ONWsjip0QIZ8tyhnq/ps_default.gif");h("https://ss2.baidu.com/6ONWsjip0QIZ8tyhnq/ps_default.gif");h("https://ss3.baidu.com/6ONWsjip0QIZ8tyhnq/ps_default.gif")}function k(){j({url:"https://www.baidu.com/con",tn:"2345"})}function c(l){b._option.protocol=l;b._option.checked=true}function e(){var l="";if(b._option.preCon>=0){l="&prec="+b._option.preCon}return(new Date()).getTime().toString(16)+l}function j(n){var m=n.url?n.url:"https://www.baidu.com/con",l=document.createElement("script");l.onload=function(){};l.onerror=function(){c("http")};l.src=m+"?from="+n.tn;document.body.appendChild(l)}b.callbacks=function(l){if(typeof l==="object"){if(l.s==0){c("https")}else{c("http")}}};var a;b.useHttps=function(){if(this._option.timeout===true){g();this._option.timeout=false;this._option.time_checked=false;a=setTimeout(i,1000*120)}var l=Math.random();if(!this._option.time_checked){f();a=setTimeout(i,1000*120);this._option.time_checked=true}if(this._option.checked&&this._option.protocol=="https"){return{s:1,ssl_code:"ssl1_"+e()}}else{if(this._option.canCon){return{s:2,ssl_code:"ssl1_"+e()}}return{s:0,ssl_code:"ssl1_"+e()}}};function i(){b._option.time_checked=true;b._option.timeout=true}g()})();
+
+}catch(e){
+	window.BaiduHttps={};
+	BaiduHttps.useHttps=function(){return {
+				s : 0,
+				ssl_code : "ssl1_catch" 
+			}};
+}
+(function(){
+	//判断高级浏览器是否缩放
+	if (screen.width > 2000){
+	    return;
+	}
+	if(localStorage.getItem('jumpToMobile')){
+		return false;
+	}
+	if(localStorage.getItem('zoomTips')){
+		return false;
+	}
+	if(/Mac\s+OS/i.test(navigator.userAgent)){
+		return false;
+	}
+	if(screen.deviceXDPI && screen.logicalXDPI){
+		if(screen.deviceXDPI / screen.logicalXDPI != 1){
+			$('J_showzoom').style.display='block';
+		}
+	} else if(window.devicePixelRatio){
+		if(window.devicePixelRatio != 1){
+			$('J_showzoom').style.display='block';
+		}
+	}
+})();
+
+// 微专题板块广告屏蔽
+function getStyle(ele, type) {
+  if (window.getComputedStyle)
+    return window.getComputedStyle(ele, null)[type];
+  else
+    return ele.currentStyle[type];
+}
+
+function isShow(ele) {
+  return getStyle(ele, 'display') === 'none' || getStyle(ele, 'visibility') === 'hidden' || ele.clientHeight === 0;
+}
+
+//百度统计
+var userId = g_cookie('bdUid');
+if (userId){
+	 var _hmt = _hmt || [];
+	_hmt.push(["_setUserId", userId]);
+	(function() {
+	var hm = document.createElement("script");
+		 hm.src = "//hm.baidu.com/hm.js?6ab7a391c8d69b4f62b7c54b2d70919c";
+		 var s = document.getElementsByTagName("script")[0];
+		 s.parentNode.insertBefore(hm, s);
+	})();
+}	
+</script>
+</span>
+</body>
+</html>
