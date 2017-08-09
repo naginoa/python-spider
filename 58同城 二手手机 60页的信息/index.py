@@ -22,7 +22,7 @@ def get_item_info(who, url, kv):                  #获取每一组信息
     data = {
         'title':soup.title.text.split('】')[1].strip('\r').strip('\n').strip(' '),  #清洗数据
         'price':soup.select(price)[0].text,
-        'area':list(soup.select(area)[0].stripped_strings) if soup.find_all('span','.c_25d') else None,
+        'area':list(soup.select(area)[0].stripped_strings) if soup.select('.c_25d') or soup.select('.palce_li') else None,
         'want':soup.select(want)[0].text if who == 0 else None,
         'views':soup.select(views)[0].text,
         'cate':'个人' if who == 0 else '商家',
