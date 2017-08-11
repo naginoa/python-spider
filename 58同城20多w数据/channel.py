@@ -21,11 +21,11 @@ def get_channel_urls(url, kv):
         print(page_url)
 
 
-if __name__ == "__main__":
-    start_url = 'http://bj.58.com/sale.shtml'
-    kv = {'user-agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 LBBROWSER'}
-    #get_channel_urls(start_url, kv)
-    channel_list = '''
+
+start_url = 'http://bj.58.com/sale.shtml'
+kv = {'user-agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 LBBROWSER'}
+#get_channel_urls(start_url, kv)
+channel_list = '''
 http://bj.58.com/shouji/
 http://bj.58.com/tongxunyw/
 http://bj.58.com/danche/
@@ -85,6 +85,5 @@ http://bj.58.com/xiaoyuan/
 http://bj.58.com/ershouqiugou/
 http://bj.58.com/tiaozao/
 http://bj.58.com/tiaozao/
-http://bj.58.com/tiaozao/
-    '''
-    print(channel_list)
+http://bj.58.com/tiaozao/'''
+#print(channel_list)
