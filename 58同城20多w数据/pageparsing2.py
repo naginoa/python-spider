@@ -8,7 +8,7 @@ import time
 import pymongo
 
 client = pymongo.MongoClient('localhost', 27017)
-ceshi = client['ceshi']
+ceshi = client['58']
 url_list = ceshi['url_list']
 item_info = ceshi['item_info']
 
@@ -39,25 +39,26 @@ def get_item_info(who, url, kv):  # 获取每一组信息
     soup = BeautifulSoup(html.text, 'lxml')
     no_exists = '404' not in soup.find("h1").text
     if no_exists:  # 存在该商品可能被购买
-        price = '.price_now' if soup.select('.price_now') else '.price'
-        area = '.palce_li' if soup.select('.palce_li')else 'c_25d'
-        area_a = list((soup.select('.su_con'))[-2].stripped_strings) if soup.select('.su_con') else None
-        want = '.want_person' if soup.select('.want_person') else None
-        views = '.look_time'
-        data = {
-            'title': soup.title.text.strip(),  # 清洗数据
-            'price': soup.select(price)[0].text.strip(),
-            'area': list(soup.select(area)[0].stripped_strings) if soup.select('.c_25d') or soup.select(
-                '.palce_li') else list((soup.select('.su_con'))[-2].stripped_strings) if soup.select(
-                '.su_con') else None,
-            'want': soup.select(want)[0].text.strip() if soup.select('.want_person') else None,
-            'views': soup.select(views)[0].text.strip() if soup.select(views) else get_views_from2(url),
-            'time': soup.select('.time')[0].text.strip() if soup.select('.time') else None,
-            'cate': '个人' if who == 0 else '商家',
-            'url': url
-        }
-        item_info.insert_one(data)
-        print(data)
+        try:
+            price = '.price_now' if soup.select('.price_now') else '.price'
+            area = '.palce_li' if soup.select('.palce_li')else 'c_25d'
+            area_a = list((soup.select('.su_con'))[-2].stripped_strings) if soup.select('.su_con') else None
+            want = '.want_person' if soup.select('.want_person') else None
+            views = '.look_time'
+            data = {
+                'title': soup.title.text.strip(),  # 清洗数据
+                'price': soup.select(price)[0].text.strip(),
+                'area': list(soup.select(area)[0].stripped_strings) if soup.select('.c_25d') or soup.select('.palce_li') else list((soup.select('.su_con'))[-2].stripped_strings) if soup.select('.su_con') else None,
+                'want': soup.select(want)[0].text.strip() if soup.select('.want_person') else None,
+                'views': soup.select(views)[0].text.strip() if soup.select(views) else get_views_from2(url),
+                'time': soup.select('.time')[0].text.strip() if soup.select('.time') else None,
+                'cate': '个人' if who == 0 else '商家',
+                'url': url,
+            }
+            item_info.insert_one(data)
+            #print(data)
+        except:
+            print('timeover')
     else:
         pass
 
@@ -98,14 +99,21 @@ def get_all_link_from(channel):
     for who in whos:
         for i in range(1, 100):
             urls = get_links_from(channel, who, i)
-            for url in urls:
-                urls = get_item_info(1, url, kv)
-                for url in urls:
-                    get_item_info(who, url, kv)
+
+
+def get_all_items_from(channel):
+    whos = [0, 1]
+    for who in whos:
+        for i in range(1, 100):
+            get_item_info(who, channel, kv)
 
 
 if __name__ == "__main__":
     channels = channel_list.split('\n')
     channels.remove('')
     pool = Pool()                            #多进程
-    pool.map(get_all_link_from, channels)
+    #pool.map(get_all_link_from, channels)
+    urls = []
+    for post in url_list.find():           #多进程分步
+        urls.append(post['url'])
+    pool.map(get_all_items_from, urls)
