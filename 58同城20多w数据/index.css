@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    background: #e1e5e8;
+}
+#page{
+    padding: 0 28px;
+    min-height: 100%;
+    width: 874px;
+    margin: 0 auto;
+    background: white;
+    height: auto !important;
+}

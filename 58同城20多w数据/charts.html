@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>基础柱状图 | Highcharts</title><link rel="stylesheet" href="https://static.jianshukeji.com/highcharts/styles/style-6c9efdce2d.css">
+</head>
+<body>
+<div id="page">
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <div id="container" style="height: 400px; margin: 0 auto;margin-top: -50px;"></div>
+    <script>
+        Highcharts.chart('container', {
+            chart: {
+                type: 'column'
+            },
+            title: {
+                text: '58同城北京地区发帖量'
+            },
+            subtitle: {
+                text: '来自风平浪静的明天'
+            },
+            yAxis: {
+                title: {
+                    text: '发帖量'
+                }
+            },
+            series: [{
+                name: '平谷',
+                data: [174]
+
+            }, {
+                name: '门头沟',
+                data: [217]
+
+            }, {
+                name: '海淀',
+                data: [4577]
+
+            }, {
+                name: '其他省份',
+                data: [4843]
+            },{
+                name: '北京周边',
+                data: [202]
+            },{
+                name: '燕郊',
+                data: [30]
+            },{
+                name: '怀柔',
+                data: [146]
+            },{
+                name: '昌平',
+                data: [3118]
+            },{
+                name: '石景山',
+                data: [787]
+            },{
+                name: '密云',
+                data: [164]
+            },{
+                name: '房山',
+                data: [934]
+            },{
+                name: '崇文',
+                data: [356]
+            },{
+                name: '顺义',
+                data: [1373]
+            },{
+                name: '宣武',
+                data: [638]
+            },{
+                name: '朝阳',
+                data: [8476]
+            },{
+                name: '通州',
+                data: [2625]
+            },{
+                name: '西城',
+                data: [1049]
+            },{
+                name: '大兴',
+                data: [2101]
+            },{
+                name: '延庆',
+                data: [62]
+            },{
+                name: '东城',
+                data: [1092]
+            },{
+                name: '丰台',
+                data: [3496]
+            }]
+        });
+    </script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+    <div id="pie" style="padding-top: 60px; min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+    <script>
+    $(document).ready(function () {
+
+    // Build the chart
+    Highcharts.chart('pie', {
+    chart: {
+    plotBackgroundColor: null,
+    plotBorderWidth: null,
+    plotShadow: false,
+    type: 'pie'
+    },
+    title: {
+    text: '58同城北京地区价格对比'
+    },
+        subtitle:{
+        text: '来自风平浪静的明天'
+    },
+    tooltip: {
+    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+    },
+    plotOptions: {
+    pie: {
+    allowPointSelect: true,
+    cursor: 'pointer',
+    dataLabels: {
+    enabled: false
+    },
+    showInLegend: true
+    }
+    },
+    series: [{
+    name: 'Brands',
+    colorByPoint: true,
+    data: [{
+    name: '0-100',
+    y: 14126
+    }, {
+    name: '100-500',
+    y: 9288,
+    sliced: true,
+    selected: true
+    }, {
+    name: '500-1000',
+    y: 3143
+    }, {
+    name: '1000-1500',
+    y: 1260
+    }, {
+    name: '1500-2000',
+    y: 1080
+    }, {
+    name: '2000-2500',
+    y: 641
+    }, {
+        name: '2500-3000',
+        y: 522
+    }, {
+        name: '3000-3500',
+        y: 205
+    }, {
+        name: '3500-4000',
+        y: 198
+    }, {
+        name: '4000-4500',
+        y: 107
+    }, {
+        name: '4500-5000',
+        y: 111
+    }, {
+        name: '5000-10000',
+        y: 848
+    }, {
+        name: '万元以上',
+        y: 849
+    }, {
+        name:'面议',
+        y: 94
+    }]
+    }]
+    });
+    });
+    </script>
+</div>
+</body>
+</html>
