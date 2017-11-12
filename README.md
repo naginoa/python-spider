@@ -110,3 +110,5 @@ plt.show()
 ![Image text](https://github.com/naginoasukara/python-spider/blob/master/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82/image/3.png)
 
 在北师大大佬面前瑟瑟发抖
+
+有人找我做淘宝......
