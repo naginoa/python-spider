@@ -79,8 +79,7 @@ import xlrd
 
 # 1、读入xls文本数据
 data = xlrd.open_workbook('data.xls')
-table = data.sheets()[0]
-nrows = table.nrows
+table = data.sheets()[0]nrows = table.nrows
 text = ''
 for i in range(nrows):
     colnames =  table.row_values(i) #某一行数据
@@ -124,10 +123,16 @@ plt.show()
 
 \sum_{j = 1}^n a_{ij} = 1 \
 
-<img src="http://latex.codecogs.com/gif.latex?P_i(n+1)=\sum_{j}P_j(n)P_{j->i}/N_j">             ①
+<img src="http://latex.codecogs.com/gif.latex?P_i(n+1)=\sum_{j}P_j(n)P_{j->i}/N_j">             
 
 <img src="http://latex.codecogs.com/gif.latex?P_{n+1}=HP_n">
 
 <img src="http://latex.codecogs.com/gif.latex?P_{n}=H^nP_0">
 
-<img src="http://latex.codecogs.com/gif.latex?x=\{a_1,a_2,...,a_m\}">
+<img src="http://latex.codecogs.com/gif.latex?S=H+ea^t/N">
+
+<img src="http://latex.codecogs.com/gif.latex?G=αS+(1-α)ee^T/N">
+
+<img src="http://latex.codecogs.com/gif.latex?P_n=G_nP_0">
+
+pn = Gnp0 
