@@ -133,6 +133,4 @@ plt.show()
 
 <img src="http://latex.codecogs.com/gif.latex?G=αS+(1-α)ee^T/N">
 
-<img src="http://latex.codecogs.com/gif.latex?P_n=G_nP_0">
-
-pn = Gnp0 
+<img src="http://latex.codecogs.com/gif.latex?P_n=G^nP_0">
