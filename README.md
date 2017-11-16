@@ -126,4 +126,6 @@ plt.show()
 
 <img src="http://latex.codecogs.com/gif.latex?P_i(n+1)=\sum_{j}P_j(n)P_{j->i}/N_j">
 
+<img src="http://latex.codecogs.com/gif.latex?P_n+1=HP_n">
+
 <img src="http://latex.codecogs.com/gif.latex?x=\{a_1,a_2,...,a_m\}">
