@@ -69,6 +69,8 @@ pageindex表示从第几页开始，relativeoffset表示这些数据段所处的
 代码：
 
 ```python
+
+
 import matplotlib.pyplot as plt  # 数学绘图库
 import jieba  # 分词库
 from wordcloud import WordCloud  # 词云库
@@ -121,4 +123,6 @@ plt.show()
 
 # pagerank
 
-\[ A = \alpha S + \frac{(1 - \alpha)}{N}ee^T \]
+\sum_{j = 1}^n a_{ij} = 1 \
+
+<img src="http://latex.codecogs.com/gif.latex?\sum{j = 1}^n a_{ij} = 1\">
