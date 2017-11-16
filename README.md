@@ -126,3 +126,5 @@ plt.show()
 \sum_{j = 1}^n a_{ij} = 1 \
 
 <img src="http://latex.codecogs.com/gif.latex?\sum{j = 1}^n a_{ij} = 1\">
+
+<img src="http://latex.codecogs.com/gif.latex?x=\{a_1,a_2,...,a_m\}">
