@@ -62,6 +62,8 @@ pageindex表示从第几页开始，relativeoffset表示这些数据段所处的
 
 2.使用jieba中文分词进行分词。
 
+
+
 3.使用wordcloud进行统计词频，使用中文字体库，并且可以更换背景轮廓，进行制图。
 
 代码：
@@ -116,3 +118,7 @@ plt.show()
 在北师大大佬面前瑟瑟发抖
 
 有人找我做淘宝......
+
+# pagerank
+
+\[ A = \alpha S + \frac{(1 - \alpha)}{N}ee^T \]
