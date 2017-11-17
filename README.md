@@ -143,7 +143,7 @@ plt.show()
 <img src="http://latex.codecogs.com/gif.latex?P_{n}=H^nP_0">
 
 其中 p0 为虚拟读者初次浏览时访问各网页的几率分布 (在佩奇和布林的原始论文中， 这一几率分布被假定为是均匀分布)。
-
+\
 ## 2.问题及解决
 
 如前所述， 佩奇和布林是用虚拟用户在经过很长——理论上为无穷长——时间的漫游后访问各网页的几率分布， 即 limn→∞pn， 来确定网页排序的。 这个定义要想管用， 显然要解决三个问题： 
@@ -178,7 +178,7 @@ plt.show()
        
 继续假设B也有链接到C，并且D也有链接到包括A的3个页面。一个页面不能投票2次。所以B给每个页面半票。以同样的逻辑，D投出的票只有三分之一算到了A的PageRank上。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{2}+PR(C)+PR(D)/3">
+<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{2}+\frac{PR(C)}{1}+\frac{PR(D)}{3}">
        
 换句话说，根据链出总数平分一个页面的PR值。
        
