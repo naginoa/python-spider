@@ -136,7 +136,6 @@ plt.show()
 <img src="http://latex.codecogs.com/gif.latex?P_{n+1}=HP_n">
 
 熟悉随机过程理论的读者想必看出来了， 上述公式描述的是一种马尔可夫过程 (Markov process)， 而且是其中最简单的一类， 即所谓的平稳马尔可夫过程 (stationary Markov process)， 而 H 则是描述马尔可夫过程中的转移概率分布的所谓转移矩阵 (transition matrix)。 不过普通马尔可夫过程中的转移矩阵通常是随机矩阵 (stochastic matrix)， 即每一列的矩阵元之和都为 1 的矩阵 (请读者想一想， 这一特点的 “物理意义” 是什么？)。 而我们的矩阵 H 却可能有一些列是零向量， 从而矩阵元之和为 0， 它们对应于那些没有对外链接的网页， 即所谓的 “悬挂网页” (dangling page)。 
-
 <img src="http://latex.codecogs.com/gif.latex?P_{n}=H^nP_0">
 \其中 p0 为虚拟读者初次浏览时访问各网页的几率分布 (在佩奇和布林的原始论文中， 这一几率分布被假定为是均匀分布)。\
 ## 2.问题及解决
@@ -177,7 +176,7 @@ plt.show()
        
 换句话说，根据链出总数平分一个页面的PR值。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{L}+\frac{PR(C)}{1}+\frac{PR(D)}{3}">
+<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{(B)}+\frac{PR(C)}{1}+\frac{PR(D)}{3}">
 
 由于存在一些出链为0，也就是那些不链接任何其他网页的网， 也称为孤立网页，使得很多网页能被访问到。因此需要对 PageRank公式进行修正，即在简单公式的基础上增加了阻尼系数（damping factor）q， q一般取值q=0.85。
 
