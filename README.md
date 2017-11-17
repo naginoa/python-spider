@@ -187,3 +187,6 @@ plt.show()
 <img src="http://latex.codecogs.com/gif.latex?PR(A)=PR(B)/L(B)+PR(C)/L(C)+PR(D)/L(D)">
       
 这个公式就是.S Brin 和 L. Page 在《The Anatomy of a Large- scale Hypertextual Web Search Engine Computer Networks and ISDN Systems 》定义的公式。
+
+
+<img src="http://latex.codecogs.com/gif.latex?P=\frac{P}{B}">
