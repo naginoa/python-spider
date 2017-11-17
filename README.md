@@ -183,7 +183,7 @@ plt.show()
 
 最后，即所有这些被换算为一个百分比再乘上一个系数q。由于下面的算法，没有页面的PageRank会是0。所以，Google通过数学系统给了每个页面一个最小值。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=PR(B)/L(B)+PR(C)/L(C)+PR(D)/L(D)">
+<img src="http://latex.codecogs.com/gif.latex?PR(A)=(PR(B)/L(B)+PR(C)/L(C)+PR(D)/L(D))*q+(1-q)">
       
 这个公式就是.S Brin 和 L. Page 在《The Anatomy of a Large- scale Hypertextual Web Search Engine Computer Networks and ISDN Systems 》定义的公式。
 
