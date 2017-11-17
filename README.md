@@ -178,7 +178,7 @@ plt.show()
        
 继续假设B也有链接到C，并且D也有链接到包括A的3个页面。一个页面不能投票2次。所以B给每个页面半票。以同样的逻辑，D投出的票只有三分之一算到了A的PageRank上。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=PR(B)/2+PR(C)+PR(D)/3">
+<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{2}+PR(C)+PR(D)/3">
        
 换句话说，根据链出总数平分一个页面的PR值。
        
