@@ -176,7 +176,7 @@ plt.show()
        
 换句话说，根据链出总数平分一个页面的PR值。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{(B)}+\frac{PR(C)}{1}+\frac{PR(D)}{3}">
+<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{P(B)}+\frac{PR(C)}{P(B)}+\frac{PR(D)}{P(B)}">
 
 由于存在一些出链为0，也就是那些不链接任何其他网页的网， 也称为孤立网页，使得很多网页能被访问到。因此需要对 PageRank公式进行修正，即在简单公式的基础上增加了阻尼系数（damping factor）q， q一般取值q=0.85。
 
