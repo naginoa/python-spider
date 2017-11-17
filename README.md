@@ -167,15 +167,15 @@ plt.show()
 
 假设一个由只有4个页面组成的集合：A，B，C和D。如果所有页面都链向A，那么A的PR（PageRank）值将是B，C及D的和。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=PR(B)+PR(C)+PR(D)">
+<img src="http://img.my.csdn.net/uploads/201209/20/1348120060_7086.png">
        
 继续假设B也有链接到C，并且D也有链接到包括A的3个页面。一个页面不能投票2次。所以B给每个页面半票。以同样的逻辑，D投出的票只有三分之一算到了A的PageRank上。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=\frac{PR(B)}{2}+\frac{PR(C)}{1}+\frac{PR(D)}{3}">
+<img src="http://img.my.csdn.net/uploads/201209/20/1348120099_6078.png">
        
 换句话说，根据链出总数平分一个页面的PR值。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=PR(B)/L(B)+PR(C)/L(C)+PR(D)/L(D)">
+<img src="http://img.my.csdn.net/uploads/201209/20/1348120123_5802.png">
 
 由于存在一些出链为0，也就是那些不链接任何其他网页的网， 也称为孤立网页，使得很多网页能被访问到。因此需要对 PageRank公式进行修正，即在简单公式的基础上增加了阻尼系数（damping factor）q， q一般取值q=0.85。
 
@@ -183,7 +183,7 @@ plt.show()
 
 最后，即所有这些被换算为一个百分比再乘上一个系数q。由于下面的算法，没有页面的PageRank会是0。所以，Google通过数学系统给了每个页面一个最小值。
 
-<img src="http://latex.codecogs.com/gif.latex?PR(A)=(PR(B)/L(B)+PR(C)/L(C)+PR(D)/L(D))*q+(1-q)">
+<img src="http://img.my.csdn.net/uploads/201209/20/1348120862_4424.png">
       
 这个公式就是.S Brin 和 L. Page 在《The Anatomy of a Large- scale Hypertextual Web Search Engine Computer Networks and ISDN Systems 》定义的公式。
 
