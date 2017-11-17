@@ -187,3 +187,16 @@ plt.show()
       
 这个公式就是.S Brin 和 L. Page 在《The Anatomy of a Large- scale Hypertextual Web Search Engine Computer Networks and ISDN Systems 》定义的公式。
 
+-------------------------------------------
+
+重点来了！！！！！
+
+在最后一个式子中，阻尼系数乘原来的式子表示有该几率是原来的情况。而（1-q）表示会有（1-q）的几率跳转到一个新的页面，那么为何计算pagerank值是直接加（1-q）而不是（1-q）*1/N，1/N 表示 随机跳转到一个页面的几率，符合之前的思想。
+
+查阅资料，英文版的wiki：
+
+<a href="https://en.wikipedia.org/wiki/PageRank" >点此跳转</a>
+
+其中有提到，英文原文的公式是上图，但是再后来的时候有修改为我们一个认为的正确的方式：
+
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c3da6d608ba21cac0bbfc96e59615ffe8f33360">
