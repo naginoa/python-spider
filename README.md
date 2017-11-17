@@ -200,3 +200,5 @@ plt.show()
 其中有提到，英文原文的公式是上图，但是再后来的时候有修改为我们一个认为的正确的方式：
 
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c3da6d608ba21cac0bbfc96e59615ffe8f33360">
+
+然后我分别使用了pygragh模块，制作了简单的图和实现。还有MapReduce版本的，注释在代码中，详情可以去看。
