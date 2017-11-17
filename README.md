@@ -188,4 +188,4 @@ plt.show()
 这个公式就是.S Brin 和 L. Page 在《The Anatomy of a Large- scale Hypertextual Web Search Engine Computer Networks and ISDN Systems 》定义的公式。
 
 
-<img src="http://latex.codecogs.com/gif.latex?p=\frac{1}{2}">
+<img src="http://latex.codecogs.com/gif.latex?P(y_i|x)=\frac{P(x|y_i)P(y_i)}{P(x)}">
